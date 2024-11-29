@@ -1,0 +1,17 @@
+{
+  "symbol": "FMAO",
+  "company_name": "Farmers & Merch Banc",
+  "ir_website": "https://www.fmbank.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "2024 Financial Results",
+          "url": "https://www.fmbank.com/press-releases/2024-financial-results.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.fmbank.com', port=443): Max retries exceeded with url: /press-releases/2024-financial-results.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x000001BDE8ADB6D0>, 'Connection to www.fmbank.com timed out. (connect timeout=None)'))"
+        }
+      ]
+    }
+  ]
+}

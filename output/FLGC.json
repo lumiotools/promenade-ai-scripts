@@ -1,0 +1,27 @@
+{
+  "symbol": "FLGC",
+  "company_name": "Flora Growth Corp",
+  "ir_website": "https://www.floragrowth.com/investors",
+  "structured_data": [
+    {
+      "section_name": "Error Information",
+      "links": [
+        {
+          "title": "Your connection is not private",
+          "url": "https://www.floragrowth.com/#main-message",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://www.floragrowth.com\n"
+        },
+        {
+          "title": "Learn more about this warning",
+          "url": "https://www.floragrowth.com/#learn-more-link",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://www.floragrowth.com\n"
+        },
+        {
+          "title": "Proceed to www.floragrowth.com (unsafe)",
+          "url": "https://www.floragrowth.com/#proceed-link",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://www.floragrowth.com\n"
+        }
+      ]
+    }
+  ]
+}
