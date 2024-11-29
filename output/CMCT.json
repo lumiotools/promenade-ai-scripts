@@ -1,0 +1,57 @@
+{
+  "symbol": "CMCT",
+  "company_name": "Creative Media & Community Trust Corp",
+  "ir_website": "https://www.cmct.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Investor Presentations",
+      "links": [
+        {
+          "title": "2024 Investor Presentation",
+          "url": "https://www.cmct.com/investor-presentations/2024-presentation.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.cmct.com', port=443): Max retries exceeded with url: /investor-presentations/2024-presentation.pdf (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cmct.com'. (_ssl.c:1000)\")))"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Results",
+          "url": "https://www.cmct.com/financial-reports/q1-2024-results.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.cmct.com', port=443): Max retries exceeded with url: /financial-reports/q1-2024-results.pdf (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cmct.com'. (_ssl.c:1000)\")))"
+        },
+        {
+          "title": "Q2 2024 Financial Results",
+          "url": "https://www.cmct.com/financial-reports/q2-2024-results.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.cmct.com', port=443): Max retries exceeded with url: /financial-reports/q2-2024-results.pdf (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cmct.com'. (_ssl.c:1000)\")))"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release - New Partnership Announcement",
+          "url": "https://www.cmct.com/press-releases/new-partnership-2024.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.cmct.com', port=443): Max retries exceeded with url: /press-releases/new-partnership-2024.pdf (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cmct.com'. (_ssl.c:1000)\")))"
+        },
+        {
+          "title": "Press Release - Earnings Call Details",
+          "url": "https://www.cmct.com/press-releases/q1-2024-earnings-call.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.cmct.com', port=443): Max retries exceeded with url: /press-releases/q1-2024-earnings-call.pdf (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cmct.com'. (_ssl.c:1000)\")))"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "News Article - CMCT Achieves Record Growth in 2024",
+          "url": "https://www.cmct.com/news/record-growth-2024.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.cmct.com', port=443): Max retries exceeded with url: /news/record-growth-2024.pdf (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.cmct.com'. (_ssl.c:1000)\")))"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "BRFH",
+  "company_name": "Barfresh Food Group",
+  "ir_website": "http://www.barfresh.com/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "Investor Resources",
+      "links": [
+        {
+          "title": "Investors Verification Conf",
+          "url": "https://www.barfresh.com/investors-confirmation/",
+          "content": "[![Barfresh - Premeasured | Prepackaged | Perfection](https://www.barfresh.com/wp-content/uploads/2018/06/barfresh_logo_singleline.png)](https://www.barfresh.com)\n\n## **Investor Email Alerts**\n\n### Email Alert Sign Up Confirmation\n\n### ![](https://www.barfresh.com/wp-content/uploads/2022/03/Capture.png) Thank you for signing up for our mailing list. An activation email will be sent to you shortly.\n\n[](#)\n"
+        },
+        {
+          "title": "Investors Verification Conf",
+          "url": "https://www.barfresh.com/investor-resources-email-alerts-and-rss-email-alert-activation-default-aspxtokene2644aff-8c1c-4f6b-a95b-76797173d21b/",
+          "content": "[![Barfresh - Premeasured | Prepackaged | Perfection](https://www.barfresh.com/wp-content/uploads/2018/06/barfresh_logo_singleline.png)](https://www.barfresh.com)\n\n## **Investor Email Alerts**\n\n### Email Alert Sign Up Confirmation\n\n###### ![](https://www.barfresh.com/wp-content/uploads/2022/03/Capture.png) Thank you for signing up for our mailing list. \n\n[](#)\n"
+        }
+      ]
+    }
+  ]
+}
