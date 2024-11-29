@@ -1,0 +1,22 @@
+{
+  "symbol": "BRRR",
+  "company_name": "Coinshares Valkyrie Bitcoin Fund",
+  "ir_website": "https://coinshares.com/investors",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Company Overview and Future Prospects",
+          "url": "https://coinshares.com/news/company-overview-and-future-prospects",
+          "content": "\n"
+        },
+        {
+          "title": "New Investment Strategies for 2024",
+          "url": "https://coinshares.com/news/new-investment-strategies-for-2024",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}
