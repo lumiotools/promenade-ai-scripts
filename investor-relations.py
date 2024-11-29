@@ -1,7 +1,8 @@
 from scrapers.initialize import initialize_browser
-from scrapers.scrape_page import scrape_page, extract_text_from_html
+from scrapers.scrape_page import scrape_page
 from ai.get_ir_website import get_ir_website
 from ai.process_ir_page import analyze_html_with_openai
+
 
 def main(company_name):
     driver = initialize_browser()
@@ -19,8 +20,10 @@ def main(company_name):
     driver.quit()
 
     # Step 3: Analyze the HTML with OpenAI
-    structured_data = analyze_html_with_openai(html_content)
-    print(f"Structured Data:\n{structured_data}")
+    structured_data = analyze_html_with_openai(html_content, ir_website)
+    print(f"Structured Data:")
+    print(structured_data)
+
 
 if __name__ == "__main__":
     company_name = "Apple Inc."  # Replace with the desired company
