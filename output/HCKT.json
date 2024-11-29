@@ -1,0 +1,17 @@
+{
+  "symbol": "HCKT",
+  "company_name": "Hackett Grp Inc",
+  "ir_website": "https://www.thehackettgroup.com/about/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Hackett Annual Report 2023",
+          "url": "https://www.thehackettgroup.com/wp-content/uploads/2024/03/cover-hackett-annual-report-2023.png",
+          "content": "![](https://www.thehackettgroup.com/wp-content/uploads/2024/03/cover-hackett-annual-report-2023.png)\n"
+        }
+      ]
+    }
+  ]
+}

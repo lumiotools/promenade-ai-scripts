@@ -1,0 +1,52 @@
+{
+  "symbol": "LNZAW",
+  "company_name": "Lanzatech Global Inc WT",
+  "ir_website": "https://ir.lanzatech.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Call Transcript",
+          "url": "https://ir.lanzatech.com/q1-2024-earnings-call-transcript",
+          "content": "# Not Found\n\nThe requested URL \"/q1-2024-earnings-call-transcript\" was not found on this server.\n"
+        },
+        {
+          "title": "2024 Annual Report",
+          "url": "https://ir.lanzatech.com/2024-annual-report.pdf",
+          "content": "Error extracting PDF content: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "LanzaTech Announces Strategic Partnership for 2024",
+          "url": "https://ir.lanzatech.com/lanzatech-announces-strategic-partnership-2024",
+          "content": "# Not Found\n\nThe requested URL \"/lanzatech-announces-strategic-partnership-2024\" was not found on this server.\n"
+        },
+        {
+          "title": "LanzaTech Reports Q1 2024 Financial Results",
+          "url": "https://ir.lanzatech.com/q1-2024-financial-results",
+          "content": "# Not Found\n\nThe requested URL \"/q1-2024-financial-results\" was not found on this server.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Innovations in Sustainable Fuel by LanzaTech",
+          "url": "https://ir.lanzatech.com/innovations-in-sustainable-fuel",
+          "content": "# Not Found\n\nThe requested URL \"/innovations-in-sustainable-fuel\" was not found on this server.\n"
+        },
+        {
+          "title": "LanzaTech's Leading Role in the Circular Economy",
+          "url": "https://ir.lanzatech.com/circular-economy-leadership",
+          "content": "# Not Found\n\nThe requested URL \"/circular-economy-leadership\" was not found on this server.\n"
+        }
+      ]
+    }
+  ]
+}

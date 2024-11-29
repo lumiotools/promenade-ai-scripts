@@ -1,0 +1,17 @@
+{
+  "symbol": "GVP",
+  "company_name": "GSE Systems",
+  "ir_website": "https://www.gses.com/about/investors/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "GSE Solutions and Pelican Energy Partners Announce Closing of Merger",
+          "url": "https://www.gses.com/news/gse-solutions-and-pelican-energy-partners-announce-closing-of-merger/",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

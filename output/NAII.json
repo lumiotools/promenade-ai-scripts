@@ -1,0 +1,47 @@
+{
+  "symbol": "NAII",
+  "company_name": "Natural Alternativ",
+  "ir_website": "https://naturalalternativesinternationalinc.gcs-web.com/financial-information/annual-reports",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Download 2024 Annual Report and Form 10-K",
+          "url": "https://naturalalternativesinternationalinc.gcs-web.com/static-files/02d37143-625f-47c1-95c6-9c21eda6422d",
+          "content": "\n"
+        },
+        {
+          "title": "Download 2023 Annual Report and Form 10-K",
+          "url": "https://naturalalternativesinternationalinc.gcs-web.com/static-files/3523993e-2dae-4930-bd37-07ceb6a7fefc",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "News / Press Releases",
+      "links": [
+        {
+          "title": "Download 2024 Annual Report and Form 10-K",
+          "url": "https://naturalalternativesinternationalinc.gcs-web.com/static-files/e542506c-8f47-47fe-a0dd-0d6cda7417fc",
+          "content": "\n"
+        },
+        {
+          "title": "Download 2019 Annual Report and Form 10-K",
+          "url": "https://naturalalternativesinternationalinc.gcs-web.com/static-files/079375f7-caa0-45b8-a380-0e04245343a3",
+          "content": "\n"
+        },
+        {
+          "title": "Download 2018 Annual Report and Form 10-K",
+          "url": "https://naturalalternativesinternationalinc.gcs-web.com/static-files/0658a766-a574-4eaa-aed6-8459178fe1e1",
+          "content": "\n"
+        },
+        {
+          "title": "Download 2016 Annual Report and Form 10-K",
+          "url": "https://naturalalternativesinternationalinc.gcs-web.com/static-files/2c7af3c1-fddd-4527-b1c3-27c7e3dabf7e",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

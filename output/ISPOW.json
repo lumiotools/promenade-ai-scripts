@@ -1,0 +1,52 @@
+{
+  "symbol": "ISPOW",
+  "company_name": "Inspirato Inc WT",
+  "ir_website": "https://investor.inspirato.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Inspirato Announces Agreement with Strategic Entities",
+          "url": "https://investor.inspirato.com/inspirato-announces-agreement-with-strategic-entities",
+          "content": "# Not Found\n\nThe requested URL \"/inspirato-announces-agreement-with-strategic-entities\" was not found on this server.\n"
+        },
+        {
+          "title": "Inspirato Launches New Luxury Travel Experience",
+          "url": "https://investor.inspirato.com/inspirato-launches-new-luxury-travel-experience",
+          "content": "# Not Found\n\nThe requested URL \"/inspirato-launches-new-luxury-travel-experience\" was not found on this server.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Results",
+          "url": "https://investor.inspirato.com/q1-2024-financial-results",
+          "content": "# Not Found\n\nThe requested URL \"/q1-2024-financial-results\" was not found on this server.\n"
+        },
+        {
+          "title": "Annual Report 2023",
+          "url": "https://investor.inspirato.com/annual-report-2023",
+          "content": "# Not Found\n\nThe requested URL \"/annual-report-2023\" was not found on this server.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Inspirato to Host Investor Day 2024",
+          "url": "https://investor.inspirato.com/investor-day-2024",
+          "content": "# Not Found\n\nThe requested URL \"/investor-day-2024\" was not found on this server.\n"
+        },
+        {
+          "title": "Inspirato Appoints New CEO",
+          "url": "https://investor.inspirato.com/appoints-new-ceo",
+          "content": "# Not Found\n\nThe requested URL \"/appoints-new-ceo\" was not found on this server.\n"
+        }
+      ]
+    }
+  ]
+}

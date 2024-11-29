@@ -1,0 +1,17 @@
+{
+  "symbol": "NCI",
+  "company_name": "Neo-Concept International Group Holdings Limited",
+  "ir_website": "https://ir.neo-ig.com/",
+  "structured_data": [
+    {
+      "section_name": "Error Information",
+      "links": [
+        {
+          "title": "ERR_DNS_NO_MATCHING_SUPPORTED_ALPN",
+          "url": "https://ir.neo-ig.com",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

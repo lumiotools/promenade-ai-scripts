@@ -1,0 +1,17 @@
+{
+  "symbol": "HCM",
+  "company_name": "Hutchmed China Ltd ADR",
+  "ir_website": "https://www.hutch-med.com/shareholder-information/information-for-shareholders/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports & Filings",
+      "links": [
+        {
+          "title": "Modern Slavery and Human Trafficking Statement",
+          "url": "https://www.hutch-med.com/wp-content/uploads/2024/07/20240628_e_Modern-Slavery-and-Human-Trafficking-Statement.pdf",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

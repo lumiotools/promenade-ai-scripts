@@ -1,0 +1,17 @@
+{
+  "symbol": "NAMSW",
+  "company_name": "Newamsterdam Pharma Company N.V. WT",
+  "ir_website": "https://ir.newamsterdampharma.com/",
+  "structured_data": [
+    {
+      "section_name": "Error Details",
+      "links": [
+        {
+          "title": "Error Code Details",
+          "url": "https://ir.newamsterdampharma.com/error/details",
+          "content": "# Not Found\n\nThe requested URL \"/error/details\" was not found on this server.\n"
+        }
+      ]
+    }
+  ]
+}

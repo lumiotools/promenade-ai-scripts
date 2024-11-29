@@ -1,0 +1,27 @@
+{
+  "symbol": "NBTB",
+  "company_name": "NBT Bancorp Inc",
+  "ir_website": "https://nbtbancorp.gcs-web.com/static-files/22e12cdc-a8f4-455f-a94a-df7b3a5e3cd3",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Q1 2024 Press Release",
+          "url": "https://nbtbancorp.gcs-web.com/static-files/22e12cdc-a8f4-455f-a94a-df7b3a5e3cd3",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Financial Report",
+          "url": "https://nbtbancorp.gcs-web.com/static-files/2024-annual-report.pdf",
+          "content": "Error extracting PDF content: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        }
+      ]
+    }
+  ]
+}

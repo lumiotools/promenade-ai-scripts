@@ -1,0 +1,42 @@
+{
+  "symbol": "HITI",
+  "company_name": "High Tide Inc",
+  "ir_website": "https://hightideinc.com/invest/",
+  "structured_data": [
+    {
+      "section_name": "Debugging Information",
+      "links": [
+        {
+          "title": "Error Code",
+          "url": "https://hightideinc.com/#error-code",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://hightideinc.com\n"
+        },
+        {
+          "title": "Subject",
+          "url": "https://hightideinc.com/#subject",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://hightideinc.com\n"
+        },
+        {
+          "title": "Issuer",
+          "url": "https://hightideinc.com/#issuer",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://hightideinc.com\n"
+        },
+        {
+          "title": "Expires on",
+          "url": "https://hightideinc.com/#expiration-date",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://hightideinc.com\n"
+        },
+        {
+          "title": "Current date",
+          "url": "https://hightideinc.com/#current-date",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://hightideinc.com\n"
+        },
+        {
+          "title": "PEM encoded chain",
+          "url": "https://hightideinc.com/#pem",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://hightideinc.com\n"
+        }
+      ]
+    }
+  ]
+}

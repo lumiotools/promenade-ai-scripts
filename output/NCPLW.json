@@ -1,0 +1,17 @@
+{
+  "symbol": "NCPLW",
+  "company_name": "Netcapital Inc WT",
+  "ir_website": "https://netcapital.com/investors",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Investing in Alternative Assets",
+          "url": "https://netcapital.com/news/investing-in-alternative-assets",
+          "content": "# Incorrect address\n\nThe page you’re trying to access doesn’t exist. If you typed it, double-check your spelling. Otherwise:\n\n[Go to our home page](/)\n"
+        }
+      ]
+    }
+  ]
+}

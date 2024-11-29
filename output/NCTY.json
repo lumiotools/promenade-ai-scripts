@@ -1,0 +1,52 @@
+{
+  "symbol": "NCTY",
+  "company_name": "The9 Ltd ADR",
+  "ir_website": "https://www.the9.com/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Latest Developments",
+          "url": "https://www.the9.com/news/latest-developments",
+          "content": "\n"
+        },
+        {
+          "title": "Company Insights",
+          "url": "https://www.the9.com/news/company-insights",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Report",
+          "url": "https://www.the9.com/financial-reports/q1-2024-earnings",
+          "content": "\n"
+        },
+        {
+          "title": "Annual Financial Summary 2024",
+          "url": "https://www.the9.com/financial-reports/annual-summary-2024",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release: Q1 2024 Results",
+          "url": "https://www.the9.com/press-releases/q1-2024-results",
+          "content": "\n"
+        },
+        {
+          "title": "Press Release: New Partnerships Announced",
+          "url": "https://www.the9.com/press-releases/new-partnerships-2024",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}
