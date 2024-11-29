@@ -1,0 +1,47 @@
+{
+  "symbol": "AEHL",
+  "company_name": "Antelope Enterprise Hldg Ltd",
+  "ir_website": "https://aehltd.com/ir/press-releases",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release 1 - Sample Title",
+          "url": "https://aehltd.com/press-release-1.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "Press Release 2 - Sample Title",
+          "url": "https://aehltd.com/press-release-2.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filing 1 - Sample Title",
+          "url": "https://aehltd.com/sec-filing-1.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "SEC Filing 2 - Sample Title",
+          "url": "https://aehltd.com/sec-filing-2.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "Stock Information",
+      "links": [
+        {
+          "title": "Stock Information 1 - Sample Title",
+          "url": "https://aehltd.com/stock-information-1.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    }
+  ]
+}

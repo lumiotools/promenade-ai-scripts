@@ -1,0 +1,37 @@
+{
+  "symbol": "BSJW",
+  "company_name": "Invesco Bulletshares 2032 High Yield Corporate B",
+  "ir_website": "https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=BSJW",
+  "structured_data": [
+    {
+      "section_name": "Documents",
+      "links": [
+        {
+          "title": "Annual Report",
+          "url": "https://connect.rightprospectus.com/Invesco/TADF/46139W775/AR",
+          "content": "\n"
+        },
+        {
+          "title": "Prospectus",
+          "url": "https://connect.rightprospectus.com/Invesco/TADF/46139W775/P",
+          "content": "\n"
+        },
+        {
+          "title": "Semiannual Report",
+          "url": "https://connect.rightprospectus.com/Invesco/TADF/46139W775/SAR",
+          "content": "\n"
+        },
+        {
+          "title": "SAI",
+          "url": "https://connect.rightprospectus.com/Invesco/TADF/46139W775/S",
+          "content": "\n"
+        },
+        {
+          "title": "Fact Sheet",
+          "url": "https://www.invesco.com/us-rest/contentdetail?contentId=3634a53d-1f4a-40e3-a71b-22ae93096025&dnsName=us",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

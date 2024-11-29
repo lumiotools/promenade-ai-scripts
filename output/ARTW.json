@@ -1,0 +1,47 @@
+{
+  "symbol": "ARTW",
+  "company_name": "Art S Way MFG Company",
+  "ir_website": "https://artsway-mfg.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "ART’S WAY MANUFACTURING LAUNCHES NEW BRANDING.",
+          "url": "https://artsway-mfg.com/arts-way-manufacturing-launches-new-branding/",
+          "content": null
+        },
+        {
+          "title": "New Art’s Way 2100 series forage box unloads like a fire hose",
+          "url": "https://artsway-mfg.com/new-arts-way-2100-series-forage-box-unloads-like-a-fire-hose/",
+          "content": null
+        },
+        {
+          "title": "ART’S WAY ENHANCES INDUSTRY-LEADING EQUIPMENT",
+          "url": "https://artsway-mfg.com/arts-way-enhances-industry-leading-equipment/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://artsway-mfg.com/press-releases/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Financials and Filings",
+          "url": "https://artsway-mfg.com/financials-and-filings/",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

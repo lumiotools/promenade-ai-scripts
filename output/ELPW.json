@@ -1,0 +1,47 @@
+{
+  "symbol": "ELPW",
+  "company_name": "Elong Power Holding Limited",
+  "ir_website": "https://www.elongpower.com/en/investor/",
+  "structured_data": [
+    {
+      "section_name": "Investor Relations",
+      "links": [
+        {
+          "title": "2023 Second Half Report",
+          "url": "https://www.elongpower.com/wp-content/uploads/2024/08/Group-1312317425.svg",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Latest Announcement",
+      "links": [
+        {
+          "title": "Elong Power Technology Co., Ltd. released the latest announcement",
+          "url": "https://www.elongpower.com/wp-content/uploads/2024/08/Group-440.svg",
+          "content": null
+        },
+        {
+          "title": "Elong Power Technology Co., Ltd. released the latest announcement",
+          "url": "https://www.elongpower.com/wp-content/uploads/2024/08/Group-440.svg",
+          "content": null
+        },
+        {
+          "title": "Elong Power Technology Co., Ltd. released the latest announcement",
+          "url": "https://www.elongpower.com/wp-content/uploads/2024/08/Group-440.svg",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Performance Report",
+      "links": [
+        {
+          "title": "2023 Second Half Report",
+          "url": "https://www.elongpower.com/wp-content/uploads/2024/08/Group-1312317425.svg",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

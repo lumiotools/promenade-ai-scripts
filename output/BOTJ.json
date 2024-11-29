@@ -1,0 +1,27 @@
+{
+  "symbol": "BOTJ",
+  "company_name": "Bank of The Jame Fnl",
+  "ir_website": "https://www.bankofthejames.bank/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Latest News",
+          "url": "https://www.bankofthejames.bank/news/",
+          "content": "# 403 Forbidden\n\nnginx\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Fee Schedule",
+          "url": "https://www.bankofthejames.bank/wp-content/uploads/2023/08/Fee_Schedule_6-1-2023_-_with_logo.pdf",
+          "content": "SERVICE FEES\nAccount Closed Within 90 days\nFee paid in cash at time of transaction…………………......................................$..1..5....0..0..........................\nACH - same day - per transaction fee ………...…...……..……………. $20.00\n*Electronically submitted ACH same day - per transaction fee $40.00\nRecurring ACH transfer ……………………..……….....……..………………. $3.00\nAccount Research Fee (per hour)........................................................... $25.00\nATM/Debit Card\nReplacement card fee………………………………………………………………………...………$…10….0…0……...…………….\nYou may incur fees if using a non-BOTJ ATM\nCashier’s Checks\nCustomer Checks…………………………………………………………………………...………….$…1…0….0…0……...…………….\nNon-Customer checks (certain restrictions apply) …........................ $25.00\nCashing non-customer check (government issued) $8.00\nChristmas Club Early Withdrawal (per transaction) …...................... $10.00\nChristmas Club Check issued at end of term …............................ $10.00\nCounter Checks (per page of four)……………………………………………………………………$5….0…0…………………….………………...………….…..\nDeposit Zipper Bag……………………………………………………………………………………………$5….0..0……….……………….\nDormant Account Service Fee…............................................................ $7.00\nForeign Currency Exchange/Purchase………...……………………….………… Fee Varies\nNight Depository Lock Bag……………………………………………………………………………$…3…5….0…0….…………..………………..\nOverdraft/Nonsufficient Funds (NSF) Fees\nPer Item (Check, Electronic Draft) Per Presentment….................. $35.00\nPaper Statement Fee ( Request Outside of Statement Cycle,\nJefferson Checking….................................................................... $4.00\nReplace Lost Cashier’s Check…………………………………………………………………………$…25...…0…0……..………………\nReturned Deposited (Or Cashed) Item…………………………………………………………$…1…0….0…0.…………..………………..\nReturned Check Or Returned Electronic Draft\nfor Loan Payment…..................................................................... $35.00\nSafe Deposit Boxes\nCheck branch location for availability and pricing\nSafe Deposit Box – lost key (1)…………………………………………………………………$.7…5….0…0…….…………………\nSafe Deposit Box – both keys lost ……………………………………..……………….…$…15…0....00\nStop Payment on Check or ACH ……………...………………………....………….….. $35.00\nTransfers\nIncoming Wires………………………………...………...……………………………….. $15.00\nOutgoing Domestic Wire Transfer…………………………………………………...………$…30….0…0……………...…………\n*Electronically submitted Outgoing Domestic Wire Transfer $70.00\nOutgoing Foreign Wire Transfer…………………………………………………...…………$…60….0…0………..……………..\n*Electronically submitted Outgoing Foreign Wire Transfer $100.00\nDrawdown request wire transfer ………..………….....……………………………. $35.00\nMiscellaneous\nFax Fee….................................................................................... $5.00\nCopy pages …......................................................................... $ . 25/pg\nLegal process fee ………………………………………….………….………………... $125.00\nNotary Service (certain restrictions apply)\nFor bank customers ……………………..….………..………..………………. FREE\nFor non bank customers………………….………..…....…….……………… $5.00\nOther services . . . . . . . . . . . . . . up to $150/hr\n*Electronically submitted requests require preauthorized bank approval\nRevised 5-9-2023\nEffective 6-1-2023"
+        }
+      ]
+    }
+  ]
+}

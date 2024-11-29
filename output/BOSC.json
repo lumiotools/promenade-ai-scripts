@@ -1,0 +1,52 @@
+{
+  "symbol": "BOSC",
+  "company_name": "Bos Better Online",
+  "ir_website": "https://www.boscom.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Q2 2024 Earnings Release",
+          "url": "https://www.boscom.com/earnings-release/q2-2024",
+          "content": null
+        },
+        {
+          "title": "Company Expansion Plans",
+          "url": "https://www.boscom.com/news/company-expansion-2024",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.boscom.com/financial-reports/annual-report-2024",
+          "content": null
+        },
+        {
+          "title": "Quarterly Financials Q1 2024",
+          "url": "https://www.boscom.com/financial-reports/q1-2024",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "New Product Launch 2024",
+          "url": "https://www.boscom.com/press-releases/new-product-launch-2024",
+          "content": null
+        },
+        {
+          "title": "Strategic Partnership Announcement",
+          "url": "https://www.boscom.com/press-releases/partnership-announcement-2024",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

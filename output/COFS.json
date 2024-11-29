@@ -1,0 +1,52 @@
+{
+  "symbol": "COFS",
+  "company_name": "Choiceone Financial",
+  "ir_website": "https://www.choiceone.bank/about/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.choiceone.bank/financial-reports/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.choiceone.bank/financial-reports/annual-report-2024.pdf"
+        },
+        {
+          "title": "Q1 2024 Financial Results",
+          "url": "https://www.choiceone.bank/financial-reports/q1-2024-results.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.choiceone.bank/financial-reports/q1-2024-results.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release: New Branch Opening",
+          "url": "https://www.choiceone.bank/press-releases/new-branch-opening-2024.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.choiceone.bank/press-releases/new-branch-opening-2024.pdf"
+        },
+        {
+          "title": "Press Release: Q4 2024 Results Announcement",
+          "url": "https://www.choiceone.bank/press-releases/q4-2024-results.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.choiceone.bank/press-releases/q4-2024-results.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Investor Relations Update 2024",
+          "url": "https://www.choiceone.bank/news/investor-relations-update-2024.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.choiceone.bank/news/investor-relations-update-2024.pdf"
+        },
+        {
+          "title": "Market Insights Q1 2024",
+          "url": "https://www.choiceone.bank/news/market-insights-q1-2024.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.choiceone.bank/news/market-insights-q1-2024.pdf"
+        }
+      ]
+    }
+  ]
+}
