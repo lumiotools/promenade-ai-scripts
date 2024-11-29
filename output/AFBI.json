@@ -1,0 +1,32 @@
+{
+  "symbol": "AFBI",
+  "company_name": "Affinity Bancshares Inc",
+  "ir_website": "https://affinitybankshares.q4ir.com/CorporateProfile/default.aspx",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://affinitybankshares.q4ir.com/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://affinitybankshares.q4ir.com/annual-report-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Release",
+          "url": "https://affinitybankshares.q4ir.com/q1-2024-earnings-release.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://affinitybankshares.q4ir.com/q1-2024-earnings-release.pdf"
+        },
+        {
+          "title": "Corporate Strategy Update 2024",
+          "url": "https://affinitybankshares.q4ir.com/corporate-strategy-update-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://affinitybankshares.q4ir.com/corporate-strategy-update-2024.pdf"
+        }
+      ]
+    }
+  ]
+}
