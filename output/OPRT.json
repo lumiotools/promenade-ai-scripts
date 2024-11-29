@@ -1,0 +1,42 @@
+{
+  "symbol": "OPRT",
+  "company_name": "Oportun Financial Corp",
+  "ir_website": "https://investor.oportun.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Recent Developments in Investor Relations",
+          "url": "https://investor.oportun.com/news-articles/recent-developments-2024",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Results",
+          "url": "https://investor.oportun.com/financial-reports/q1-2024-results",
+          "content": "# investor.oportun.com\n\nVerifying you are human. This may take a few seconds.\n\ninvestor.oportun.com needs to review the security of your connection before proceeding.\n\nVerification successful\n\nWaiting for investor.oportun.com to respond...\n\nRay ID: `8ea2b10b29a33c46`\n\nPerformance & security by [Cloudflare](https://www.cloudflare.com?utm_source=challenge&utm_campaign=m)\n"
+        },
+        {
+          "title": "2024 Annual Report",
+          "url": "https://investor.oportun.com/financial-reports/annual-report-2024",
+          "content": "# investor.oportun.com\n\nVerifying you are human. This may take a few seconds.\n\ninvestor.oportun.com needs to review the security of your connection before proceeding.\n\nVerification successful\n\nWaiting for investor.oportun.com to respond...\n\nRay ID: `8ea2b112acc93c94`\n\nPerformance & security by [Cloudflare](https://www.cloudflare.com?utm_source=challenge&utm_campaign=m)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release: Company Update 2024",
+          "url": "https://investor.oportun.com/press-releases/company-update-2024",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}
