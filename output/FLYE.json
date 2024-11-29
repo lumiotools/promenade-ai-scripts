@@ -1,0 +1,27 @@
+{
+  "symbol": "FLYE",
+  "company_name": "Fly-E Group Inc",
+  "ir_website": "https://investors.flyebike.com/",
+  "structured_data": [
+    {
+      "section_name": "Latest Press Release",
+      "links": [
+        {
+          "title": "View all press releases",
+          "url": "https://investors.flyebike.com/news",
+          "content": "# News\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Latest Presentation",
+      "links": [
+        {
+          "title": "View Investor Presentation",
+          "url": "https://storage.googleapis.com/vendorgroup-assets/site/0a30bc95-c0ca-435f-9207-b95f0c8380af/Fly-E-Bike-Presentation.pdf/2024/06/05/6660a6bd7f9aa0f81326215c",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "GLBS",
+  "company_name": "Globus Maritime Limi",
+  "ir_website": "http://globusmaritime.gr/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Latest Developments in Shipping Industry",
+          "url": "http://globusmaritime.gr/en/investor-relations/articles/latest-developments-in-shipping-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.globusmaritime.gr/en/investor-relations/articles/latest-developments-in-shipping-2024.pdf"
+        },
+        {
+          "title": "Company Update for 2024",
+          "url": "http://globusmaritime.gr/en/investor-relations/articles/company-update-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.globusmaritime.gr/en/investor-relations/articles/company-update-2024.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "symbol": "GYRE",
+  "company_name": "Gyre Therapeutics Inc",
+  "ir_website": "https://www.gyretherapeutics.com/investors",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "2024 Company Overview",
+          "url": "https://www.gyretherapeutics.com/investors/2024-company-overview",
+          "content": "\n"
+        },
+        {
+          "title": "2024 Financial Results Review",
+          "url": "https://www.gyretherapeutics.com/investors/2024-financial-results-review",
+          "content": "\n"
+        },
+        {
+          "title": "New Product Launch in 2024",
+          "url": "https://www.gyretherapeutics.com/investors/new-product-launch-in-2024",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Announcement",
+          "url": "https://www.gyretherapeutics.com/investors/q1-2024-earnings-announcement",
+          "content": "\n"
+        },
+        {
+          "title": "Strategic Partnership Announcement 2024",
+          "url": "https://www.gyretherapeutics.com/investors/strategic-partnership-announcement-2024",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

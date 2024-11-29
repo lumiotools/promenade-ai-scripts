@@ -1,0 +1,19 @@
+{
+  "symbol": "FRME",
+  "company_name": "First Merchants Corp",
+  "ir_website": "https://www.firstmerchants.com/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": []
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": []
+    },
+    {
+      "section_name": "Press Releases",
+      "links": []
+    }
+  ]
+}

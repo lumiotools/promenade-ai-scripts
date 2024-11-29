@@ -1,0 +1,17 @@
+{
+  "symbol": "GOOG",
+  "company_name": "Alphabet Cl C",
+  "ir_website": "https://abc.xyz/investors/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "2024 Press Release",
+          "url": "https://abc.xyz/investors/press-release-2024",
+          "content": "[Alphabet](https://abc.xyz/ \"Alphabet\")\n\n#  Error 404, page not found. Your best bet? Head back to [abc.xyz](https://abc.xyz/). \n"
+        }
+      ]
+    }
+  ]
+}
