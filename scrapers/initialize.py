@@ -8,7 +8,7 @@ def initialize_browser():
     """
     chrome_options = Options()
     # Uncomment to run in headless mode
-    chrome_options.add_argument("--headless")
+    # chrome_options.add_argument("--headless")
     chrome_options.add_argument("--disable-gpu")
     chrome_options.add_argument("--no-sandbox")
     chrome_options.add_argument("--disable-dev-shm-usage")
