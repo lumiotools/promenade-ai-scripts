@@ -1,0 +1,52 @@
+{
+  "symbol": "ABAT",
+  "company_name": "American Battery Technology Co.",
+  "ir_website": "https://investors.americanbatterytechnology.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release Archive",
+          "url": "https://investors.americanbatterytechnology.com/press-releases/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings Archive",
+          "url": "https://investors.americanbatterytechnology.com/sec-filings/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Events and Presentations",
+      "links": [
+        {
+          "title": "Events and Presentations Archive",
+          "url": "https://investors.americanbatterytechnology.com/events-and-presentations/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "In the News",
+      "links": [
+        {
+          "title": "Can America Catch Up—and Lead—in the Processing and Recycling of Minerals That Power EVs?",
+          "url": "https://americanbatterytechnology.com/can-america-catch-up-and-lead-in-the-processing-and-recycling-of-minerals-that-power-evs/",
+          "content": null
+        },
+        {
+          "title": "Upside down in Nevada: GOP voters embrace climate programs, while Democrats oppose solar",
+          "url": "https://americanbatterytechnology.com/upside-down-in-nevada-gop-voters-embrace-climate-programs-while-democrats-oppose-solar/",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

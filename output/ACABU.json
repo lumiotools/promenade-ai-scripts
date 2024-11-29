@@ -1,0 +1,22 @@
+{
+  "symbol": "ACABU",
+  "company_name": "Atlantic Coastal Acquisition Corp. II",
+  "ir_website": "https://www.atlanticcoastalacquisition.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Latest Developments on Acquisition Strategy",
+          "url": "https://www.atlanticcoastalacquisition.com/investor-relations/latest-developments-on-acquisition-strategy",
+          "content": "\n"
+        },
+        {
+          "title": "2024 Annual Meeting of Shareholders",
+          "url": "https://www.atlanticcoastalacquisition.com/investor-relations/2024-annual-meeting-of-shareholders",
+          "content": "# atlanticcoastalacquisition.com\n"
+        }
+      ]
+    }
+  ]
+}
