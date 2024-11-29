@@ -1,0 +1,52 @@
+{
+  "symbol": "EDUC",
+  "company_name": "Educational Dev Corp",
+  "ir_website": "https://www.edcpub.com/investors",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Company Announces New Product Launch",
+          "url": "https://www.edcpub.com/news/new-product-launch-2024",
+          "content": "\n"
+        },
+        {
+          "title": "Q1 2024 Financial Results",
+          "url": "https://www.edcpub.com/news/q1-2024-financial-results",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Educational Development Corporation Announces Strategic Partnership",
+          "url": "https://www.edcpub.com/press-releases/strategic-partnership-2024",
+          "content": "\n"
+        },
+        {
+          "title": "Investor Day 2024 Highlights",
+          "url": "https://www.edcpub.com/press-releases/investor-day-2024-highlights",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.edcpub.com/reports/annual-report-2023.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.edcpub.com/reports/annual-report-2023.pdf"
+        },
+        {
+          "title": "Quarterly Report Q1 2024",
+          "url": "https://www.edcpub.com/reports/q1-2024-report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.edcpub.com/reports/q1-2024-report.pdf"
+        }
+      ]
+    }
+  ]
+}
