@@ -1,0 +1,103 @@
+2024-11-29 14:20:10,719 - INFO - Starting stock processing script.
+2024-11-29 14:20:11,715 - INFO - Browser initialized.
+2024-11-29 14:20:11,719 - INFO - Reading CSV file: ./data/stocks.csv
+2024-11-29 14:20:11,723 - INFO - Processing stock: Symbol - Stock Name
+2024-11-29 14:20:18,183 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:20:18,202 - INFO - Found Investor Relations website for Symbol: https://ir.nasdaq.com/
+2024-11-29 14:20:38,684 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:20:38,696 - INFO - Structured data extracted for Symbol: Stock Name
+2024-11-29 14:20:38,696 - INFO - Processed 1 stocks so far.
+2024-11-29 14:20:38,696 - INFO - Processing stock: Symbol - Description
+2024-11-29 14:20:45,804 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:20:45,812 - INFO - Found Investor Relations website for Symbol: https://www.dfinsolutions.com/knowledge-hub/thought-leadership/knowledge-resources/what-investor-relations
+2024-11-29 14:21:03,450 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:21:03,462 - INFO - Structured data extracted for Symbol: Description
+2024-11-29 14:21:03,463 - INFO - Processed 2 stocks so far.
+2024-11-29 14:21:03,463 - INFO - Processing stock: AACG - Ata Creativity Global ADR
+2024-11-29 14:21:11,037 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:21:11,044 - INFO - Found Investor Relations website for AACG: https://ir.atai.net.cn/
+2024-11-29 14:21:17,896 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:21:17,900 - INFO - Structured data extracted for AACG: Ata Creativity Global ADR
+2024-11-29 14:21:17,900 - INFO - Processed 3 stocks so far.
+2024-11-29 14:21:17,900 - INFO - Processing stock: AADI - Aadi Biosciences Inc
+2024-11-29 14:21:25,301 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:21:25,309 - INFO - Found Investor Relations website for AADI: https://www.aadibio.com/
+2024-11-29 14:21:56,840 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:21:56,844 - INFO - Structured data extracted for AADI: Aadi Biosciences Inc
+2024-11-29 14:21:56,844 - INFO - Processed 4 stocks so far.
+2024-11-29 14:21:56,844 - INFO - Processing stock: AADR - Advisorshares Dorsey Wright ETF
+2024-11-29 14:22:03,974 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:22:03,981 - INFO - Found Investor Relations website for AADR: https://advisorshares.com/
+2024-11-29 14:22:54,458 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:22:54,465 - INFO - Structured data extracted for AADR: Advisorshares Dorsey Wright ETF
+2024-11-29 14:22:54,465 - INFO - Processed 5 stocks so far.
+2024-11-29 14:22:54,465 - INFO - Processing stock: AAL - American Airlines Gp
+2024-11-29 14:23:02,074 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:23:02,083 - INFO - Found Investor Relations website for AAL: https://americanairlines.gcs-web.com/
+2024-11-29 14:23:15,425 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:23:15,441 - INFO - Structured data extracted for AAL: American Airlines Gp
+2024-11-29 14:23:15,441 - INFO - Processed 6 stocks so far.
+2024-11-29 14:23:15,441 - INFO - Processing stock: AAME - Atlantic Amer Corp
+2024-11-29 14:23:22,659 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:23:22,667 - INFO - Found Investor Relations website for AAME: https://atlam.gcs-web.com/
+2024-11-29 14:23:32,134 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:23:32,142 - INFO - Structured data extracted for AAME: Atlantic Amer Corp
+2024-11-29 14:23:32,142 - INFO - Processed 7 stocks so far.
+2024-11-29 14:23:32,142 - INFO - Processing stock: AAOI - Applied Optoelect
+2024-11-29 14:23:39,024 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:23:39,032 - INFO - Found Investor Relations website for AAOI: https://investors.ao-inc.com/
+2024-11-29 14:24:04,527 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:24:04,532 - INFO - Structured data extracted for AAOI: Applied Optoelect
+2024-11-29 14:24:04,533 - INFO - Processed 8 stocks so far.
+2024-11-29 14:24:04,534 - INFO - Processing stock: AAON - Aaon Inc
+2024-11-29 14:24:12,087 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:24:12,139 - INFO - Found Investor Relations website for AAON: https://investors.aaon.com/
+2024-11-29 14:24:21,914 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:24:21,941 - INFO - Structured data extracted for AAON: Aaon Inc
+2024-11-29 14:24:21,942 - INFO - Processed 9 stocks so far.
+2024-11-29 14:24:21,942 - INFO - Processing stock: AAPB - Graniteshares 2X Long Aapl Daily ETF
+2024-11-29 14:24:28,958 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:24:28,964 - INFO - Found Investor Relations website for AAPB: https://graniteshares.com/institutional/us/en-us/etfs/aapb/
+2024-11-29 14:26:22,049 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:26:22,058 - INFO - Structured data extracted for AAPB: Graniteshares 2X Long Aapl Daily ETF
+2024-11-29 14:26:22,058 - INFO - Processed 10 stocks so far.
+2024-11-29 14:26:22,058 - INFO - Processing limit reached (10 stocks).
+2024-11-29 14:26:22,381 - INFO - Browser closed.
+2024-11-29 14:32:32,185 - INFO - Starting stock processing script.
+2024-11-29 14:32:33,676 - INFO - Browser initialized.
+2024-11-29 14:32:33,677 - INFO - Reading CSV file: ./data/stocks.csv
+2024-11-29 14:32:33,678 - INFO - Processing stock: AACG - Ata Creativity Global ADR
+2024-11-29 14:32:39,817 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:32:39,836 - INFO - Found Investor Relations website for AACG: https://ir.atai.net.cn/
+2024-11-29 14:32:48,339 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:32:48,356 - INFO - Structured data extracted for AACG: Ata Creativity Global ADR
+2024-11-29 14:32:48,356 - INFO - Processed 1 stocks so far.
+2024-11-29 14:32:48,356 - INFO - Processing stock: AADI - Aadi Biosciences Inc
+2024-11-29 14:32:56,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:32:56,383 - INFO - Found Investor Relations website for AADI: https://www.aadibio.com/
+2024-11-29 14:33:15,775 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:33:15,780 - INFO - Structured data extracted for AADI: Aadi Biosciences Inc
+2024-11-29 14:33:15,780 - INFO - Processed 2 stocks so far.
+2024-11-29 14:33:15,780 - INFO - Processing stock: AADR - Advisorshares Dorsey Wright ETF
+2024-11-29 14:33:23,568 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:33:23,575 - INFO - Found Investor Relations website for AADR: https://advisorshares.com/etfs/dwa-etfs/
+2024-11-29 14:33:48,359 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:33:48,363 - INFO - Structured data extracted for AADR: Advisorshares Dorsey Wright ETF
+2024-11-29 14:33:48,363 - INFO - Processed 3 stocks so far.
+2024-11-29 14:33:48,363 - INFO - Processing stock: AAL - American Airlines Gp
+2024-11-29 14:33:55,052 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:33:55,059 - INFO - Found Investor Relations website for AAL: https://americanairlines.gcs-web.com/
+2024-11-29 14:34:06,664 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:34:06,682 - INFO - Structured data extracted for AAL: American Airlines Gp
+2024-11-29 14:34:06,683 - INFO - Processed 4 stocks so far.
+2024-11-29 14:34:06,683 - INFO - Processing stock: AAME - Atlantic Amer Corp
+2024-11-29 14:34:13,296 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:34:13,305 - INFO - Found Investor Relations website for AAME: https://atlam.gcs-web.com/
+2024-11-29 14:34:17,710 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 14:34:17,714 - INFO - Structured data extracted for AAME: Atlantic Amer Corp
+2024-11-29 14:34:17,714 - INFO - Processed 5 stocks so far.
+2024-11-29 14:34:17,715 - INFO - Processing limit reached (10 stocks).
+2024-11-29 14:34:17,846 - INFO - Browser closed.
+2024-11-29 14:34:17,847 - INFO - Results saved to ./output/investor_relations_data.json
+2024-11-29 14:34:17,847 - INFO - Processed 5 stocks in total.
+2024-11-29 14:34:17,847 - INFO - Script execution completed.
