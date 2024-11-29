@@ -1,0 +1,67 @@
+{
+  "symbol": "DYNXU",
+  "company_name": "Dynamix Corp",
+  "ir_website": "https://dynamix-corp.com/",
+  "structured_data": [
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://dynamix-corp.com/sec-filings.php",
+          "content": "Dynamix\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://dynamix-corp.com/press-release.php",
+          "content": "Dynamix\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Stock Info",
+      "links": [
+        {
+          "title": "Stock Info",
+          "url": "https://dynamix-corp.com/stock-info.php",
+          "content": "Dynamix\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Events & Presentations",
+      "links": [
+        {
+          "title": "Events & Presentations",
+          "url": "https://dynamix-corp.com/events-presentations.php",
+          "content": "Dynamix\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Corporate Governance",
+      "links": [
+        {
+          "title": "Corporate Governance",
+          "url": "https://dynamix-corp.com/corporate-governance.php",
+          "content": "Dynamix\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Management",
+      "links": [
+        {
+          "title": "Management",
+          "url": "https://dynamix-corp.com/management.php",
+          "content": "Dynamix\n"
+        }
+      ]
+    }
+  ]
+}

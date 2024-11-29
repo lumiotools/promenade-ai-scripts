@@ -1,0 +1,47 @@
+{
+  "symbol": "BSBK",
+  "company_name": "Bogota Financial Corp",
+  "ir_website": "https://www.bogotasavingsbank.com/Investor-Relations",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "June 30, 2024",
+          "url": "https://www.bogotasavingsbank.com/ContentDocumentHandler.ashx?documentId=80666",
+          "content": "\n"
+        },
+        {
+          "title": "March 31, 2024",
+          "url": "https://www.bogotasavingsbank.com/ContentDocumentHandler.ashx?documentId=80140",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Recent SEC Filings",
+      "links": [
+        {
+          "title": "10Q September 30, 2024",
+          "url": "https://www.bogotasavingsbank.com/ContentDocumentHandler.ashx?documentId=81263",
+          "content": "\n"
+        },
+        {
+          "title": "10K December 31, 2023",
+          "url": "https://www.bogotasavingsbank.com/ContentDocumentHandler.ashx?documentId=79774",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Corporate Governance",
+      "links": [
+        {
+          "title": "Board Diversity Disclosure 2024",
+          "url": "https://www.bogotasavingsbank.com/ContentDocumentHandler.ashx?documentId=81266",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

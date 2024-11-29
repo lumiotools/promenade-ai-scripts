@@ -1,0 +1,27 @@
+{
+  "symbol": "DUET",
+  "company_name": "Duet Acquisition Corp Cl A",
+  "ir_website": "https://duet-corp.com/",
+  "structured_data": [
+    {
+      "section_name": "Suggestions for Troubleshooting",
+      "links": [
+        {
+          "title": "Check your Internet connection",
+          "url": "https://duet-corp.com",
+          "content": "\n"
+        },
+        {
+          "title": "Allow Chrome to access the network in your firewall or antivirus settings.",
+          "url": "https://duet-corp.com",
+          "content": "\n"
+        },
+        {
+          "title": "If you use a proxy server…",
+          "url": "https://duet-corp.com",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

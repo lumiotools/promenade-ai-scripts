@@ -1,0 +1,57 @@
+{
+  "symbol": "ADGM",
+  "company_name": "Adagio Medical Holdings Inc",
+  "ir_website": "https://adagiomedical.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Recent Developments in Adagio Medical",
+          "url": "https://adagiomedical.com/news/recent-developments",
+          "content": "![logo](https://firebasestorage.googleapis.com/v0/b/adagio-cms.appspot.com/o/common%2Fadagio-logo.svg?alt=media&token=3c4f96a0-09c3-4600-9640-960bb1de1f95)\n\nPlease select your region of interest\n\n[United States](/)|[Europe](/)\n"
+        },
+        {
+          "title": "Q1 2024 Financial Highlights",
+          "url": "https://adagiomedical.com/news/q1-2024-financial-highlights",
+          "content": "![logo](https://firebasestorage.googleapis.com/v0/b/adagio-cms.appspot.com/o/common%2Fadagio-logo.svg?alt=media&token=3c4f96a0-09c3-4600-9640-960bb1de1f95)\n\nPlease select your region of interest\n\n[United States](/)|[Europe](/)\n"
+        },
+        {
+          "title": "Strategic Partnerships to Accelerate Growth",
+          "url": "https://adagiomedical.com/news/strategic-partnerships-2024",
+          "content": "![logo](https://firebasestorage.googleapis.com/v0/b/adagio-cms.appspot.com/o/common%2Fadagio-logo.svg?alt=media&token=3c4f96a0-09c3-4600-9640-960bb1de1f95)\n\nPlease select your region of interest\n\n[United States](/)|[Europe](/)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://adagiomedical.com/reports/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "Quarterly Report Q1 2024",
+          "url": "https://adagiomedical.com/reports/q1-2024-report.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release: Successful Product Launch 2024",
+          "url": "https://adagiomedical.com/press/2024-product-launch",
+          "content": "![logo](https://firebasestorage.googleapis.com/v0/b/adagio-cms.appspot.com/o/common%2Fadagio-logo.svg?alt=media&token=3c4f96a0-09c3-4600-9640-960bb1de1f95)\n\nPlease select your region of interest\n\n[United States](/)|[Europe](/)\n"
+        },
+        {
+          "title": "Press Release: New Partnerships in 2024",
+          "url": "https://adagiomedical.com/press/2024-partnerships",
+          "content": "![logo](https://firebasestorage.googleapis.com/v0/b/adagio-cms.appspot.com/o/common%2Fadagio-logo.svg?alt=media&token=3c4f96a0-09c3-4600-9640-960bb1de1f95)\n\nPlease select your region of interest\n\n[United States](/)|[Europe](/)\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "DUETW",
+  "company_name": "Duet Acquisition Corp WT",
+  "ir_website": "https://duet-corp.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Company Achieves Record Revenue Growth in Q1 2024",
+          "url": "https://duet-corp.com/news/company-achieves-record-revenue-growth-q1-2024",
+          "content": null
+        },
+        {
+          "title": "Duet Corp Announces Partnership with Tech Innovator",
+          "url": "https://duet-corp.com/news/duet-announces-partnership-tech-innovator",
+          "content": "[This domain name has expired. If you are the registered holder of this name and wish to renew it, please contact your registration service provider.](http://duet-corp.com)\n\nduet-corp.com\n\nCopyright © duet-corp.com. All rights reserved.[Privacy Policy](#!)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Q1 Financial Report",
+          "url": "https://duet-corp.com/financial-reports/q1-2024-financial-report.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "2023 Annual Financial Statements",
+          "url": "https://duet-corp.com/financial-reports/annual-report-2023.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Duet Corp to Present at the 2024 Investor Summit",
+          "url": "https://duet-corp.com/press-releases/2024-investor-summit.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "New Sustainability Initiatives Announced",
+          "url": "https://duet-corp.com/press-releases/sustainability-initiatives.pdf",
+          "content": "Error extracting PDF content: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+        }
+      ]
+    }
+  ]
+}
