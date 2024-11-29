@@ -1,0 +1,17 @@
+{
+  "symbol": "FTAI",
+  "company_name": "Ftai Aviation Ltd",
+  "ir_website": "https://www.ftaiaviation.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "2024 Earnings Release",
+          "url": "https://www.ftaiaviation.com/investors/financials/2024-earnings-release.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not found for url: https://www.ftaiaviation.com/investors/financials/2024-earnings-release.pdf"
+        }
+      ]
+    }
+  ]
+}

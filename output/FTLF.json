@@ -1,0 +1,37 @@
+{
+  "symbol": "FTLF",
+  "company_name": "Fitlife Brands Inc",
+  "ir_website": "http://www.fitlifebrands.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release 2024-04-01",
+          "url": "http://www.fitlifebrands.com/pages/press-releases#press-release-2024-04-01",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q4 2024 Financial Report",
+          "url": "http://www.fitlifebrands.com/pages/financials-sec-filings#q4-2024-financial-report",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Earnings Call Transcripts",
+      "links": [
+        {
+          "title": "Earnings Call Transcript Q4 2024",
+          "url": "http://www.fitlifebrands.com/pages/earnings-call-transcripts#q4-2024-transcript",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

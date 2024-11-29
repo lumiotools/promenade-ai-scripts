@@ -1,0 +1,17 @@
+{
+  "symbol": "GLAD",
+  "company_name": "Gladstone Cap Corp",
+  "ir_website": "https://www.gladstonecompanies.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases RSS Feed",
+          "url": "https://www.gladstonecompanies.com/investor-relations/press-releases/rss",
+          "content": "The Gladstone Companies, Inc. () Press Releases https://www.gladstonecompanies.com/investor-relations/press-releases/rss en-us https://d1io3yog0oux5.cloudfront.net/_dad6bd7e1f147b32935933ca3dc4fb17/gladstonecompanies/logo.png The Gladstone Companies, Inc. Logo https://www.gladstonecompanies.com  Equisolve Investor Relations Suite\n\nThis XML file does not appear to have any style information associated with it. The document tree is shown below.\n\n<!-- Generated on Fri, 29 Nov 2024 07:29:37 -0500 -->\n\n<rss version=\"2.0\">\n\n<channel>\n\n<title>The Gladstone Companies, Inc. () Press Releases</title>\n\n<link>https://www.gladstonecompanies.com/investor-relations/press-releases/rss</link>\n\n<description/>\n\n<language>en-us</language>\n\n<image>\n\n<url>https://d1io3yog0oux5.cloudfront.net/_dad6bd7e1f147b32935933ca3dc4fb17/gladstonecompanies/logo.png</url>\n\n<title>The Gladstone Companies, Inc. Logo</title>\n\n<link>https://www.gladstonecompanies.com</link>\n\n...\n\n</image>\n\n<generator>Equisolve Investor Relations Suite</generator>\n\n...\n\n</channel>\n\n...\n\n</rss>\n"
+        }
+      ]
+    }
+  ]
+}

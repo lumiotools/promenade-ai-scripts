@@ -1,0 +1,19 @@
+{
+  "symbol": "GRYP",
+  "company_name": "Gryphon Digital Mining Inc",
+  "ir_website": "https://gryphondigitalmining.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": []
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": []
+    },
+    {
+      "section_name": "Press Releases",
+      "links": []
+    }
+  ]
+}

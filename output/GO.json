@@ -1,0 +1,52 @@
+{
+  "symbol": "GO",
+  "company_name": "Grocery Outlet Holding Corp",
+  "ir_website": "https://groceryoutlet.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Grocery Outlet Announces 3rd Quarter 2024 Results",
+          "url": "https://www.groceryoutlet.com/investors/3q2024results.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.groceryoutlet.com/investors/3q2024results.pdf"
+        },
+        {
+          "title": "Grocery Outlet to Present at the XYZ Conference",
+          "url": "https://www.groceryoutlet.com/investors/xyz-conference-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.groceryoutlet.com/investors/xyz-conference-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Report",
+          "url": "https://www.groceryoutlet.com/investors/2024annualreport.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.groceryoutlet.com/investors/2024annualreport.pdf"
+        },
+        {
+          "title": "Q2 2024 Earnings Report",
+          "url": "https://www.groceryoutlet.com/investors/q2-2024report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.groceryoutlet.com/investors/q2-2024report.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Grocery Outlet Expands Its Store Footprint",
+          "url": "https://www.groceryoutlet.com/investors/store-expansion-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.groceryoutlet.com/investors/store-expansion-2024.pdf"
+        },
+        {
+          "title": "Grocery Outlet Reports Strong Quarterly Growth",
+          "url": "https://www.groceryoutlet.com/investors/quarterly-growth-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.groceryoutlet.com/investors/quarterly-growth-2024.pdf"
+        }
+      ]
+    }
+  ]
+}

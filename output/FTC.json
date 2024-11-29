@@ -1,0 +1,23 @@
+{
+
+  "symbol": "FTC",
+  "company_name": "Largecap Growth Alphadex Fund FT",
+  "ir_website": "https://www.dimensional.com/us/investments/mutual-funds/large-cap-growth-alphadex-fund-ft",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.dimensional.com/us/investments/mutual-funds/large-cap-growth-alphadex-fund-ft/annual-report-2024",
+          "content": "\n"
+        },
+        {
+          "title": "Quarterly Report Q1 2024",
+          "url": "https://www.dimensional.com/us/investments/mutual-funds/large-cap-growth-alphadex-fund-ft/quarterly-report-Q1-2024",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

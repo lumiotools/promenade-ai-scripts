@@ -1,0 +1,17 @@
+{
+  "symbol": "FTCI",
+  "company_name": "Ftc Solar Inc",
+  "ir_website": "https://www.ftcsolar.com/investors",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release Example",
+          "url": "https://www.ftcsolar.com/category/news/press-releases/",
+          "content": "![]()\n"
+        }
+      ]
+    }
+  ]
+}

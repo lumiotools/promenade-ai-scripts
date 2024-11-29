@@ -1,0 +1,22 @@
+{
+  "symbol": "GLLI",
+  "company_name": "Globalink Investment Inc",
+  "ir_website": "https://www.globalinkinvestment.com/investors",
+  "structured_data": [
+    {
+      "section_name": "Debugging Information",
+      "links": [
+        {
+          "title": "Certificate Transparency Log - Google",
+          "url": "https://www.globalinkinvestment.com/investors",
+          "content": "![](http://globalinkinvestment.com/wp-content/uploads/2021/11/GL-Logo.jpg)\n\n# Coming Soon\n"
+        },
+        {
+          "title": "Certificate Transparency Log - Cloudflare",
+          "url": "https://www.globalinkinvestment.com/investors",
+          "content": "![](http://globalinkinvestment.com/wp-content/uploads/2021/11/GL-Logo.jpg)\n\n# Coming Soon\n"
+        }
+      ]
+    }
+  ]
+}
