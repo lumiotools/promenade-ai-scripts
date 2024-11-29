@@ -1,0 +1,17 @@
+{
+  "symbol": "GYRO",
+  "company_name": "Gyrodyne Llc",
+  "ir_website": "https://www.gyrodyne.com/",
+  "structured_data": [
+    {
+      "section_name": "Court Case Documents",
+      "links": [
+        {
+          "title": "View Court Case Documents",
+          "url": "https://www.gyrodyne.com/documents/home/Directions to View Court Case Documents.docx",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

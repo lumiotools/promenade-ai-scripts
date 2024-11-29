@@ -1,0 +1,62 @@
+{
+  "symbol": "ARKR",
+  "company_name": "Ark Restaurants Corp",
+  "ir_website": "https://arkrestaurants.com/",
+  "structured_data": [
+    {
+      "section_name": "Investor Relations",
+      "links": [
+        {
+          "title": "Find Out More",
+          "url": "http://www.investquest.com/iq/a/arkr-new/",
+          "content": "# arkrestaurants\n\n## Financial InformationNASDAQ: ARKR\n\n![](/iq/a/arkr-new/img/Ark_Events_BPG1@2x.png)\n\n![](/iq/a/arkr-new/img/Ark_Events_Robert@2x.png)\n\n![](/iq/a/arkr-new/img/Ark_Events_Sequoia@2x.png)\n\nArk Restaurants owns and operates 17restaurants and bars, 16 fast food concepts, and catering operations primarily in New York City, Washington, DC, Las Vegas, NV, Atlantic City, NJ, the east coast of Florida and the gulf coast of Alabama.\n\n  * Four locations in New York City\n  * One location in Washington, D.C.\n  * Five locations in Las Vegas\n  * One location in Atlantic City, New Jersey\n  * Four locations on the east coast of Florida \n  * Two locations on the Gulf Coast of Alabama\n\n\n\nOur Las Vegas operations include four restaurants within the New York-New York Hotel & Casino Resort and operation of the hotel's room service, banquet facilities, employee dining room and six food court concepts and one restaurant within the Planet Hollywood Resort and Casino. In Atlantic City, New Jersey, we operate a restaurant in the Tropicana Hotel and Casino. The Florida operations include the Rustic Inn in Dania Beach, Shuckers in Jensen Beach, JB's on the Beach in Deerfield Beach, Blue Moon Fish Company in Lauderdale-by-the-Sea, and the operation of four fast food facilities in Tampa and six fast food facilities in Hollywood, each at a Hard Rock Hotel and Casino operated by the Seminole Indian Tribe at these locations. In Alabama, we operate two Original Oyster Houses, one in Gulf Shores and one in Spanish Fort.\n\n## Latest News\n\nAugust 12, 2024\n\n[Ark Restaurants Announces Financial Results for the Third Quarter of 2024](/iq/a/arkr-new/press-releases/arkr324.htm)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Brochures",
+      "links": [
+        {
+          "title": "Bryant Park Grill Wedding Brochure 2024",
+          "url": "https://arkrestaurants.com/wp-content/uploads/2024/10/Bryant-Park-Grill_Wedding-Brochure-2024-April-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://arkrestaurants.com/wp-content/uploads/2024/10/Bryant-Park-Grill_Wedding-Brochure-2024-April-2024.pdf"
+        },
+        {
+          "title": "El Rio Grande Brochure",
+          "url": "https://arkrestaurants.com/wp-content/uploads/2024/10/El-Rio-Grande-Brochure.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://arkrestaurants.com/wp-content/uploads/2024/10/El-Rio-Grande-Brochure.pdf"
+        },
+        {
+          "title": "Robert Wedding Brochure",
+          "url": "https://robertnyc.com/wp-content/uploads/2024/10/ROBERT-Wedding-Brochure.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://robertnyc.com/wp-content/uploads/2024/10/ROBERT-Wedding-Brochure.pdf"
+        },
+        {
+          "title": "Sequoia Wedding Brochure",
+          "url": "https://arkrestaurants.com/wp-content/uploads/2024/10/SEQUOIA-brochure-wedding.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://arkrestaurants.com/wp-content/uploads/2024/10/SEQUOIA-brochure-wedding.pdf"
+        },
+        {
+          "title": "Bryant Park Grill Corporate Events Brochure",
+          "url": "https://arkrestaurants.com/wp-content/uploads/2024/10/Bryant-Park-Grill_Corporate-Events-Brochure.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://arkrestaurants.com/wp-content/uploads/2024/10/Bryant-Park-Grill_Corporate-Events-Brochure.pdf"
+        },
+        {
+          "title": "Robert Corporate Events Brochure",
+          "url": "https://robertnyc.com/wp-content/uploads/2024/10/Robert-Corporate-Events_Brochure.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://robertnyc.com/wp-content/uploads/2024/10/Robert-Corporate-Events_Brochure.pdf"
+        },
+        {
+          "title": "Sequoia Corporate Events Brochure",
+          "url": "https://arkrestaurants.com/wp-content/uploads/2024/10/SEQUOIA-brochure-corporate.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://arkrestaurants.com/wp-content/uploads/2024/10/SEQUOIA-brochure-corporate.pdf"
+        },
+        {
+          "title": "Gallagher’s Las Vegas Brochure",
+          "url": "https://gallagherslasvegas.com/wp-content/uploads/2024/04/Gallaghers-Las-Vegas-Brochure.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://gallagherslasvegas.com/wp-content/uploads/2024/04/Gallaghers-Las-Vegas-Brochure.pdf"
+        }
+      ]
+    }
+  ]
+}
