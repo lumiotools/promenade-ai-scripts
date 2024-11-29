@@ -63,26 +63,33 @@ def process_stock(driver, symbol: str, company_name: str) -> Optional[Dict]:
 
         structured_data = analyze_html_with_openai(html_content)
         logging.info(f"Structured data extracted for {symbol}: {company_name}")
-
-        return {
+        
+        processed_data = {
             "symbol": symbol,
             "company_name": company_name,
             "ir_website": ir_website,
             "structured_data": convert_to_json_serializable(structured_data)
         }
+
+        output_json = f"./output/{symbol}.json"        
+        os.makedirs(os.path.dirname(output_json), exist_ok=True)
+        with open(output_json, 'w', encoding='utf-8') as jsonfile:
+            json.dump(processed_data, jsonfile, indent=2, ensure_ascii=False)
+            logging.info(f"Structured data saved to {output_json}")
+            
+        return True
+
     except Exception as e:
         logging.error(f"Error processing {symbol} - {company_name}: {str(e)}", exc_info=True)
         return None
 
-def main(input_csv: str, output_json: str):
+def main(input_csv: str):
     """
     Process all stocks from CSV and store results in JSON.
     
     Args:
         input_csv: Path to input CSV file
-        output_json: Path to output JSON file
     """
-    os.makedirs(os.path.dirname(output_json), exist_ok=True)
 
     results = []
 
@@ -109,7 +116,6 @@ def main(input_csv: str, output_json: str):
                     stock_result = process_stock(driver, symbol, company_name)
 
                     if stock_result:
-                        results.append(stock_result)
                         count += 1
                         logging.info(f"Processed {count} stocks so far.")
                         
@@ -122,16 +128,11 @@ def main(input_csv: str, output_json: str):
         driver.quit()
         logging.info("Browser closed.")
 
-    with open(output_json, 'w', encoding='utf-8') as jsonfile:
-        json.dump(results, jsonfile, indent=2, ensure_ascii=False)
-        logging.info(f"Results saved to {output_json}")
-
     logging.info(f"Processed {len(results)} stocks in total.")
 
 if __name__ == "__main__":
     INPUT_CSV = './data/stocks.csv'
-    OUTPUT_JSON = './output/investor_relations_data.json'
 
     logging.info("Starting stock processing script.")
-    main(INPUT_CSV, OUTPUT_JSON)
+    main(INPUT_CSV)
     logging.info("Script execution completed.")
