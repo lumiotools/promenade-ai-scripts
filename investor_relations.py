@@ -20,8 +20,8 @@ def main(company_name):
 
     # Step 3: Analyze the HTML with OpenAI
     structured_data = analyze_html_with_openai(html_content)
-    print(f"Structured Data:\n{structured_data}")
-
+    # print(f"Structured Data:\n{structured_data}")
+    return structured_data
 if __name__ == "__main__":
     company_name = "Apple Inc."  # Replace with the desired company
     main(company_name)
