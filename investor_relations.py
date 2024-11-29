@@ -38,7 +38,7 @@ def convert_to_json_serializable(obj: Any) -> Any:
     else:
         return obj
 
-async def process_stock(driver, symbol: str, company_name: str) -> Optional[Dict]:
+async def process_stock(driver, symbol: str, company_name: str, output_path: str) -> Optional[Dict]:
     """
     Process a single stock's investor relations information.
     
@@ -76,12 +76,11 @@ async def process_stock(driver, symbol: str, company_name: str) -> Optional[Dict
             "ir_website": ir_website,
             "structured_data": structured_data
         }
-
-        output_json = f"./output/{symbol}.json"        
-        os.makedirs(os.path.dirname(output_json), exist_ok=True)
-        with open(output_json, 'w', encoding='utf-8') as jsonfile:
+       
+        os.makedirs(os.path.dirname(output_path), exist_ok=True)
+        with open(output_path, 'w', encoding='utf-8') as jsonfile:
             json.dump(processed_data, jsonfile, indent=2, ensure_ascii=False)
-            logging.info(f"Structured data saved to {output_json}")
+            logging.info(f"Structured data saved to {output_path}")
             
         return True
 
@@ -118,8 +117,13 @@ async def main(input_csv: str):
                     if not symbol or not company_name:
                         logging.warning(f"Invalid row found: {row}")
                         continue
+                    
+                    output_path = f"./output/{symbol}.json"
+                    if os.path.exists(output_path):
+                        logging.info(f"Stock {symbol} already processed. Skipping.")
+                        continue
 
-                    stock_result =await  process_stock(driver, symbol, company_name)
+                    stock_result = await process_stock(driver, symbol, company_name, output_path)
 
                     if stock_result:
                         count += 1
