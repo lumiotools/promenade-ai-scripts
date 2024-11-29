@@ -2,6 +2,7 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from typing import List
 from pydantic import BaseModel
+import json
 
 
 load_dotenv()
@@ -49,4 +50,4 @@ def analyze_html_with_openai(html_content,ir_website):
         response_format=InvestorRelationsData,
         messages=[{"role": "user", "content": prompt}]
     )
-    return response.choices[0].message.parsed.model_dump_json()
+    return json.loads(response.choices[0].message.parsed.model_dump_json())["sections"]

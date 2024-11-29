@@ -2,9 +2,11 @@ import csv
 import json
 import os
 import logging
+import asyncio
 from typing import Dict, Optional, Any
 from scrapers.initialize import initialize_browser
 from scrapers.scrape_page import scrape_page
+from scrapers.process_section import process_section_data
 from ai.get_ir_website import get_ir_website
 from ai.process_ir_page import analyze_html_with_openai
 
@@ -36,7 +38,7 @@ def convert_to_json_serializable(obj: Any) -> Any:
     else:
         return obj
 
-def process_stock(driver, symbol: str, company_name: str) -> Optional[Dict]:
+async def process_stock(driver, symbol: str, company_name: str) -> Optional[Dict]:
     """
     Process a single stock's investor relations information.
     
@@ -60,14 +62,19 @@ def process_stock(driver, symbol: str, company_name: str) -> Optional[Dict]:
 
         html_content = scrape_page(driver, ir_website)
 
-        structured_data = analyze_html_with_openai(html_content)
-        logging.info(f"Structured data extracted for {symbol}: {company_name}")
+        sections_data = analyze_html_with_openai(html_content,ir_website)
+        logging.info(f"Sections data extracted for {symbol}: {company_name}")
+        
+        print(len(sections_data))
+        
+        structured_data = await process_section_data(sections_data)
+        logging.info(f"Structured data processed for {symbol}: {company_name}")
         
         processed_data = {
             "symbol": symbol,
             "company_name": company_name,
             "ir_website": ir_website,
-            "structured_data": convert_to_json_serializable(structured_data)
+            "structured_data": structured_data
         }
 
         output_json = f"./output/{symbol}.json"        
@@ -82,7 +89,7 @@ def process_stock(driver, symbol: str, company_name: str) -> Optional[Dict]:
         logging.error(f"Error processing {symbol} - {company_name}: {str(e)}", exc_info=True)
         return None
 
-def main(input_csv: str):
+async def main(input_csv: str):
     """
     Process all stocks from CSV and store results in JSON.
     
@@ -112,15 +119,15 @@ def main(input_csv: str):
                         logging.warning(f"Invalid row found: {row}")
                         continue
 
-                    stock_result = process_stock(driver, symbol, company_name)
+                    stock_result =await  process_stock(driver, symbol, company_name)
 
                     if stock_result:
                         count += 1
                         logging.info(f"Processed {count} stocks so far.")
                         
-                    if count >= 5:
-                        logging.info(f"Processing limit reached (10 stocks).")
-                        break
+                    # if count >= 1:
+                    #     logging.info(f"Processing limit reached (10 stocks).")
+                    #     break
     except Exception as e:
         logging.error(f"Error processing CSV: {str(e)}", exc_info=True)
     finally:
@@ -133,5 +140,5 @@ if __name__ == "__main__":
     INPUT_CSV = './data/stocks.csv'
 
     logging.info("Starting stock processing script.")
-    main(INPUT_CSV)
+    asyncio.run(main(INPUT_CSV))    
     logging.info("Script execution completed.")
