@@ -1,4 +1,5 @@
 import time
+import logging
 from selenium.webdriver.common.by import By
 
 def google_search(driver, query, num_results=3):
@@ -10,6 +11,10 @@ def google_search(driver, query, num_results=3):
 
     # Wait for the page to load
     time.sleep(5)
+    
+    while "Our systems have detected unusual traffic from your computer" in driver.page_source:
+        logging.warning("Detected unusual traffic warning. Waiting for 5 seconds.")
+        time.sleep(5)
 
     # Extract links using the same logic as with BeautifulSoup
     links = []
