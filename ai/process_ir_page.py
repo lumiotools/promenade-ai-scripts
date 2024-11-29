@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 from typing import List
 from pydantic import BaseModel
 import json
+from urllib.parse import urlparse
 
 
 load_dotenv()
@@ -39,8 +40,8 @@ def analyze_html_with_openai(html_content,ir_website):
     *Note: we will ignore the links that include the date before 2024*
     
     All the links needs to be in full URL format.
-    This is the current website url: {ir_website}
-    if any link is not in full URL format, please make it full URL by adding the website url before the link.
+    This is the current website url: {"https://"+urlparse(ir_website).netloc}
+    if any link is not in full URL format, please append it to the base url and make it full URL.
 
     Web page Content:
     {html_content}
