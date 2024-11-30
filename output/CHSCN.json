@@ -1,0 +1,67 @@
+{
+  "symbol": "CHSCN",
+  "company_name": "CHS Inc Pfd B Srs 2",
+  "ir_website": "https://www.chsinc.com/en/about-us/owners-and-investors",
+  "structured_data": [
+    {
+      "section_name": "Governance",
+      "links": [
+        {
+          "title": "CHS Articles of Incorporation",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/chs-articles-of-incorporation.pdf?rev=6a4739aa1a4d431a8066e8af2d4bbbff&hash=B337F4C9E5C74B44C8B7E6ED12729E43",
+          "content": "\n"
+        },
+        {
+          "title": "CHS Bylaws",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/chs-bylaws-proposed-equity-management-amendments.pdf?rev=c5c3cf9ec0404a8882a0a8e5eb2c4bf9&hash=E7CAC1EA4945B4889D996CD19122E2BD",
+          "content": "\n"
+        },
+        {
+          "title": "CHS Board of Directors charter",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/chs-board-of-directors-charter.pdf?rev=b2c8180e75884744aff6e0ba4aef120d&hash=D88E27B425E4B2401E7CD545AFD06D71",
+          "content": "\n"
+        },
+        {
+          "title": "Audit Committee",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/audit-committee-charter-2022.pdf?rev=307024ea26cb47e593fe434c0c08b5cc&hash=6D9A5438895ABBC7D9BCEC2FCCB35326",
+          "content": "\n"
+        },
+        {
+          "title": "Capital Committee",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/capital-committee-charter-2024.pdf?rev=2d2cc1e4c57f426e8dc575ffdd1ad37c&hash=2521AD17EF8AB07B42B05225B2E76FCC",
+          "content": "\n"
+        },
+        {
+          "title": "Corporate Risk Committee",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/corporate-risk-committee-charter-2024.pdf?rev=2cd620d7e066412eb3863e543a96200b&hash=3813EC16E1C9AB60E6109DAE364CE242",
+          "content": "\n"
+        },
+        {
+          "title": "Executive Committee",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/executive-committee-charter-2022.pdf?rev=8e1410aa338742269d4cdc8568fa6313&hash=3C525AF388B4B8568FE68E972AE0BAE9",
+          "content": "\n"
+        },
+        {
+          "title": "Governance Committee",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/governance-committee-charter-2022.pdf?rev=00c0020f9990407b82fc09c7329dc726&hash=8EB60B28EA05AC9440085F1D05EC28E3",
+          "content": "\n"
+        },
+        {
+          "title": "Government Relations Committee",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/government-relations-committee-charter-2022.pdf?rev=791e1d36eb554baf8d214f1cbaca8cd9&hash=4F495DA5F7AFBC6785712FAEDC99E96C",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Preferred Stock",
+      "links": [
+        {
+          "title": "Form 8937 filings",
+          "url": "https://mc-607b9d1c-3283-4f31-97f8-4475-cdn-endpoint.azureedge.net/-/media/project/chs/chs-inc/files/about-us/owners-and-investors/form-8937-filings.pdf?rev=393f6286670a4b5c8922c8497faa582c&hash=B57B47EB8927B45A938139B93E25B043",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

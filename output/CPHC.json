@@ -1,0 +1,32 @@
+{
+  "symbol": "CPHC",
+  "company_name": "Canterbury Park Hl",
+  "ir_website": "https://canterbury-park-holding-corporation.ir.rdgfilings.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Report",
+          "url": "https://canterbury-park-holding-corporation.ir.rdgfilings.com/2024-annual-report.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='canterbury-park-holding-corporation.ir.rdgfilings.com', port=443): Max retries exceeded with url: /2024-annual-report.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release 2024 Q1 Results",
+          "url": "https://canterbury-park-holding-corporation.ir.rdgfilings.com/2024-q1-results.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='canterbury-park-holding-corporation.ir.rdgfilings.com', port=443): Max retries exceeded with url: /2024-q1-results.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+        },
+        {
+          "title": "Press Release 2024 Acquisition Announcement",
+          "url": "https://canterbury-park-holding-corporation.ir.rdgfilings.com/2024-acquisition-announcement.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='canterbury-park-holding-corporation.ir.rdgfilings.com', port=443): Max retries exceeded with url: /2024-acquisition-announcement.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))"
+        }
+      ]
+    }
+  ]
+}

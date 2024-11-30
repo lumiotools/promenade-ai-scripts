@@ -1,0 +1,52 @@
+{
+  "symbol": "BGM",
+  "company_name": "Bgm Group Ltd",
+  "ir_website": "https://www.bgm.ltd/index.php/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.bgm.ltd/reports/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "Quarterly Report Q1 2024",
+          "url": "https://www.bgm.ltd/reports/quarterly-report-q1-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release on Q1 Performance",
+          "url": "https://www.bgm.ltd/press-releases/q1-2024-performance-release.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "New Product Launch Announcement",
+          "url": "https://www.bgm.ltd/press-releases/new-product-launch-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "BGM Wins Industry Award 2024",
+          "url": "https://www.bgm.ltd/news/bgm-industry-award-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "CEO Interview on Future of Technology",
+          "url": "https://www.bgm.ltd/news/ceo-interview-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    }
+  ]
+}

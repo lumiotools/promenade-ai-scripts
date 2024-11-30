@@ -1,0 +1,77 @@
+{
+  "symbol": "EPOW",
+  "company_name": "Sunrise New Energy Ltd",
+  "ir_website": "https://www.sunriseem.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "Announcements",
+      "links": [
+        {
+          "title": "ASX Announcements",
+          "url": "https://www.sunriseem.com/investors/asx-announcements/",
+          "content": "# Announcements\n\n## Annual Reports\n\n[Read more](https://www.sunriseem.com/investors/annual-reports/)\n\n## Company Presentations\n\n[Read more](https://www.sunriseem.com/investors/company-presentations/)\n\n## Half Yearly Reports\n\n[Read more](https://www.sunriseem.com/investors/half-yearly-reports/)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Annual Reports",
+      "links": [
+        {
+          "title": "Annual Reports",
+          "url": "https://www.sunriseem.com/investors/annual-reports/",
+          "content": "# Annual Reports\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Company Presentations",
+      "links": [
+        {
+          "title": "Company Presentations",
+          "url": "https://www.sunriseem.com/investors/company-presentations/",
+          "content": "# Company Presentations\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Half Yearly Reports",
+      "links": [
+        {
+          "title": "Half Yearly Reports",
+          "url": "https://www.sunriseem.com/investors/half-yearly-reports/",
+          "content": "# Half Yearly Reports\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Reports",
+      "links": [
+        {
+          "title": "Reports",
+          "url": "https://www.sunriseem.com/investors/investor-reports/",
+          "content": "# Investor Reports\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Shareholder Communications",
+      "links": [
+        {
+          "title": "Shareholder Communications",
+          "url": "https://www.sunriseem.com/investors/shareholder-communications/",
+          "content": "# Shareholder Communications\n\nThere are new options available to SRL’s shareholders as to how you receive communications from the Company.\n\nReceiving your shareholder communications electronically is the best way to stay informed and will assist SRL with its commitment to minimising paper usage.\n\nIf you haven’t already, we encourage you to make the switch to paperless communications and provide the Company’s share registry with your email address. The Company will no longer be sending physical meeting documents unless you request a copy to be posted.\n\nThe Company therefore encourages all shareholders to provide an email address so we can communicate with you electronically when shareholder notices (e.g. annual report or notice of meetings) become available online.\n\nShareholders can still elect to receive some or all of their communications in physical or electronic form, or elect not to receive certain documents such as annual reports. To review your communications preferences, or sign up to receive your shareholder communications via email, please update your details at <https://www.computershare.com/au>.\n\nIf you are a shareholder and would like a physical copy of a communication, need further information about the options available to you or have questions about your holding, visit <https://www.computershare.com/au> or contact the Share Registry:\n\n_Address_\n\nComputershare Investor Services Pty Limited\n\nGPO Box 2975\n\nMelbourne VIC 3001\n\nAustralia\n\n_Phone (Business hours: Monday to Friday between 8.30am and 5.00pm)_\n\nWithin Australia: 1300 850 505\n\nOutside Australia: +61 (0) 3 9415 4000\n\nThe Share Registry has also made available alternative means of communications for shareholders and these are available at [Contact us (computershare.com)](https://www.computershare.com/au/individuals/i-am-a-shareholder/contact-us)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Webcasts",
+      "links": [
+        {
+          "title": "Webcasts",
+          "url": "https://www.sunriseem.com/investors/webcasts/",
+          "content": "# Webcasts\n\n**Benchmark Mineral Intelligence: Benchmark World Tour – Nickel**\n\nCEO, Sam Riggall, presented at the **_Benchmark World Tour – Nickel_** virtual conference hosted by Benchmark Mineral Intelligence on 23 September 2020.\n\nTo watch the webcast of the presentation [**CLICK HERE**](https://vimeo.com/465318661)\n\n**Battery Metals Day Webcast**\n\nSunrise Battery Materials Complex in NSW, Australia will be one of the world’s largest integrated producers of battery-grade nickel and cobalt sulphate. CEO, Sam Riggall, hosted the Battery Metals Day Webcast with other members of the management team to discuss battery materials market developments, present the highlights of the Sunrise Project Execution Plan and answer questions from attendees.\n\nTo watch the webcast [**CLICK HERE**](https://youtu.be/oxqJt27VH_4)\n"
+        }
+      ]
+    }
+  ]
+}

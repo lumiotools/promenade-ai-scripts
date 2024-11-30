@@ -1,0 +1,47 @@
+{
+  "symbol": "ELBM",
+  "company_name": "Electra Battery Materials Corp",
+  "ir_website": "https://www.electrabmc.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Electra BMC Announces Q1 2024 Financial Results",
+          "url": "https://www.electrabmc.com/news/electra-bmc-announces-q1-2024-financial-results",
+          "content": "ELBM: NASDAQ $0.50 (+5.36%)\n\nELBM: TSX.V $0.68 (0.00%)\n\n[![Electra Battery Materials Logo](/_templates/2/source/img/logo-colour.svg)![Electra Battery Materials Logo](/_templates/2/source/img/logo-white.svg)](/)\n\n[![Electra Battery Materials Logo](/_templates/2/source/img/logo-colour.svg)![Electra Battery Materials Logo](/_templates/2/source/img/logo-white.svg)](/)\n\nELBM: NASDAQ $0.50 (+5.36%)\n\nELBM: TSX.V $0.68 (0.00%)\n\n# Latest News\n\n#### [Corporate Presentation View ](/_resources/presentations/corporate-presentation.pdf?v=1130 \"Corporate Presentation\")\n\n#### [Media Downloads View ](/news-releases/media/#gallery \"Media Downloads\")\n"
+        },
+        {
+          "title": "Electra BMC Signs Renewable Energy Partnership",
+          "url": "https://www.electrabmc.com/news/electra-bmc-signs-renewable-energy-partnership",
+          "content": "ELBM: NASDAQ $0.50 (+5.36%)\n\nELBM: TSX.V $0.68 (0.00%)\n\n[![Electra Battery Materials Logo](/_templates/2/source/img/logo-colour.svg)![Electra Battery Materials Logo](/_templates/2/source/img/logo-white.svg)](/)\n\n[![Electra Battery Materials Logo](/_templates/2/source/img/logo-colour.svg)![Electra Battery Materials Logo](/_templates/2/source/img/logo-white.svg)](/)\n\nELBM: NASDAQ $0.50 (+5.36%)\n\nELBM: TSX.V $0.68 (0.00%)\n\n# Latest News\n\n#### [Corporate Presentation View ](/_resources/presentations/corporate-presentation.pdf?v=1130 \"Corporate Presentation\")\n\n#### [Media Downloads View ](/news-releases/media/#gallery \"Media Downloads\")\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Report",
+          "url": "https://www.electrabmc.com/reports/q1-2024-financial-report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.electrabmc.com/reports/q1-2024-financial-report.pdf"
+        },
+        {
+          "title": "2023 Annual Report",
+          "url": "https://www.electrabmc.com/reports/2023-annual-report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.electrabmc.com/reports/2023-annual-report.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Electra BMC Launches New Sustainability Initiative",
+          "url": "https://www.electrabmc.com/press/electra-bmc-launches-new-sustainability-initiative",
+          "content": "# Not Found\n\nThe requested URL /press/electra-bmc-launches-new-sustainability-initiative was not found on this server.\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "symbol": "CGBSW",
+  "company_name": "Crown Lng Holdings WT",
+  "ir_website": "https://www.crownlng.com/investors",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Crown LNG rushing to develop and start building US LNG plant while Trump in office",
+          "url": "https://www.reuters.com/markets/commodities/crown-lng-rushing-develop-start-building-us-lng-plant-while-trump-office-2024-11-12/",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Presentation",
+      "links": [
+        {
+          "title": "Crown LNG Analyst & Investor Day – February 2024",
+          "url": "https://www.crownlng.com/documents/crown-lng-analyst-and-investor-day-presentation",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Governance documents",
+      "links": [
+        {
+          "title": "Nominating and Corporate Governance Committee Charter",
+          "url": "https://www.crownlng.com/documents/nominating-and-corporate-governance-committee-charter",
+          "content": "\n"
+        },
+        {
+          "title": "Compensation Committee Charter",
+          "url": "https://www.crownlng.com/documents/compensation-committee-charter",
+          "content": "\n"
+        },
+        {
+          "title": "Audit Committee Charter",
+          "url": "https://www.crownlng.com/documents/audit-committee-charter",
+          "content": "\n"
+        },
+        {
+          "title": "Whistleblower Policy",
+          "url": "https://www.crownlng.com/documents/whistleblower-policy",
+          "content": "\n"
+        },
+        {
+          "title": "Clawback Policy",
+          "url": "https://www.crownlng.com/documents/clawback-policy",
+          "content": "\n"
+        },
+        {
+          "title": "Non-Employee Director Compensation Policy",
+          "url": "https://www.crownlng.com/documents/non-employee-director-compensation-policy",
+          "content": "\n"
+        },
+        {
+          "title": "Regulation FD Policy",
+          "url": "https://www.crownlng.com/documents/regulation-fd-policy",
+          "content": "\n"
+        },
+        {
+          "title": "Insider Trading Policy",
+          "url": "https://www.crownlng.com/documents/insider-trading-policy",
+          "content": "\n"
+        },
+        {
+          "title": "Code of Ethics and Business Conduct",
+          "url": "https://www.crownlng.com/documents/code-of-ethics-and-business-conduct",
+          "content": "\n"
+        },
+        {
+          "title": "Corporate Governance Guidelines",
+          "url": "https://www.crownlng.com/documents/corporate-governance-guidelines",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "CLNN",
+  "company_name": "Clene Inc",
+  "ir_website": "https://invest.clene.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "2024 Market Update",
+          "url": "https://invest.clene.com/news-articles/2024-market-update",
+          "content": "# Not Found\n\nThe requested URL \"/news-articles/2024-market-update\" was not found on this server.\n"
+        },
+        {
+          "title": "New Drug Approval Announcement",
+          "url": "https://invest.clene.com/news-articles/new-drug-approval",
+          "content": "# Not Found\n\nThe requested URL \"/news-articles/new-drug-approval\" was not found on this server.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Release",
+          "url": "https://invest.clene.com/financial-reports/q1-2024-earnings",
+          "content": "# Not Found\n\nThe requested URL \"/financial-reports/q1-2024-earnings\" was not found on this server.\n"
+        },
+        {
+          "title": "2023 Annual Report",
+          "url": "https://invest.clene.com/financial-reports/2023-annual",
+          "content": "# Not Found\n\nThe requested URL \"/financial-reports/2023-annual\" was not found on this server.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release Q1 2024",
+          "url": "https://invest.clene.com/press-releases/q1-2024-release",
+          "content": "# Not Found\n\nThe requested URL \"/press-releases/q1-2024-release\" was not found on this server.\n"
+        },
+        {
+          "title": "CEO Statement on Recent Developments",
+          "url": "https://invest.clene.com/press-releases/ceo-statement",
+          "content": "# Not Found\n\nThe requested URL \"/press-releases/ceo-statement\" was not found on this server.\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "symbol": "BGFV",
+  "company_name": "Big 5 Sporting",
+  "ir_website": "https://big5.gcs-web.com/financial-information/annual-reports",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2023 Annual Report",
+          "url": "https://big5.gcs-web.com/static-files/748d6a73-81d5-40f5-afa1-b7f84c41b6d6",
+          "content": "\n"
+        },
+        {
+          "title": "2022 Annual Report",
+          "url": "https://big5.gcs-web.com/static-files/99af864e-8382-4a13-ab65-98e5978ecb98",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

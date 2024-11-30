@@ -1,0 +1,47 @@
+{
+  "symbol": "CALM",
+  "company_name": "Cal-Maine Foods IN",
+  "ir_website": "https://www.calmainefoods.com/investor-overview",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://www.calmainefoods.com/press-releases",
+          "content": "# 403\n\n# Forbidden\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Annual Reports",
+      "links": [
+        {
+          "title": "Annual Reports",
+          "url": "https://www.calmainefoods.com/annual-reports",
+          "content": "# 403\n\n# Forbidden\n"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://www.calmainefoods.com/sec-filings",
+          "content": "# 403\n\n# Forbidden\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Annual Meeting and Proxy Material",
+      "links": [
+        {
+          "title": "Annual Meeting and Proxy Material",
+          "url": "https://www.calmainefoods.com/annual-meeting-and-proxy-material",
+          "content": "# 403\n\n# Forbidden\n"
+        }
+      ]
+    }
+  ]
+}
