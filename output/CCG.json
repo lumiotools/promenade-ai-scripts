@@ -1,0 +1,37 @@
+{
+  "symbol": "CCG",
+  "company_name": "Cheche Group Inc Cl A",
+  "ir_website": "https://ir.chechegroup.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Results",
+          "url": "https://ir.chechegroup.com/financial-results/q1-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: File not found for url: https://ir.chechegroup.com/financial-results/index.php?s=404"
+        },
+        {
+          "title": "2024 Annual Report",
+          "url": "https://ir.chechegroup.com/annual-reports/2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: File not found for url: https://ir.chechegroup.com/annual-reports/index.php?s=404"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "New Product Launch - 2024",
+          "url": "https://ir.chechegroup.com/press-releases/new-product-launch-2024.html",
+          "content": "\n"
+        },
+        {
+          "title": "Partnership Announcement - 2024",
+          "url": "https://ir.chechegroup.com/press-releases/partnership-announcement-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: File not found for url: https://ir.chechegroup.com/press-releases/index.php?s=404"
+        }
+      ]
+    }
+  ]
+}

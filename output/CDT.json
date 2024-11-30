@@ -1,0 +1,37 @@
+{
+  "symbol": "CDT",
+  "company_name": "Conduit Pharmaceuticals Inc",
+  "ir_website": "https://www.conduitpharma.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "Governance",
+      "links": [
+        {
+          "title": "Audit Committee Charter",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/e5732218-dce1-451c-b7da-7e1d29b35b6c/bce84a26-80e0-e2b1-d861-4c7af0034c1c?origin=1",
+          "content": "\n"
+        },
+        {
+          "title": "Code of Conduct",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/e5732218-dce1-451c-b7da-7e1d29b35b6c/2c914856-da4f-bba2-9078-b2fb998adf18?origin=1",
+          "content": "\n"
+        },
+        {
+          "title": "Corporate Governance Principles",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/e5732218-dce1-451c-b7da-7e1d29b35b6c/e6dc4013-f0b1-0995-72a8-663a72d03255?origin=1",
+          "content": "\n"
+        },
+        {
+          "title": "Nominating and Corporate Governance Committee Charter",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/e5732218-dce1-451c-b7da-7e1d29b35b6c/546018e7-2dc7-f919-27f3-cffa5ab52787?origin=1",
+          "content": "\n"
+        },
+        {
+          "title": "Compensation Committee Charter",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/e5732218-dce1-451c-b7da-7e1d29b35b6c/6ca92264-9c68-70a1-7d7e-86f1f9a486dc?origin=1",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

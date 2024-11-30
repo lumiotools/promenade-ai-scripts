@@ -1,0 +1,37 @@
+{
+  "symbol": "BANFP",
+  "company_name": "Bfc Capital Trust II",
+  "ir_website": "https://bfccapital.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Best Mutual Funds to Invest in 2024",
+          "url": "https://bfccapital.com/best-mutual-funds-to-invest-in-2024",
+          "content": "\n"
+        },
+        {
+          "title": "Best ELSS Funds",
+          "url": "https://bfccapital.com/best-elss-funds",
+          "content": "\n"
+        },
+        {
+          "title": "Best SIP Plans to Invest",
+          "url": "https://bfccapital.com/best-sip-plans-to-invest",
+          "content": "\n"
+        },
+        {
+          "title": "Best Tax Saving Mutual Funds",
+          "url": "https://bfccapital.com/tax-saving-mutual-fund",
+          "content": "\n"
+        },
+        {
+          "title": "Best Mutual Fund for Lumpsum Investment",
+          "url": "https://bfccapital.com/best-mutual-fund-for-lumpsum-investment",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

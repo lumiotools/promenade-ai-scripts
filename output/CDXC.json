@@ -1,0 +1,22 @@
+{
+  "symbol": "CDXC",
+  "company_name": "Chromadex Corp CS",
+  "ir_website": "https://www.chromadex.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release - Update on Research and Development",
+          "url": "https://www.chromadex.com/investor-relations/press-release-update-on-research-and-development.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.chromadex.com/investor-relations/press-release-update-on-research-and-development.pdf"
+        },
+        {
+          "title": "Press Release - Financial Results Q1 2024",
+          "url": "https://www.chromadex.com/investor-relations/financial-results-q1-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.chromadex.com/investor-relations/financial-results-q1-2024.pdf"
+        }
+      ]
+    }
+  ]
+}

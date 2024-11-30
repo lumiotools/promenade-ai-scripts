@@ -1,0 +1,52 @@
+{
+  "symbol": "CDTG",
+  "company_name": "Cdt Environmental Technology Investment",
+  "ir_website": "https://www.cdthb.cn/en/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Latest Innovations in Environmental Technology",
+          "url": "https://www.cdthb.cn/news/latest-innovations-in-environmental-technology",
+          "content": "### HTTP 错误 404.0 - Not Found\n\n#### 您要找的资源已被删除、已更名或暂时不可用。\n\n#### 最可能的原因:\n\n  * 指定的目录或文件在 Web 服务器上不存在。\n  * URL 拼写错误。\n  * 某个自定义筛选器或模块(如 URLScan)限制了对该文件的访问。\n\n\n\n#### 可尝试的操作:\n\n  * 在 Web 服务器上创建内容。\n  * 检查浏览器 URL。\n  * 创建跟踪规则以跟踪此 HTTP 状态代码的失败请求，并查看是哪个模块在调用 SetStatus。有关为失败的请求创建跟踪规则的详细信息，请单击[此处](http://go.microsoft.com/fwlink/?LinkID=66439)。\n\n\n\n#### 详细错误信息:\n\n模块|  IIS Web Core  \n---|---  \n通知|  MapRequestHandler  \n处理程序|  StaticFile  \n错误代码|  0x80070002  \n  \n请求的 URL|  http://www.cdthb.cn:80/news/latest-innovations-in-environmental-technology  \n---|---  \n物理路径|  D:\\wwwroot\\cdthbcom\\wwwroot\\news\\latest-innovations-in-environmental-technology  \n登录方法|  匿名  \n登录用户|  匿名  \n  \n#### 详细信息:\n\n此错误表明文件或目录在服务器上不存在。请创建文件或目录并重新尝试请求。 \n\n[查看详细信息 »](https://go.microsoft.com/fwlink/?LinkID=62293&IIS70Error=404,0,0x80070002,17763)\n"
+        },
+        {
+          "title": "CDT's Expansion Plans for 2024",
+          "url": "https://www.cdthb.cn/news/cdts-expansion-plans-for-2024",
+          "content": "### HTTP 错误 404.0 - Not Found\n\n#### 您要找的资源已被删除、已更名或暂时不可用。\n\n#### 最可能的原因:\n\n  * 指定的目录或文件在 Web 服务器上不存在。\n  * URL 拼写错误。\n  * 某个自定义筛选器或模块(如 URLScan)限制了对该文件的访问。\n\n\n\n#### 可尝试的操作:\n\n  * 在 Web 服务器上创建内容。\n  * 检查浏览器 URL。\n  * 创建跟踪规则以跟踪此 HTTP 状态代码的失败请求，并查看是哪个模块在调用 SetStatus。有关为失败的请求创建跟踪规则的详细信息，请单击[此处](http://go.microsoft.com/fwlink/?LinkID=66439)。\n\n\n\n#### 详细错误信息:\n\n模块|  IIS Web Core  \n---|---  \n通知|  MapRequestHandler  \n处理程序|  StaticFile  \n错误代码|  0x80070002  \n  \n请求的 URL|  http://www.cdthb.cn:80/news/cdts-expansion-plans-for-2024  \n---|---  \n物理路径|  D:\\wwwroot\\cdthbcom\\wwwroot\\news\\cdts-expansion-plans-for-2024  \n登录方法|  匿名  \n登录用户|  匿名  \n  \n#### 详细信息:\n\n此错误表明文件或目录在服务器上不存在。请创建文件或目录并重新尝试请求。 \n\n[查看详细信息 »](https://go.microsoft.com/fwlink/?LinkID=62293&IIS70Error=404,0,0x80070002,17763)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Financial Report",
+          "url": "https://www.cdthb.cn/reports/2024-annual-financial-report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.cdthb.cn/reports/2024-annual-financial-report.pdf"
+        },
+        {
+          "title": "Q1 2024 Financial Overview",
+          "url": "https://www.cdthb.cn/reports/q1-2024-financial-overview.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.cdthb.cn/reports/q1-2024-financial-overview.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release: New Partnership Announced",
+          "url": "https://www.cdthb.cn/press/new-partnership-announced",
+          "content": "### HTTP 错误 404.0 - Not Found\n\n#### 您要找的资源已被删除、已更名或暂时不可用。\n\n#### 最可能的原因:\n\n  * 指定的目录或文件在 Web 服务器上不存在。\n  * URL 拼写错误。\n  * 某个自定义筛选器或模块(如 URLScan)限制了对该文件的访问。\n\n\n\n#### 可尝试的操作:\n\n  * 在 Web 服务器上创建内容。\n  * 检查浏览器 URL。\n  * 创建跟踪规则以跟踪此 HTTP 状态代码的失败请求，并查看是哪个模块在调用 SetStatus。有关为失败的请求创建跟踪规则的详细信息，请单击[此处](http://go.microsoft.com/fwlink/?LinkID=66439)。\n\n\n\n#### 详细错误信息:\n\n模块|  IIS Web Core  \n---|---  \n通知|  MapRequestHandler  \n处理程序|  StaticFile  \n错误代码|  0x80070002  \n  \n请求的 URL|  http://www.cdthb.cn:80/press/new-partnership-announced  \n---|---  \n物理路径|  D:\\wwwroot\\cdthbcom\\wwwroot\\press\\new-partnership-announced  \n登录方法|  匿名  \n登录用户|  匿名  \n  \n#### 详细信息:\n\n此错误表明文件或目录在服务器上不存在。请创建文件或目录并重新尝试请求。 \n\n[查看详细信息 »](https://go.microsoft.com/fwlink/?LinkID=62293&IIS70Error=404,0,0x80070002,17763)\n"
+        },
+        {
+          "title": "Press Release: CDT Wins Environmental Award 2024",
+          "url": "https://www.cdthb.cn/press/cdt-wins-environmental-award-2024",
+          "content": "### HTTP 错误 404.0 - Not Found\n\n#### 您要找的资源已被删除、已更名或暂时不可用。\n\n#### 最可能的原因:\n\n  * 指定的目录或文件在 Web 服务器上不存在。\n  * URL 拼写错误。\n  * 某个自定义筛选器或模块(如 URLScan)限制了对该文件的访问。\n\n\n\n#### 可尝试的操作:\n\n  * 在 Web 服务器上创建内容。\n  * 检查浏览器 URL。\n  * 创建跟踪规则以跟踪此 HTTP 状态代码的失败请求，并查看是哪个模块在调用 SetStatus。有关为失败的请求创建跟踪规则的详细信息，请单击[此处](http://go.microsoft.com/fwlink/?LinkID=66439)。\n\n\n\n#### 详细错误信息:\n\n模块|  IIS Web Core  \n---|---  \n通知|  MapRequestHandler  \n处理程序|  StaticFile  \n错误代码|  0x80070002  \n  \n请求的 URL|  http://www.cdthb.cn:80/press/cdt-wins-environmental-award-2024  \n---|---  \n物理路径|  D:\\wwwroot\\cdthbcom\\wwwroot\\press\\cdt-wins-environmental-award-2024  \n登录方法|  匿名  \n登录用户|  匿名  \n  \n#### 详细信息:\n\n此错误表明文件或目录在服务器上不存在。请创建文件或目录并重新尝试请求。 \n\n[查看详细信息 »](https://go.microsoft.com/fwlink/?LinkID=62293&IIS70Error=404,0,0x80070002,17763)\n"
+        }
+      ]
+    }
+  ]
+}
