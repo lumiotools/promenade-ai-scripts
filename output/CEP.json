@@ -1,0 +1,29 @@
+{
+  "symbol": "CEP",
+  "company_name": "Cantor Equity Partners Inc Cl A",
+  "ir_website": "https://www.cantor.com/investor-center/",
+  "structured_data": [
+    {
+      "section_name": "Investor Center",
+      "links": [
+        {
+          "title": "Investor Center",
+          "url": "https://www.cantor.com/investor-center/",
+          "content": "[Skip to main content](#main)\n\n[ ![logo](https://www.cantor.com/wp-content/uploads/2024/04/cantor-logo-white_v3.png) ![logo](https://www.cantor.com/wp-content/uploads/2024/04/cantor-logo-blue_v3.png) ](/)\n\n  * Our Company\n  * Our Business\n  * [ Careers ](https://www.cantor.com/careers/)\n  * [ Philanthropy ](https://www.cantor.com/philanthropy/cantor-fitzgerald-relief-fund/)\n\n\n\n  * [ Who We Are ](https://www.cantor.com/our-company/who-we-are/)\n  * [ Conferences ](https://www.cantor.com/our-company/cantor-fitzgerald-conferences/)\n  * [ Our Brands ](https://www.cantor.com/our-company/our-brands/)\n\n\n\n  * [ Investment Banking ](https://www.cantor.com/our-business/investment-banking/)\n  * [ Equities ](https://www.cantor.com/our-business/equities/)\n  * [ Equity Research ](https://www.cantor.com/our-business/research/)\n  * [ Fixed Income ](https://www.cantor.com/our-business/fixed-income/)\n  * [ Prime Services ](https://www.cantor.com/our-business/prime-services/)\n  * [ Asset Management ](https://www.cantor.com/our-business/asset-management/)\n\n\n\nBy clicking on \"Accept All Cookies\", you agree to the storing of cookies on your device to analyze general website usage, enhance the navigation, and/or assist in website marketing and other efforts. Click on the \"Cookie Settings\" link for more details and/or adjust [cookie settings](https://www.cantor.com/cookie-settings/).\n\nAccept All Cookies\n\nDecline All Cookies\n"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": []
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": []
+    },
+    {
+      "section_name": "Press Releases",
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "BDRX",
+  "company_name": "Biodexa Pharmaceuticals Plc ADR",
+  "ir_website": "https://biodexapharma.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Latest Research Developments",
+          "url": "https://biodexapharma.com/news/latest-research-developments",
+          "content": null
+        },
+        {
+          "title": "Q1 2024 Financial Performance Overview",
+          "url": "https://biodexapharma.com/news/q1-2024-financial-performance-overview",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Report",
+          "url": "https://biodexapharma.com/reports/2024-annual-report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://biodexapharma.com/reports/2024-annual-report.pdf"
+        },
+        {
+          "title": "Q1 2024 Earnings Call Transcript",
+          "url": "https://biodexapharma.com/reports/q1-2024-earnings-call-transcript.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://biodexapharma.com/reports/q1-2024-earnings-call-transcript.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Biodexa Receives FDA Approval for New Drug",
+          "url": "https://biodexapharma.com/press-releases/biodexa-receives-fda-approval-for-new-drug",
+          "content": null
+        },
+        {
+          "title": "Appointment of New CFO in 2024",
+          "url": "https://biodexapharma.com/press-releases/appointment-of-new-cfo-in-2024",
+          "content": null
+        }
+      ]
+    }
+  ]
+}
