@@ -1,0 +1,32 @@
+{
+  "symbol": "JL",
+  "company_name": "J-Long Group Limited",
+  "ir_website": "https://j-long.com/investors",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Report",
+          "url": "https://j-long.com/investors/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://j-long.com/investors/annual-report-2024.pdf"
+        },
+        {
+          "title": "Q1 2024 Earnings Release",
+          "url": "https://j-long.com/investors/q1-2024-earnings.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://j-long.com/investors/q1-2024-earnings.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release: 2024 Strategic Initiatives",
+          "url": "https://j-long.com/investors/press-release-2024-strategy.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://j-long.com/investors/press-release-2024-strategy.pdf"
+        }
+      ]
+    }
+  ]
+}

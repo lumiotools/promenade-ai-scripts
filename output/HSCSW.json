@@ -1,0 +1,37 @@
+{
+  "symbol": "HSCSW",
+  "company_name": "Heart Test Laboratories WT",
+  "ir_website": "https://ir.heartsciences.com/",
+  "structured_data": [
+    {
+      "section_name": "Latest Press Releases",
+      "links": [
+        {
+          "title": "HeartSciences’ AI-ECG Algorithms Assigned CMS Medicare and Medicaid Reimbursement",
+          "url": "https://ir.heartsciences.com/pr/heartsciences-aiecg-algorithms-assigned-cms-medicare-and-medicaid-reimbursement",
+          "content": "# Press Release\n\n[ Back to Press Releases](/press_releases)\n"
+        },
+        {
+          "title": "HeartSciences to Participate in the 2024 Maxim Healthcare Virtual Summit",
+          "url": "https://ir.heartsciences.com/pr/heartsciences-to-participate-in-the-2024-maxim-healthcare-virtual-summit",
+          "content": "# Press Release\n\n[ Back to Press Releases](/press_releases)\n"
+        },
+        {
+          "title": "HeartSciences Provides Business Update and Reports First Quarter Fiscal 2025 Financial Results",
+          "url": "https://ir.heartsciences.com/pr/heartsciences-provides-business-update-and-reports-first-quarter-fiscal-2025-financial-results",
+          "content": "# Press Release\n\n[ Back to Press Releases](/press_releases)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Featured Presentation",
+      "links": [
+        {
+          "title": "View Investor Presentation",
+          "url": "https://storage.googleapis.com/vendorgroup-assets/site/0a212108-b6dc-4af6-8b96-7c009371546e/HSCS Investor Deck April 2024.pdf/2024/08/22/66c6d5567f42a3445e4a80ed",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

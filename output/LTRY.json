@@ -1,0 +1,37 @@
+{
+  "symbol": "LTRY",
+  "company_name": "Lottery.com",
+  "ir_website": "https://ir.lottery.com/",
+  "structured_data": [
+    {
+      "section_name": "Debugging Info",
+      "links": [
+        {
+          "title": "Error Code: net::ERR_CERT_AUTHORITY_INVALID",
+          "url": "https://ir.lottery.com#debugging",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Gambling.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.lottery.com\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Main Message",
+      "links": [
+        {
+          "title": "Your connection is not private",
+          "url": "https://ir.lottery.com#main-message",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Gambling.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.lottery.com\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Enhanced Protection Message",
+      "links": [
+        {
+          "title": "Turn on enhanced protection",
+          "url": "https://ir.lottery.com#enhanced-protection-link",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Gambling.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.lottery.com\n"
+        }
+      ]
+    }
+  ]
+}

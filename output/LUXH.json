@@ -1,0 +1,27 @@
+{
+  "symbol": "LUXH",
+  "company_name": "Luxurban Hotels Inc",
+  "ir_website": "https://luxurbanhotels.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release Page",
+          "url": "https://luxurbanhotels.com/press-release-page/",
+          "content": "# Press Releases\n"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://luxurbanhotels.com/sec-filings/",
+          "content": "# SEC Filings\n"
+        }
+      ]
+    }
+  ]
+}

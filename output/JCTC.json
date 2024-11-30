@@ -1,0 +1,47 @@
+{
+  "symbol": "JCTC",
+  "company_name": "Jewett-Cameron Trading Company Ltd",
+  "ir_website": "https://jewettcameron.com/pages/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "FY2024 Annual Results",
+          "url": "https://cdn.shopify.com/s/files/1/0678/5184/5928/files/Jewett_2024_10-K_Annual-Final.pdf?v=1732747582",
+          "content": "\n"
+        },
+        {
+          "title": "Latest Quarterly Results (Q3 2024)",
+          "url": "https://cdn.shopify.com/s/files/1/0678/5184/5928/files/JC_Fiscal_2024_Q3_NR_-_May_2024.pdf?v=1721245346",
+          "content": "\n"
+        },
+        {
+          "title": "View 10-Q",
+          "url": "https://cdn.shopify.com/s/files/1/0678/5184/5928/files/JCT_2024_Q3_10-Q-May_2024.pdf?v=1721145452",
+          "content": "\n"
+        },
+        {
+          "title": "Recent Events - Fiscal Full Year & 4th Quarter Results Webcast",
+          "url": "https://app.webinar.net/pR0mNLJElyz",
+          "content": "\n"
+        },
+        {
+          "title": "Lytham Partners Fall 2024 Investor Conference Webcast",
+          "url": "https://app.webinar.net/DW2kX2KybM5",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Jewett-Cameron Changes NASDAQ Trading Symbol Press Release",
+          "url": "https://cdn.shopify.com/s/files/1/0678/5184/5928/files/Jewett-Cameron_Changes_NASDAQ_Trading_Symbol-10.8.24.pdf?v=1728408514",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}
