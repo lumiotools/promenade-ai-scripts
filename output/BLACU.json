@@ -1,0 +1,37 @@
+{
+  "symbol": "BLACU",
+  "company_name": "Bellevue Life Sciences Acquisition Corp",
+  "ir_website": "https://bellevuespac.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://bellevuespac.com/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://bellevuespac.com/annual-report-2024.pdf"
+        },
+        {
+          "title": "Quarterly Results Q1 2024",
+          "url": "https://bellevuespac.com/q1-2024-results.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://bellevuespac.com/q1-2024-results.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release January 2024",
+          "url": "https://bellevuespac.com/press-release-jan-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://bellevuespac.com/press-release-jan-2024.pdf"
+        },
+        {
+          "title": "Press Release February 2024",
+          "url": "https://bellevuespac.com/press-release-feb-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://bellevuespac.com/press-release-feb-2024.pdf"
+        }
+      ]
+    }
+  ]
+}

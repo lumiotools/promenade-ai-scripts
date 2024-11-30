@@ -1,0 +1,22 @@
+{
+  "symbol": "BLEUR",
+  "company_name": "Bleuacacia Ltd Rights",
+  "ir_website": "https://acacia.blue/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Acacia Blue Launches New Initiative",
+          "url": "https://acacia.blue/news-articles/acacia-blue-launches-new-initiative",
+          "content": "\n"
+        },
+        {
+          "title": "2024 Investment Strategies Announced",
+          "url": "https://acacia.blue/news-articles/2024-investment-strategies-announced",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

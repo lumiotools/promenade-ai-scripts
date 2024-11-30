@@ -1,0 +1,77 @@
+{
+  "symbol": "CXDO",
+  "company_name": "Crexendo Inc",
+  "ir_website": "https://www.crexendo.com/why-crexendo/for-investors/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://feeds.issuerdirect.com/news.html?symbol=CXDO&link_color=&font_family=%27",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Events",
+      "links": [
+        {
+          "title": "Events",
+          "url": "https://www.crexendo.com/why-crexendo/events/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://feeds.issuerdirect.com/filings.html?symbol=CXDO&link_color=&font_family=%27",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Board of Directors",
+      "links": [
+        {
+          "title": "Board of Directors",
+          "url": "https://www.crexendo.com/why-crexendo/board/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Corporate Governance",
+      "links": [
+        {
+          "title": "Corporate Governance",
+          "url": "https://www.crexendo.com/why-crexendo/corporate-governance/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Board Diversity Matrix",
+      "links": [
+        {
+          "title": "Board Diversity Matrix",
+          "url": "https://www.crexendo.com/why-crexendo/board-diversity-matrix/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Crexendo® Stock",
+      "links": [
+        {
+          "title": "Crexendo® Stock",
+          "url": "https://www.crexendo.com/why-crexendo/for-investors/",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

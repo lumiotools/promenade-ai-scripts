@@ -1,0 +1,37 @@
+{
+  "symbol": "CRWS",
+  "company_name": "Crown Crafts Inc",
+  "ir_website": "https://www.crowncrafts.com/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Crown Crafts Reports Fourth Quarter and Full Year Results for Fiscal 2024",
+          "url": "https://www.crowncrafts.com/investor-relations/news-events/press-releases/2024-05-01-fiscal-2024-earnings-release",
+          "content": "**Your web browser (Chrome 91) has a serious security vulnerability!** Update your browser for more security, speed and the best experience on this site. [Update browser](https://browser-update.org/update-browser.html#3.3.55:www.crowncrafts.com) Ignore\n\n#  [ ![Crown Crafts, Inc.](https://d1io3yog0oux5.cloudfront.net/_046dceb9eb281a689b1933c1c7fb48d4/crowncrafts/files/theme/images/logo.svg) ](/)\n\n# Press Releases\n\nWe're sorry, looks like you landed here accidentally, but this is not a valid url. \n\n  * [Email Alerts](/investor-relations/news-events/email-alerts)\n  * [Tear Sheet](https://d1io3yog0oux5.cloudfront.net/_046dceb9eb281a689b1933c1c7fb48d4/crowncrafts/files/Tear+Sheet.pdf \"Tear Sheet\")\n  * [RSS News Feed](/investor-relations/news-events/press-releases/rss)\n\n\n"
+        },
+        {
+          "title": "Crown Crafts Announces Acquisition of New Product Lines",
+          "url": "https://www.crowncrafts.com/investor-relations/news-events/press-releases/2024-01-15-acquisition-announcement",
+          "content": "#  [ ![Crown Crafts, Inc.](https://d1io3yog0oux5.cloudfront.net/_046dceb9eb281a689b1933c1c7fb48d4/crowncrafts/files/theme/images/logo.svg) ](/)\n\n# Press Releases\n\nWe're sorry, looks like you landed here accidentally, but this is not a valid url. \n\n  * [Email Alerts](/investor-relations/news-events/email-alerts)\n  * [Tear Sheet](https://d1io3yog0oux5.cloudfront.net/_046dceb9eb281a689b1933c1c7fb48d4/crowncrafts/files/Tear+Sheet.pdf \"Tear Sheet\")\n  * [RSS News Feed](/investor-relations/news-events/press-releases/rss)\n\n\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.crowncrafts.com/investor-relations/financial-reports/annual-report-2023.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.crowncrafts.com/investor-relations/financial-reports/annual-report-2023.pdf"
+        },
+        {
+          "title": "Quarterly Report Q1 2024",
+          "url": "https://www.crowncrafts.com/investor-relations/financial-reports/q1-2024-report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.crowncrafts.com/investor-relations/financial-reports/q1-2024-report.pdf"
+        }
+      ]
+    }
+  ]
+}
