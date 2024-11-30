@@ -4,9 +4,7 @@ from llama_index.core.node_parser import SemanticSplitterNodeParser
 from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.core.ingestion import IngestionPipeline
 from llama_index.core import Document
-from llama_index.core.storage.docstore import SimpleDocumentStore
 from dotenv import load_dotenv
-from ai.get_embedding import get_embedding
 import json
 import os
 import pandas as pd
@@ -31,12 +29,6 @@ pinecone_index = pinecone.Index(pinecone_index_name)
 # Initialize VectorStore
 vector_store = PineconeVectorStore(pinecone_index=pinecone_index)
 
-if not os.path.exists("docstore.json"):
-    with open("docstore.json", "w") as f:
-        f.write("{}")
-
-docstore = SimpleDocumentStore.from_persist_path(persist_path="docstore.json")
-
 embed_model = OpenAIEmbedding(model="text-embedding-3-small")
 
 pipeline = IngestionPipeline(
@@ -49,8 +41,20 @@ pipeline = IngestionPipeline(
         embed_model,
     ],
     vector_store=vector_store, # Our new addition
-    docstore=docstore,
 )
+
+def isIndexed(url):
+    query_response = pinecone_index.query(
+    vector=[0] * 1536,  # Zero vector of appropriate dimensionality
+    # Your metadata filter
+    filter={"url": {"$eq": url}},
+    top_k=1,
+    )
+    
+    if len(query_response.matches) > 0:
+        return True
+    else:
+        return False
 
 
 def index_company_data(symbol):
@@ -68,8 +72,8 @@ def index_company_data(symbol):
             logging.info(f"Indexing {section_name} for {company_name}")
 
             for link in section["links"]:
-                if docstore.document_exists(document.doc_id):
-                    logging.info(f"Document {document.doc_id} already exists. Skipping ingestion.")
+                if isIndexed(link["url"]):
+                    logging.info(f"Document {link['title']} already exists. Skipping ingestion.")
                     continue
 
                 content = f"Company: {company_name}\nSection: {section_name}\nTitle: {link['title']}\nURL: {link['url']}\nContent: {link['content']}"
@@ -85,14 +89,16 @@ def index_company_data(symbol):
                 })
 
                 pipeline.run(documents=[document])
-                docstore.persist("docstore.json")
 
                 logging.info(f"Indexed {link['title']} for {company_name}")
 
 
 if __name__ == "__main__":
-    company_symbol = pd.read_csv("data/companies_part.csv")["Symbol"].values
+    company_symbol = pd.read_csv("data/companies_part3.csv")["Symbol"].values
     for index, symbol in enumerate(company_symbol):
+        
+        if index != 5:
+            continue
 
         logging.info(f"Indexing {symbol} ({index+1}/{len(company_symbol)})")
 
