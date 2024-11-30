@@ -1,0 +1,22 @@
+{
+  "symbol": "BLEU",
+  "company_name": "Bleuacacia Ltd Cl A",
+  "ir_website": "https://acacia.blue/the-company",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Acacia Blue Investment Insights 2024",
+          "url": "https://acacia.blue/news/investment-insights-2024",
+          "content": "\n"
+        },
+        {
+          "title": "Acacia Blue Announces New Partnership",
+          "url": "https://acacia.blue/news/partnership-announcement-2024",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

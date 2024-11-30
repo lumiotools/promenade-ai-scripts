@@ -1,0 +1,27 @@
+{
+  "symbol": "BNAIW",
+  "company_name": "Brand Engagement Network Inc WT",
+  "ir_website": "https://beninc.ai/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://beninc.ai/wp-content/uploads/2024/02/Annual_Report_2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://beninc.ai/wp-content/uploads/2024/02/Annual_Report_2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "New AI Launch Announcement",
+          "url": "https://beninc.ai/wp-content/uploads/2024/03/New_AI_Launch_Announcement.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://beninc.ai/wp-content/uploads/2024/03/New_AI_Launch_Announcement.pdf"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "BGC",
+  "company_name": "Bgc Partners Cl A",
+  "ir_website": "https://ir.bgcg.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Market Trends: Insights for 2024",
+          "url": "https://ir.bgcg.com/news/market-trends-insights-for-2024",
+          "content": "\n"
+        },
+        {
+          "title": "Company Launches New Initiative",
+          "url": "https://ir.bgcg.com/news/company-launches-new-initiative",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Results",
+          "url": "https://ir.bgcg.com/financials/q1-2024-financial-results.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.bgcg.com/financials/q1-2024-financial-results.pdf"
+        },
+        {
+          "title": "2023 Annual Report",
+          "url": "https://ir.bgcg.com/financials/annual-report-2023.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.bgcg.com/financials/annual-report-2023.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Expansion into New Markets",
+          "url": "https://ir.bgcg.com/releases/expansion-new-markets-2024",
+          "content": "\n"
+        },
+        {
+          "title": "New Product Launch Announcement",
+          "url": "https://ir.bgcg.com/releases/new-product-launch-2024",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}
