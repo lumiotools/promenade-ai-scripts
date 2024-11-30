@@ -1,0 +1,47 @@
+{
+  "symbol": "EVTV",
+  "company_name": "Envirotech Vehicles Inc",
+  "ir_website": "https://evtvusa.com/investor-relations-evtv/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "News",
+          "url": "https://evtvusa.com/news-evtv/",
+          "content": "[ Skip to content](#content \"Skip to content\")\n\n[![EVTV](https://evtvusa.com/wp-content/uploads/2024/05/evt-logo-1.png)](https://evtvusa.com/)\n\n[](https://www.facebook.com/EnvirotechVehicles)[](https://www.instagram.com/evtusa/)\n\n[![EVTV]()](https://evtvusa.com/)\n\nMain Menu\n\n## News\n\n[ News ](#)\n\nPRESS RELEASES\n\nSEC FILINGS\n\nSTOCK CHART\n\nANALYSTS\n\n**Craig Irwin** Managing Director, Senior Research Analyst ROTH Capital Partners– Member FINRA & SIPC\n\n## SIGN UP FOR OUR NEWSLETTER\n\nFirst Name \n\nLast Name \n\nEmail \n\nSignUp \n\nPress Releases SEC Filings Stock Quotes\n\nSUBMIT\n\nScroll to Top\n\n[Powered by MHP.SI](https://mhp.si)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://feeds.issuerdirect.com/news.html?symbol=EVTV&link_color=09244b&font_family=Open Sans&text_color=676767",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://feeds.issuerdirect.com/filings.html?symbol=EVTV&link_color=09244b&font_family=Open Sans&text_color=676767",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Stock Chart",
+      "links": [
+        {
+          "title": "Stock Chart",
+          "url": "https://feeds.issuerdirect.com/stock.html?symbol=EVTV&color=#09244b",
+          "content": "Minimum 15 minutes delayed\n\n1d 5d 1m 3m 6m 1y 2y 5y 10y 20y\n\nFrequency:\n"
+        }
+      ]
+    }
+  ]
+}
