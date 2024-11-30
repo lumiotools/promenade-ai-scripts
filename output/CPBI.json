@@ -1,0 +1,27 @@
+{
+  "symbol": "CPBI",
+  "company_name": "Central Plains Bancshares Inc",
+  "ir_website": "https://www.centralbank.net/central-bancompany/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2023 Annual Report",
+          "url": "https://www.centralbank.net/globalassets/enterprise/content/annual-report/2023-annual-report.pdf?v=1DA86A4C775DE00",
+          "content": "\n"
+        },
+        {
+          "title": "2022 Annual Report",
+          "url": "https://www.centralbank.net/globalassets/enterprise/content/annual-report/2022-annual-report-.pdf?v=1D96BD477B91F80",
+          "content": "\n"
+        },
+        {
+          "title": "2021 Annual Report",
+          "url": "https://www.centralbank.net/globalassets/enterprise/content/annual-report/2021-annual-report.pdf?v=1D84DC344766180",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

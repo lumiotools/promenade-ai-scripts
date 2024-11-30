@@ -1,0 +1,37 @@
+{
+  "symbol": "ARTNA",
+  "company_name": "Artesian Res Corp A",
+  "ir_website": "https://www.artesianwater.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Release",
+          "url": "https://www.artesianwater.com/press-release/q1-2024-earnings-release.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.artesianwater.com/press-release/q1-2024-earnings-release.pdf"
+        },
+        {
+          "title": "New Water Conservation Initiative Launch",
+          "url": "https://www.artesianwater.com/press-release/new-water-conservation-initiative-launch.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.artesianwater.com/press-release/new-water-conservation-initiative-launch.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Report",
+          "url": "https://www.artesianwater.com/financial-report/2024-annual-report.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.artesianwater.com/financial-report/2024-annual-report.pdf"
+        },
+        {
+          "title": "Q2 2024 Financial Results",
+          "url": "https://www.artesianwater.com/financial-report/q2-2024-results.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.artesianwater.com/financial-report/q2-2024-results.pdf"
+        }
+      ]
+    }
+  ]
+}

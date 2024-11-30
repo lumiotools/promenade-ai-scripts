@@ -1,0 +1,42 @@
+{
+  "symbol": "CDTTW",
+  "company_name": "Conduit Pharmaceuticals Inc WT",
+  "ir_website": "https://www.conduitpharma.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "News & Events",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://www.conduitpharma.com/news-events/press-releases/",
+          "content": "[ ![Conduit Pharmaceuticals](https://www.conduitpharma.com/wp-content/themes/mziq_Conduit_Pharmaceuticals_Limited_otc/img/logo.png) ](https://www.conduitpharma.com)\n\nA- A+ Contrast [ Accessibility ](/accessibility)\n\n[Corporate](#)\n\n# Press Releases\n"
+        },
+        {
+          "title": "Company Events",
+          "url": "https://www.conduitpharma.com/news-events/company-events/",
+          "content": "[ ![Conduit Pharmaceuticals](https://www.conduitpharma.com/wp-content/themes/mziq_Conduit_Pharmaceuticals_Limited_otc/img/logo.png) ](https://www.conduitpharma.com)\n\nA- A+ Contrast [ Accessibility ](/accessibility)\n\n[Corporate](#)\n\n# Company Events\n\nSubtitle:\n\nEarnings Release\n\nWebcast\n\nMore than one event\n\nConferences\n\nOther Events\n\n## Future events\n\nDate | Event | Details | Export  \n---|---|---|---  \n  \n## Past events\n\nDate | Event | Details  \n---|---|---\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Corporate Presentation",
+          "url": "https://www.conduitpharma.com/investors/corporate-presentation/",
+          "content": "[ ![Conduit Pharmaceuticals](https://www.conduitpharma.com/wp-content/themes/mziq_Conduit_Pharmaceuticals_Limited_otc/img/logo.png) ](https://www.conduitpharma.com)\n\nA- A+ Contrast [ Accessibility ](/accessibility)\n\n[Corporate](#)\n\n# Corporate Presentation\n\nNo files for the selected year.\n\n### Corporate Presentation\n"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://www.conduitpharma.com/investors/sec-filings/",
+          "content": "[ ![Conduit Pharmaceuticals](https://www.conduitpharma.com/wp-content/themes/mziq_Conduit_Pharmaceuticals_Limited_otc/img/logo.png) ](https://www.conduitpharma.com)\n\nA- A+ Contrast [ Accessibility ](/accessibility)\n\n[Corporate](#)\n\n# SEC Filings\n"
+        }
+      ]
+    }
+  ]
+}

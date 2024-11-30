@@ -1,0 +1,27 @@
+{
+  "symbol": "ACONW",
+  "company_name": "Aclarion Inc WT",
+  "ir_website": "https://investors.aclarion.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://investors.aclarion.com/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://investors.aclarion.com/annual-report-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "New Partnership Announcement - January 2024",
+          "url": "https://investors.aclarion.com/press-releases/january-2024-partnership-announcement",
+          "content": "[Skip to main content](#main)\n\n[ ![Aclarion](/media/themes/635bbd86b3aed358937237cb/fonts/logo.svg) ](https://aclarion.com/)\n\nTop Menu\n\n# Investor Relations\n\n# Page Not Found\n\nWe're sorry, but the page you requested cannot be found.\n\n[Return to Homepage](/)\n"
+        }
+      ]
+    }
+  ]
+}
