@@ -1,0 +1,37 @@
+{
+  "symbol": "EDTK",
+  "company_name": "Skillful Craftsman Education Technology Ltd",
+  "ir_website": "https://www.motilaloswal.com/invest-in-us-stocks-details/EDTK",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Financial Report 2024",
+          "url": "https://www.motilaloswal.com/financial-reports/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "Quarterly Financial Report Q1 2024",
+          "url": "https://www.motilaloswal.com/financial-reports/q1-2024-report.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release on New Product Launch 2024",
+          "url": "https://www.motilaloswal.com/press-releases/new-product-launch-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "Press Release Q1 2024 Financial Results",
+          "url": "https://www.motilaloswal.com/press-releases/q1-2024-financial-results.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    }
+  ]
+}

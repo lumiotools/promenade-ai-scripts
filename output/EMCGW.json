@@ -1,0 +1,17 @@
+{
+  "symbol": "EMCGW",
+  "company_name": "Embrace Change Acquisition Corp Warrants",
+  "ir_website": "https://www.sec.gov/Archives/edgar/data/1869601/000119312521227303/d172044ds1.htm",
+  "structured_data": [
+    {
+      "section_name": "S-1 Registration Statement",
+      "links": [
+        {
+          "title": "S-1 Registration Statement",
+          "url": "https://www.sec.gov/Archives/edgar/data/172044/d172044ds1.htm",
+          "content": "`NoSuchKey`The specified key does not exist.edgar/data/172044/d172044ds1.htmPGSGCCYSW9ZCZ908s/vBPAj9EGZ6XQtCASgZtrSTQTNqFexxJ8Fx9xbss/mo+HJ6dRAsfgcYUj1OPqFwqFYrT6ES7yk=\n\nThis XML file does not appear to have any style information associated with it. The document tree is shown below.\n\n<Error>\n\n<Code>NoSuchKey</Code>\n\n<Message>The specified key does not exist.</Message>\n\n<Key>edgar/data/172044/d172044ds1.htm</Key>\n\n<RequestId>PGSGCCYSW9ZCZ908</RequestId>\n\n<HostId>s/vBPAj9EGZ6XQtCASgZtrSTQTNqFexxJ8Fx9xbss/mo+HJ6dRAsfgcYUj1OPqFwqFYrT6ES7yk=</HostId>\n\n...\n\n</Error>\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "symbol": "CHEF",
+  "company_name": "The Chefs Warehouse",
+  "ir_website": "https://www.chefswarehouse.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Vande Rose & The Travis Mills Foundation",
+          "url": "https://www.chefswarehouse.com/link/6541918376f244ec89bb1718a67a44aa.aspx",
+          "content": "Open Search\n\n##  Add null to Order Guide \n\nClose Modal \n\nThere are currently no order guides created. \n\nCreate a New Order Guide  Done \n\nClose Modal \n"
+        }
+      ]
+    }
+  ]
+}
