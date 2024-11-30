@@ -1,0 +1,47 @@
+{
+  "symbol": "IVDA",
+  "company_name": "Iveda Solutions Inc",
+  "ir_website": "https://iveda.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Upstract: Council Post: AI & Surveillance",
+          "url": "https://iveda.com/upstract-council-post-ai-surveillance/",
+          "content": null
+        },
+        {
+          "title": "ESG Dive: NYU’s Stern Center for Business and Human Rights Calls for ESG Ratings System Overhaul",
+          "url": "https://iveda.com/esg-dive-nyus-stern-center-for-business-and-human-rights-calls-for-esg-ratings-system-overhaul/",
+          "content": null
+        },
+        {
+          "title": "Forbes: AI & Surveillance – Striking The Balance For Ethical Deployment",
+          "url": "https://iveda.com/forbes-ai-surveillance-striking-the-balance-for-ethical-deployment/",
+          "content": null
+        },
+        {
+          "title": "Healthcare IT Today: Bonus Features – November 19, 2023 – Critical access hospitals 16% less likely to participate in data exchange, two-thirds of orgs plan to increase AI spending by 25% in the next three years, plus 36 more stories",
+          "url": "https://iveda.com/healthcare-it-today-bonus-features-november-19-2023-critical-access-hospitals-16-less-likely-to-participate-in-data-exchange-two-thirds-of-orgs-plan-to-increase-ai-spending-by-2/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Iveda Announces $2.15 Million Registered Direct Offering Priced At-the-Market Under Nasdaq Rules",
+          "url": "https://iveda.com/iveda-announces-2-15-million-registered-direct-offering-priced-at-the-market-under-nasdaq-rules/",
+          "content": null
+        },
+        {
+          "title": "Iveda Expands Its Presence in Egypt, Signing New Strategic Partnership including Technology Transfer for Local Manufacturing of its VEMO Body Cam",
+          "url": "https://iveda.com/iveda-expands-its-presence-in-egypt-signing-new-strategic-partnership-including-technology-transfer-for-local-manufacturing-of-its-vemo-body-cam/",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

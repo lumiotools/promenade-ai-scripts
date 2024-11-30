@@ -1,0 +1,47 @@
+{
+  "symbol": "LSBPW",
+  "company_name": "Lakeshore Biopharma CO Ltd WT",
+  "ir_website": "https://investor.lakeshorebio.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Report",
+          "url": "https://investor.lakeshorebio.com/report/2024",
+          "content": "# Not Found\n\nThe requested URL \"/report/2024\" was not found on this server.\n"
+        },
+        {
+          "title": "Q2 2024 Financial Results",
+          "url": "https://investor.lakeshorebio.com/report/q2-2024-results.pdf",
+          "content": "Error extracting PDF content: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Lakeshore Bio Announces New Product Launch in 2024",
+          "url": "https://investor.lakeshorebio.com/press-releases/new-product-launch-2024",
+          "content": "# Not Found\n\nThe requested URL \"/press-releases/new-product-launch-2024\" was not found on this server.\n"
+        },
+        {
+          "title": "Lakeshore Bio Partners with Research Institution",
+          "url": "https://investor.lakeshorebio.com/press-releases/research-partnership-2024",
+          "content": "# Not Found\n\nThe requested URL \"/press-releases/research-partnership-2024\" was not found on this server.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Lakeshore Bio Updates Their Strategy for 2024",
+          "url": "https://investor.lakeshorebio.com/news/updating-strategy-2024",
+          "content": "# Not Found\n\nThe requested URL \"/news/updating-strategy-2024\" was not found on this server.\n"
+        }
+      ]
+    }
+  ]
+}

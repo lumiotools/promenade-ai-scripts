@@ -1,0 +1,27 @@
+{
+  "symbol": "NIXXW",
+  "company_name": "Nixxy Inc WT",
+  "ir_website": "https://www.nixxy.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings Feed",
+          "url": "https://feeds.issuerdirect.com/filings.html?symbol=NIXX&font_family=Roboto",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "News",
+      "links": [
+        {
+          "title": "Press Release Feed",
+          "url": "https://feeds.issuerdirect.com/news.html?symbol=RCRT&per_page=5&font_family=Roboto",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

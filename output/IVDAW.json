@@ -1,0 +1,52 @@
+{
+  "symbol": "IVDAW",
+  "company_name": "Iveda Solutions Inc WT",
+  "ir_website": "https://iveda.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Iveda’s VumastAR AI Software Will Recognize Oil Spills for Safety Applications with Major Oil Companies in Australia and the US – Stock Titan",
+          "url": "https://iveda.com/ivedas-vumastar-ai-software-will-recognize-oil-spills-for-safety-applications-with-major-oil-companies-in-australia-and-the-us-stock-titan/",
+          "content": null
+        },
+        {
+          "title": "Iveda Announces $2.15 Million Registered Direct Offering Priced At-the-Market Under Nasdaq Rules",
+          "url": "https://iveda.com/iveda-announces-2-15-million-registered-direct-offering-priced-at-the-market-under-nasdaq-rules/",
+          "content": null
+        },
+        {
+          "title": "Iveda Applauds the Department of Homeland Security’s New AI Guidelines",
+          "url": "https://iveda.com/iveda-applauds-the-department-of-homeland-securitys-new-ai-guidelines/",
+          "content": null
+        },
+        {
+          "title": "Iveda Unveils the Magic of IvedaAI™: An Industry First in Human-Like, Compute-Efficient AI Video Analytics",
+          "url": "https://iveda.com/iveda-unveils-the-magic-of-ivedaai-an-industry-first-in-human-like-compute-efficient-ai-video-analytics/",
+          "content": null
+        },
+        {
+          "title": "Interstate Land Management Corporation and Philadelphia Parking Authority Greenlights Trial of IvedaAI™ & ClearView Asset Protection",
+          "url": "https://iveda.com/interstate-land-management-corporation-and-philadelphia-parking-authority-greenlights-trial-of-ivedaai-clearview-asset-protection/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Iveda Expands Its Presence in Egypt, Signing New Strategic Partnership including Technology Transfer for Local Manufacturing of its VEMO Body Cam",
+          "url": "https://iveda.com/iveda-expands-its-presence-in-egypt-signing-new-strategic-partnership-including-technology-transfer-for-local-manufacturing-of-its-vemo-body-cam/",
+          "content": null
+        },
+        {
+          "title": "Iveda Launches IvedaESS––A  Portable, Plug-and-Play Security Solution for the Power of IvedaAI On the Go",
+          "url": "https://iveda.com/iveda-launches-ivedaess-a-portable-plug-and-play-security-solution-for-the-power-of-ivedaai-on-the-go/",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

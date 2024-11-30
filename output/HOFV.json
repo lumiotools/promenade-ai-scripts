@@ -1,0 +1,22 @@
+{
+  "symbol": "HOFV",
+  "company_name": "Hall of Fame Resort & Ent",
+  "ir_website": "https://ir.hofreco.com/press-releases/default.aspx",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release Title Example 1",
+          "url": "https://ir.hofreco.com/press-releases/release1.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.hofreco.com/press-releases/release1.pdf"
+        },
+        {
+          "title": "Press Release Title Example 2",
+          "url": "https://ir.hofreco.com/press-releases/release2.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.hofreco.com/press-releases/release2.pdf"
+        }
+      ]
+    }
+  ]
+}

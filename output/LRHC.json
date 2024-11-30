@@ -1,0 +1,42 @@
+{
+  "symbol": "LRHC",
+  "company_name": "LA Rosa Holdings Corp",
+  "ir_website": "https://larosaholdings.com/investor-faqs",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://larosaholdings.com/press-releases",
+          "content": "# Press Releases\n\nNews & Events\n\n  * [Press Releases](/press-releases)\n  * [Events](/events)\n  * [Presentations](/presentations)\n  * [Media](/media)\n\n\n\n### Search\n\nSelect Year 20242023 [![RSS feed](https://s3.amazonaws.com/sec.irpass.cc/v1/RSS_28x28.png)](https://www.rss-view.com/rss/newsrss.asp?B=2885&L=1)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Financial Filings",
+          "url": "https://larosaholdings.com/financial-filings",
+          "content": "# Financial Filings\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Investor Resources",
+      "links": [
+        {
+          "title": "Investor FAQ's",
+          "url": "https://larosaholdings.com/investor-faqs",
+          "content": "# Investor FAQ's\n\nWho is La Rosa Holdings Corp.'s transfer agent?\n\nVStock Transfer Agent Seth Farbman, Chairman VStock Transfer, LLC (212) 828-8436 | seth@vstocktransfer.com\n\nWho are La Rosa Holdings Corp.'s independent auditors?\n\nMarcum Alan Markowitz, CPA Partner 730 Third Avenue, New York, NY 10017 (212) 485-5590 | Alan.Markowitz@marcumllp.com\n\nWho is La Rosa Holdings Corp.'s outside legal counsel?\n\nCarmel, Milazzo & Feil LLP Ross David Carmel, Esq. Partner 55 West 39th Street, 18th Floor, New York, NY 10018 (212) 658-0458; Ext. 1001 | rcarmel@cmfllp.com\n\nWhom can I contact for investor information about La Rosa Holdings Corp.?\n\nDavid Waldman/Natalya Rudman Crescendo Communications, LLC Tel: 212-671-1020 x 304 Email: LRHC@crescendo-ir.com\n\nWhen is La Rosa Holdings Corp.'s fiscal year-end?\n\nDecember 31 \n\nHow can I buy La Rosa Holdings Corp. stock?\n\nShares in La Rosa Holdings Crop. can be purchased and traded through brokerage firms that access the Nasdaq market in accordance with market rules and regulations, depending on where you wish to buy stock. \n"
+        },
+        {
+          "title": "Email Alerts",
+          "url": "https://larosaholdings.com/email-alerts",
+          "content": "# Email Alerts\n\n### Sign up for alerts\n\nFill out the form below to receive real-time email notifications for select financial press releases, and SEC filings.\n"
+        }
+      ]
+    }
+  ]
+}

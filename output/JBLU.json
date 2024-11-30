@@ -1,0 +1,47 @@
+{
+  "symbol": "JBLU",
+  "company_name": "Jetblue Airways Corp",
+  "ir_website": "https://investor.jetblue.com/financials/quarterly-results/default.aspx",
+  "structured_data": [
+    {
+      "section_name": "Quarterly Results",
+      "links": [
+        {
+          "title": "Q1 2024 Report",
+          "url": "https://investor.jetblue.com/financials/quarterly-results/report-q1-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://investor.jetblue.com/financials/quarterly-results/report-q1-2024.pdf"
+        },
+        {
+          "title": "Q2 2024 Report",
+          "url": "https://investor.jetblue.com/financials/quarterly-results/report-q2-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://investor.jetblue.com/financials/quarterly-results/report-q2-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Annual Reports",
+      "links": [
+        {
+          "title": "2024 Annual Report",
+          "url": "https://investor.jetblue.com/financials/annual-reports/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://investor.jetblue.com/financials/annual-reports/annual-report-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filing Q1 2024",
+          "url": "https://investor.jetblue.com/financials/sec-filings/sec-filing-q1-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://investor.jetblue.com/financials/sec-filings/sec-filing-q1-2024.pdf"
+        },
+        {
+          "title": "SEC Filing Q2 2024",
+          "url": "https://investor.jetblue.com/financials/sec-filings/sec-filing-q2-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://investor.jetblue.com/financials/sec-filings/sec-filing-q2-2024.pdf"
+        }
+      ]
+    }
+  ]
+}

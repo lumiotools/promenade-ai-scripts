@@ -1,0 +1,52 @@
+{
+  "symbol": "LSBK",
+  "company_name": "Lake Shore Bancorp",
+  "ir_website": "https://ir.lakeshoresavings.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Latest Developments in 2024",
+          "url": "https://ir.lakeshoresavings.com/latest-developments-2024",
+          "content": "\n"
+        },
+        {
+          "title": "Investor Insights for 2024",
+          "url": "https://ir.lakeshoresavings.com/investor-insights-2024",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://ir.lakeshoresavings.com/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.lakeshoresavings.com/annual-report-2024.pdf"
+        },
+        {
+          "title": "Q1 Financial Results 2024",
+          "url": "https://ir.lakeshoresavings.com/q1-financial-results-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.lakeshoresavings.com/q1-financial-results-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release - New Partnership Announced 2024",
+          "url": "https://ir.lakeshoresavings.com/press-release-new-partnership-2024",
+          "content": "\n"
+        },
+        {
+          "title": "Press Release - Q1 2024 Results",
+          "url": "https://ir.lakeshoresavings.com/press-release-q1-2024-results",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

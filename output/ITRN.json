@@ -1,0 +1,32 @@
+{
+  "symbol": "ITRN",
+  "company_name": "Ituran Location",
+  "ir_website": "https://www.ituran.com/ituranglobal/investors/corporate-profile/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q4 2024 Financial Report",
+          "url": "https://www.ituran.com/financial_reports/Q4_2024_Financial_Report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.ituran.com/financial_reports/Q4_2024_Financial_Report.pdf"
+        },
+        {
+          "title": "Full Year 2024 Financial Report",
+          "url": "https://www.ituran.com/financial_reports/2024_Full_Year_Financial_Report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.ituran.com/financial_reports/2024_Full_Year_Financial_Report.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release - New Product Launch 2024",
+          "url": "https://www.ituran.com/press_releases/New_Product_Launch_2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.ituran.com/press_releases/New_Product_Launch_2024.pdf"
+        }
+      ]
+    }
+  ]
+}
