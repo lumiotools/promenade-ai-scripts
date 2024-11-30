@@ -1,0 +1,27 @@
+{
+  "symbol": "CCTG",
+  "company_name": "Ccsc Technology International Holdings Limited",
+  "ir_website": "https://ir.ccsc-interconnect.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://ir.ccsc-interconnect.com/pressrelease.html",
+          "content": "![](images/logo.png)\n\n[![](images/logo.png)](index.html)\n  * [Overview](overview.html)\n    * [Company Introduction ](overview.html?type=company)\n    * [Management Team](overview.html?type=management)\n    * [Board of Directors](overview.html?type=board)\n    * [Board Committee Composition](overview.html?type=committee)\n  * [Press Releases](pressrelease.html)\n  * [SEC Filings](sec.html)\n  * [Corporate Governance](corporate.html)\n  * [Stock Information](stock.html)\n    * [Stock Quote & Chart](stock.html?type=stock)\n    * [Investment Calculator ](stock.html?type=investment)\n    * [Stock Lookup](stock.html?type=lookup)\n  * [Request Information](requestinformation.html)\n    * [IR Contacts](requestinformation.html?type=ir)\n    * [E-mail Alerts](requestinformation.html?type=information)\n    * [FAQs](requestinformation.html?type=faq)\n\n\n\n![](images/banner1_1.png)\n\n## Press Releases\n"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://ir.ccsc-interconnect.com/sec.html",
+          "content": "![](images/logo.png)\n\n[![](images/logo.png)](index.html)\n  * [Overview](overview.html)\n    * [Company Introduction ](overview.html?type=company)\n    * [Management Team](overview.html?type=management)\n    * [Board of Directors](overview.html?type=board)\n    * [Board Committee Composition](overview.html?type=committee)\n  * [Press Releases](pressrelease.html)\n  * [SEC Filings](sec.html)\n  * [Corporate Governance](corporate.html)\n  * [Stock Information](stock.html)\n    * [Stock Quote & Chart](stock.html?type=stock)\n    * [Investment Calculator ](stock.html?type=investment)\n    * [Stock Lookup](stock.html?type=lookup)\n  * [Request Information](requestinformation.html)\n    * [IR Contacts](requestinformation.html?type=ir)\n    * [E-mail Alerts](requestinformation.html?type=information)\n    * [FAQs](requestinformation.html?type=faq)\n\n\n\n![](images/banner1_1.png)\n\n## SEC Filings\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "symbol": "CAPNU",
+  "company_name": "Cayson Acquisition Corp Units",
+  "ir_website": "https://www.caysonspac.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.caysonspac.com/investor-relations/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release - Merger Announcement",
+          "url": "https://www.caysonspac.com/investor-relations/press-release-merger-2024.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    }
+  ]
+}
