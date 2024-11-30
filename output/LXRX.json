@@ -1,0 +1,62 @@
+{
+  "symbol": "LXRX",
+  "company_name": "Lexicon Pharmaceutcl",
+  "ir_website": "https://www.lexpharma.com/investors",
+  "structured_data": [
+    {
+      "section_name": "Company Presentation",
+      "links": [
+        {
+          "title": "Download Presentation",
+          "url": "https://www.lexpharma.com/static/media/Corporate%20Presentation.625f6c0842581a0b7fea35b5751a1c8b.png",
+          "content": "# 404 - Page Not Found\n\nThis page doesn’t exist or was removed.We suggest you go to the homepage.\n\n[See Homepage](/)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Annual Reports",
+      "links": [
+        {
+          "title": "2023 Report",
+          "url": "https://www.lexpharma.com/static/media/Annual%20Report%202023.dba3d2208a5b4c21129601051fa0339d.png",
+          "content": "# 404 - Page Not Found\n\nThis page doesn’t exist or was removed.We suggest you go to the homepage.\n\n[See Homepage](/)\n"
+        },
+        {
+          "title": "2022 Report",
+          "url": "https://www.lexpharma.com/static/media/Annual%20Report%202022.674eb1c67fc43ac6b765e447d8d3cd6b.png",
+          "content": "# 404 - Page Not Found\n\nThis page doesn’t exist or was removed.We suggest you go to the homepage.\n\n[See Homepage](/)\n"
+        },
+        {
+          "title": "2023 Report",
+          "url": "https://www.lexpharma.com/static/media/Annual%20Report%202020.a64e602a01394e59563da2bd724ea5f7.png",
+          "content": "# 404 - Page Not Found\n\nThis page doesn’t exist or was removed.We suggest you go to the homepage.\n\n[See Homepage](/)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Corporate Governance",
+      "links": [
+        {
+          "title": "10-K December 31",
+          "url": "https://www.lexpharma.com/static/media/10-K%20December%2031.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.lexpharma.com/static/media/10-K%20December%2031.pdf"
+        },
+        {
+          "title": "Q3 September 30",
+          "url": "https://www.lexpharma.com/static/media/Q3%20September%2030.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.lexpharma.com/static/media/Q3%20September%2030.pdf"
+        },
+        {
+          "title": "Q2 June 30",
+          "url": "https://www.lexpharma.com/static/media/Q2%20June%2030.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.lexpharma.com/static/media/Q2%20June%2030.pdf"
+        },
+        {
+          "title": "Q1 March 31",
+          "url": "https://www.lexpharma.com/static/media/Q1%20March%2031.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.lexpharma.com/static/media/Q1%20March%2031.pdf"
+        }
+      ]
+    }
+  ]
+}

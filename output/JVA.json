@@ -1,0 +1,32 @@
+{
+  "symbol": "JVA",
+  "company_name": "Coffee Holding Company",
+  "ir_website": "https://investors.coffeeholding.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release 1 - 2024",
+          "url": "https://investors.coffeeholding.com/press-release-1-2024",
+          "content": null
+        },
+        {
+          "title": "Press Release 2 - 2024",
+          "url": "https://investors.coffeeholding.com/press-release-2-2024",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Annual Report, due 2024",
+          "url": "https://irp.cdn-website.com/33e42008/files/uploaded/JVA_AnnualReport_Print-2024.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://irp.cdn-website.com/33e42008/files/uploaded/JVA_AnnualReport_Print-2024.pdf"
+        }
+      ]
+    }
+  ]
+}
