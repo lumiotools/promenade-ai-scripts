@@ -1,0 +1,17 @@
+{
+  "symbol": "NCMI",
+  "company_name": "National Cinemedia",
+  "ir_website": "https://www.ncm.com/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.ncm.com/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.ncm.com/annual-report-2024.pdf"
+        }
+      ]
+    }
+  ]
+}

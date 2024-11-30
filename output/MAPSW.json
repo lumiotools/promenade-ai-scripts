@@ -1,0 +1,42 @@
+{
+  "symbol": "MAPSW",
+  "company_name": "Wm Technology Inc WT",
+  "ir_website": "https://ir.weedmaps.com/",
+  "structured_data": [
+    {
+      "section_name": "Debugging Information",
+      "links": [
+        {
+          "title": "Error Code: net::ERR_CERT_AUTHORITY_INVALID",
+          "url": "https://ir.weedmaps.com/#error-code",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.weedmaps.com\n"
+        },
+        {
+          "title": "Subject: leapfrog-ssl-45.gcs-web.com",
+          "url": "https://ir.weedmaps.com/#subject",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.weedmaps.com\n"
+        },
+        {
+          "title": "Issuer: Sophos SSL CA_UydDt0runlptXsO",
+          "url": "https://ir.weedmaps.com/#issuer",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.weedmaps.com\n"
+        },
+        {
+          "title": "Expires on: Feb 20, 2025",
+          "url": "https://ir.weedmaps.com/#expirationDate",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.weedmaps.com\n"
+        },
+        {
+          "title": "Current Date: Nov 30, 2024",
+          "url": "https://ir.weedmaps.com/#currentDate",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.weedmaps.com\n"
+        },
+        {
+          "title": "PEM Encoded Chain",
+          "url": "https://ir.weedmaps.com/#pem",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://ir.weedmaps.com\n"
+        }
+      ]
+    }
+  ]
+}

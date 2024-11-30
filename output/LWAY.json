@@ -1,0 +1,17 @@
+{
+  "symbol": "LWAY",
+  "company_name": "Lifeway Foods Inc",
+  "ir_website": "https://www.lifeway.net/investors/",
+  "structured_data": [
+    {
+      "section_name": "Certificates",
+      "links": [
+        {
+          "title": "Certificate Information",
+          "url": "https://www.lifeway.net/certificate-info.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.lifeway.net', port=443): Max retries exceeded with url: /certificate-info.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:997)')))"
+        }
+      ]
+    }
+  ]
+}

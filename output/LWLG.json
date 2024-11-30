@@ -1,0 +1,37 @@
+{
+  "symbol": "LWLG",
+  "company_name": "Lightwave Logic Inc",
+  "ir_website": "https://www.lightwavelogic.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Investor Presentation",
+          "url": "https://www.lightwavelogic.com/investors/investor-presentation/",
+          "content": null
+        },
+        {
+          "title": "SEC Fillings",
+          "url": "https://www.lightwavelogic.com/investors/sec-fillings/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://www.lightwavelogic.com/news/press-releases/",
+          "content": null
+        },
+        {
+          "title": "Event Calendar",
+          "url": "https://www.lightwavelogic.com/investors/event-calendar/",
+          "content": null
+        }
+      ]
+    }
+  ]
+}
