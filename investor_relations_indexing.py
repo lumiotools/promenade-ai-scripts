@@ -96,9 +96,6 @@ def index_company_data(symbol):
 if __name__ == "__main__":
     company_symbol = pd.read_csv("data/companies_part3.csv")["Symbol"].values
     for index, symbol in enumerate(company_symbol):
-        
-        if index != 5:
-            continue
 
         logging.info(f"Indexing {symbol} ({index+1}/{len(company_symbol)})")
 
