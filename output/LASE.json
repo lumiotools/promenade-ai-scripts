@@ -1,0 +1,72 @@
+{
+  "symbol": "LASE",
+  "company_name": "Laser Photonics Corp",
+  "ir_website": "https://www.laserphotonics.com/investors?srsltid=AfmBOorNDMufcKwIEybmMiIxngyD5hk9dyt_BT3KezyyK0Qmuu7-2E-l",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Laser Photonics Announces It Is Transitioning Into a Parent-Subsidiary Structure",
+          "url": "https://invest.laserphotonics.com/press-release/lpc-transitions-into-parent-subsidiary-structure",
+          "content": null
+        },
+        {
+          "title": "Laser Photonics to Showcase Laser Solutions for Semiconductor Industry at IEEE International Electron Devices Meeting 2024",
+          "url": "https://invest.laserphotonics.com/press-release/lpc-laser-solutions-showcase-at-electron-devices-meeting",
+          "content": null
+        },
+        {
+          "title": "Laser Photonics Corporation Welcomes New Executive Vice President",
+          "url": "https://invest.laserphotonics.com/press-release/laser-photonics-corporation-welcomes-new-executive-vice-president",
+          "content": null
+        },
+        {
+          "title": "Laser Photonics Announces Third Quarter 2024 Results",
+          "url": "https://invest.laserphotonics.com/press-release/laser-photonics-announces-third-quarter-2024-results",
+          "content": null
+        },
+        {
+          "title": "Laser Photonics and Fonon Technologies Receive Order Through NOBLE Partnership For Camp Lejeune",
+          "url": "https://invest.laserphotonics.com/press-release/lpc-and-fonon-technologies-receive-noble-order-for-camp-lejeune",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Results",
+      "links": [
+        {
+          "title": "Financial Summary",
+          "url": "https://invest.laserphotonics.com/financial-results",
+          "content": null
+        },
+        {
+          "title": "Quarterly Results",
+          "url": "https://invest.laserphotonics.com/quarterly-results",
+          "content": null
+        },
+        {
+          "title": "Annual Reports",
+          "url": "https://invest.laserphotonics.com/annual-reports",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Events",
+      "links": [
+        {
+          "title": "Laser Photonics Completes Proof of Concept Testing for Fonon Corporations’ Laser Shield Anti-Drone System",
+          "url": "https://invest.laserphotonics.com/press-release/anti-drone-system-concept-test",
+          "content": null
+        },
+        {
+          "title": "Laser Photonics Announces First Quarter 2024 Results",
+          "url": "https://invest.laserphotonics.com/press-release/laser-photonics-announces-first-quarter-2024-results",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

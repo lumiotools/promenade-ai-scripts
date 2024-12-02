@@ -1,0 +1,17 @@
+{
+  "symbol": "HUBCW",
+  "company_name": "Hub Cyber Security WT",
+  "ir_website": "https://investors.hubsecurity.com/",
+  "structured_data": [
+    {
+      "section_name": "Error Details",
+      "links": [
+        {
+          "title": "Error Code: ERR_HTTP2_PROTOCOL_ERROR",
+          "url": "https://investors.hubsecurity.com/errorDetails",
+          "content": "# Not Found\n\nThe requested URL \"/errorDetails\" was not found on this server.\n"
+        }
+      ]
+    }
+  ]
+}

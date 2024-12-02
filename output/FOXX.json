@@ -1,0 +1,17 @@
+{
+  "symbol": "FOXX",
+  "company_name": "Foxx Development Holdings Inc",
+  "ir_website": "https://ir.foxxusa.com/",
+  "structured_data": [
+    {
+      "section_name": "Error Code",
+      "links": [
+        {
+          "title": "ERR_DNS_NO_MATCHING_SUPPORTED_ALPN",
+          "url": "https://ir.foxxusa.com#ERR_DNS_NO_MATCHING_SUPPORTED_ALPN",
+          "content": null
+        }
+      ]
+    }
+  ]
+}
