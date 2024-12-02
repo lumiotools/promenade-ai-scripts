@@ -1,0 +1,37 @@
+{
+  "symbol": "METC",
+  "company_name": "Ramaco Resources Inc",
+  "ir_website": "https://ramacoresources.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "2024-01-15 Ramaco Resources Announces Q4 Conference Call",
+          "url": "https://ramacoresources.com/press-release/2024-01-15-ramaco-resources-announces-q4-conference-call",
+          "content": null
+        },
+        {
+          "title": "2024-02-01 Ramaco Resources Secures New Coal Supply Contracts",
+          "url": "https://ramacoresources.com/press-release/2024-02-01-ramaco-resources-secures-new-coal-supply-contracts",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q4 2023 Financial Results Report",
+          "url": "https://ramacoresources.com/financial-reports/q4-2023-financial-results",
+          "content": null
+        },
+        {
+          "title": "2023 Annual Report PDF",
+          "url": "https://ramacoresources.com/financial-reports/annual-report-2023.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ramacoresources.com/financial-reports/annual-report-2023.pdf"
+        }
+      ]
+    }
+  ]
+}

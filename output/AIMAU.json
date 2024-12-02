@@ -1,0 +1,17 @@
+{
+  "symbol": "AIMAU",
+  "company_name": "Aimfinity Investment Corp I - Unit",
+  "ir_website": "https://www.sec.gov/Archives/edgar/data/1903464/000119312522085324/d235037dex11.htm",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "SEC Filing - EX-1.1",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000000000/000110465922000000/doc/d235037dex11.htm",
+          "content": "`NoSuchKey`The specified key does not exist.edgar/data//000110465922000000/doc/d235037dex11.htmNBWGCA0CR8VQT1CHO/AJ4wmdugNIzt/EeGW029xLLFZxooI7cqe91U7AaPX11wbXCGoaBEfsLW1NhGXWk1t/vxTDsvI=\n\nThis XML file does not appear to have any style information associated with it. The document tree is shown below.\n\n<Error>\n\n<Code>NoSuchKey</Code>\n\n<Message>The specified key does not exist.</Message>\n\n<Key>edgar/data//000110465922000000/doc/d235037dex11.htm</Key>\n\n<RequestId>NBWGCA0CR8VQT1CH</RequestId>\n\n<HostId>O/AJ4wmdugNIzt/EeGW029xLLFZxooI7cqe91U7AaPX11wbXCGoaBEfsLW1NhGXWk1t/vxTDsvI=</HostId>\n\n...\n\n</Error>\n"
+        }
+      ]
+    }
+  ]
+}

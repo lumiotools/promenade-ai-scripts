@@ -1,0 +1,17 @@
+{
+  "symbol": "EHGO",
+  "company_name": "Eshallgo Inc Cl A",
+  "ir_website": "https://www.sec.gov/Archives/edgar/data/1879754/000110465923051478/tm2233006d5_f1.htm",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Preliminary Prospectus dated April 27, 2023",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001927287/000121390023033420/ea186827f1-eshallgo.htm",
+          "content": "`NoSuchKey`The specified key does not exist.edgar/data/1927287/000121390023033420/ea186827f1-eshallgo.htmKGS1VEX8K1H8PJ12r/qeyxBdL36+2l7vD5e9N/vXpNmQDuT6HBkCens6yAzqrd6bois/dYmuZ7mQddR9ulnS18RUYSM=\n\nThis XML file does not appear to have any style information associated with it. The document tree is shown below.\n\n<Error>\n\n<Code>NoSuchKey</Code>\n\n<Message>The specified key does not exist.</Message>\n\n<Key>edgar/data/1927287/000121390023033420/ea186827f1-eshallgo.htm</Key>\n\n<RequestId>KGS1VEX8K1H8PJ12</RequestId>\n\n<HostId>r/qeyxBdL36+2l7vD5e9N/vXpNmQDuT6HBkCens6yAzqrd6bois/dYmuZ7mQddR9ulnS18RUYSM=</HostId>\n\n...\n\n</Error>\n"
+        }
+      ]
+    }
+  ]
+}

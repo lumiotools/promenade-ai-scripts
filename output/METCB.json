@@ -1,0 +1,32 @@
+{
+  "symbol": "METCB",
+  "company_name": "Ramaco Resources Inc Cl B",
+  "ir_website": "https://ramacoresources.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q3 2024 Earnings Report",
+          "url": "https://ramacoresources.com/wp-content/uploads/2024/10/Q3-2024-Earnings-Report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ramacoresources.com/wp-content/uploads/2024/10/Q3-2024-Earnings-Report.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Ramaco Resources Announces Q3 2024 Financial Results",
+          "url": "https://ramacoresources.com/wp-content/uploads/2024/10/Ramaco-Press-Release-Q3-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ramacoresources.com/wp-content/uploads/2024/10/Ramaco-Press-Release-Q3-2024.pdf"
+        },
+        {
+          "title": "Ramaco Resources Declares Dividend for Q3 2024",
+          "url": "https://ramacoresources.com/wp-content/uploads/2024/10/Dividend-Announcement-Q3-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ramacoresources.com/wp-content/uploads/2024/10/Dividend-Announcement-Q3-2024.pdf"
+        }
+      ]
+    }
+  ]
+}
