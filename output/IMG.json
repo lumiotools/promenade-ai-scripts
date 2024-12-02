@@ -1,0 +1,22 @@
+{
+  "symbol": "IMG",
+  "company_name": "Cimg Inc",
+  "ir_website": "https://www.cimginc.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "CIMG Women Led",
+          "url": "https://www.cimginc.com/CIMGWomenLed.html",
+          "content": ""
+        },
+        {
+          "title": "Giving Back",
+          "url": "https://www.cimginc.com/GivingBack.html",
+          "content": "# Giving Back\n\nAt CIMG, giving back to our local community is an integral part of the company culture. You could say it’s part of our DNA. Since 1997, we have put over $1.2 million back into the communities we operate in through sponsorships and other charitable contributions. \n\nWe see ourselves as a small business with a big responsibility. We launched our Giving Back program three years ago as an initiative to prioritize both donations and action. Through Giving Back, we seek substantive volunteer opportunities for our team and our strategic partners as well. \n\nWe work regularly with a number of local non-profits including the [Interfaith Food Shuttle](https://www.foodshuttle.org/) and [TABLE](https://tablenc.org/), have built homes with Habitat for Humanity, and cleared land with the Triangle Land Conservatory. In 2020, we made our first annual donation to [The Fair Housing Project of Legal Aid of North Carolina](http://www.fairhousingnc.org/), who works to eliminate housing discrimination and to ensure equal housing opportunity for all people. Be sure to follow us on [Instagram](https://www.instagram.com/cimginc/) and [Facebook](https://www.facebook.com/cimgresidentialmortgage) for the latest photos and updates on our Giving Back program.\n\nFor more information on our Giving Back program or if you are a local non-profit that would like to connect with us, please email Mara Bergholz or Carla Johnson.\n"
+        }
+      ]
+    }
+  ]
+}

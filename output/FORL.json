@@ -1,0 +1,42 @@
+{
+  "symbol": "FORL",
+  "company_name": "Four Leaf Acquisition Corp Cl A",
+  "ir_website": "https://www.fourleaf.investments/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Latest Investment Updates 2024",
+          "url": "https://www.fourleaf.investments/news/latest-investment-updates-2024",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Report",
+          "url": "https://www.fourleaf.investments/financial-reports/q1-2024-report.pdf",
+          "content": ""
+        },
+        {
+          "title": "Annual Financial Report 2024",
+          "url": "https://www.fourleaf.investments/financial-reports/annual-report-2024.pdf",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release: Expansion Plans for 2024",
+          "url": "https://www.fourleaf.investments/press-releases/expansion-plans-2024",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

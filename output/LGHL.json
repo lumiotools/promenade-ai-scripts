@@ -1,0 +1,37 @@
+{
+  "symbol": "LGHL",
+  "company_name": "Lion Group Holding Ltd ADR",
+  "ir_website": "https://ir.liongrouphl.com/",
+  "structured_data": [
+    {
+      "section_name": "Latest News",
+      "links": [
+        {
+          "title": "Lion Group Holding Plans to Use GPT-4o to Enhance Products and Services.",
+          "url": "https://ir.liongrouphl.com/news/lion-group-holding-plans-to-use-gpt-4o-to-enhance-products-and-services",
+          "content": ""
+        },
+        {
+          "title": "Lion Announces Unaudited Full Year 2023 Financial Results",
+          "url": "https://ir.liongrouphl.com/news/lion-announces-unaudited-full-year-2023-financial-results",
+          "content": ""
+        },
+        {
+          "title": "Lion Group Holding Announced the Launch of Multi-Currency Account Services Powered by AI",
+          "url": "https://ir.liongrouphl.com/news/lion-group-holding-announced-the-launch-of-multi-currency-account-services-powered-by-ai",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Featured Reports",
+      "links": [
+        {
+          "title": "LGHL Investor Presentation",
+          "url": "https://ir.liongrouphl.com/reports/lghl-investor-presentation.pdf",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

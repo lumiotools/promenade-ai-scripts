@@ -1,0 +1,27 @@
+{
+  "symbol": "KGEI",
+  "company_name": "Kolibri Global Energy Inc",
+  "ir_website": "https://kolibrienergy.com/investors/",
+  "structured_data": [
+    {
+      "section_name": "Suggestions",
+      "links": [
+        {
+          "title": "Check your Internet connection",
+          "url": "javascript:void(0);",
+          "content": ""
+        },
+        {
+          "title": "Checking the proxy and the firewall",
+          "url": "#buttons",
+          "content": ""
+        },
+        {
+          "title": "Running Windows Network Diagnostics",
+          "url": "javascript:diagnoseErrors()",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

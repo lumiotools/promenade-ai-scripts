@@ -1,0 +1,47 @@
+{
+  "symbol": "LILMW",
+  "company_name": "Lilium N.V. WT",
+  "ir_website": "https://investors.lilium.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Lilium announces 2024 Business Outlook and Recap of Milestones Achieved",
+          "url": "https://investors.lilium.com/press-releases/lilium-announces-2024-business-outlook-and-recap-of-milestones-achieved",
+          "content": ""
+        },
+        {
+          "title": "Lilium Launches Fleet Management Software for Jet Operations",
+          "url": "https://investors.lilium.com/press-releases/lilium-launches-fleet-management-software-for-jet-operations",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2023 Q1 Financial Report",
+          "url": "https://investors.lilium.com/financial-reports/2023-Q1-Financial-Report",
+          "content": ""
+        },
+        {
+          "title": "2023 Q2 Financial Report",
+          "url": "https://investors.lilium.com/financial-reports/2023-Q2-Financial-Report",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Lilium secures new partnerships for sustainable aviation solutions",
+          "url": "https://investors.lilium.com/news/lilium-secures-new-partnerships-for-sustainable-aviation-solutions",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "LFVN",
+  "company_name": "Lifevantage Corp",
+  "ir_website": "https://lifevantage.gcs-web.com/financial-information/sec-filings",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Quarterly Earnings Report Q1 2024",
+          "url": "https://lifevantage.gcs-web.com/financial-information/sec-filings/quarterly-earnings-report-q1-2024",
+          "content": ""
+        },
+        {
+          "title": "Annual Financial Report 2023",
+          "url": "https://lifevantage.gcs-web.com/financial-information/sec-filings/annual-financial-report-2023",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release - January 2024",
+          "url": "https://lifevantage.gcs-web.com/news/press-release-january-2024",
+          "content": ""
+        },
+        {
+          "title": "Press Release - February 2024",
+          "url": "https://lifevantage.gcs-web.com/news/press-release-february-2024",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Business Ventures Overview - January 2024",
+          "url": "https://lifevantage.gcs-web.com/news/business-ventures-overview-january-2024",
+          "content": ""
+        },
+        {
+          "title": "Investor Conference announcement - February 2024",
+          "url": "https://lifevantage.gcs-web.com/news/investor-conference-announcement-february-2024",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

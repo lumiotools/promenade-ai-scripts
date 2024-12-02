@@ -1,0 +1,57 @@
+{
+  "symbol": "LATG",
+  "company_name": "Latamgrowth Spac Cl A",
+  "ir_website": "https://www.latamairlinesgroup.net/results-center",
+  "structured_data": [
+    {
+      "section_name": "Earnings and Releases",
+      "links": [
+        {
+          "title": "Results - ENG (3Q2024).pdf",
+          "url": "https://www.latamairlinesgroup.net/static-files/6c6f4ffe-3fd0-47f4-a976-fa23b597b24e",
+          "content": "\n"
+        },
+        {
+          "title": "Results Presentation (3Q2024).pdf",
+          "url": "https://www.latamairlinesgroup.net/static-files/d8051c67-ddd0-423e-b003-534b0f6f56ff",
+          "content": "\n"
+        },
+        {
+          "title": "Financial Statements (3Q2024).pdf",
+          "url": "https://www.latamairlinesgroup.net/static-files/3d982a51-23a6-45c1-9ddd-ef2253a0f961",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Results - ENG (4Q2023).pdf",
+          "url": "https://www.latamairlinesgroup.net/static-files/0a33cbbb-25f1-4afc-aba5-c452f2cfc067",
+          "content": "\n"
+        },
+        {
+          "title": "Results Presentation (4Q2023) VF.pdf",
+          "url": "https://www.latamairlinesgroup.net/static-files/45b726bd-1956-4151-afc8-bc2503ff2eea",
+          "content": "\n"
+        },
+        {
+          "title": "Financial Statements (LATAM -DICIEMBRE 2023 ENG.pdf)",
+          "url": "https://www.latamairlinesgroup.net/static-files/701fe6f1-001e-48dc-9c9f-9157986b8398",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release (Q3 2023)",
+          "url": "https://www.latamairlinesgroup.net/static-files/6ce1a1f9-62ad-4dab-b9bb-4e03667934f4",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

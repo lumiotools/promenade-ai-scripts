@@ -1,0 +1,52 @@
+{
+  "symbol": "GATEU",
+  "company_name": "Marblegate Acquisition Corp",
+  "ir_website": "https://marblegateacquisition.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release 1",
+          "url": "https://marblegateacquisition.com/press-release-1",
+          "content": ""
+        },
+        {
+          "title": "Press Release 2",
+          "url": "https://marblegateacquisition.com/press-release-2",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://marblegateacquisition.com/annual-report-2024.pdf",
+          "content": ""
+        },
+        {
+          "title": "Quarterly Report Q1 2024",
+          "url": "https://marblegateacquisition.com/q1-2024-report.pdf",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "Form 10-K 2024",
+          "url": "https://marblegateacquisition.com/sec-filings/form-10-k-2024.pdf",
+          "content": ""
+        },
+        {
+          "title": "Form 8-K 2024",
+          "url": "https://marblegateacquisition.com/sec-filings/form-8-k-2024.pdf",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "symbol": "LGCB",
+  "company_name": "Linkage Global Inc",
+  "ir_website": "https://www.linkagecc.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": []
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": []
+    },
+    {
+      "section_name": "Press Releases",
+      "links": []
+    }
+  ]
+}

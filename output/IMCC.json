@@ -1,0 +1,42 @@
+{
+  "symbol": "IMCC",
+  "company_name": "IM Cannabis Corp",
+  "ir_website": "https://investors.imcannabis.com/",
+  "structured_data": [
+    {
+      "section_name": "Debugging Information",
+      "links": [
+        {
+          "title": "Error Code",
+          "url": "https://investors.imcannabis.com#debugging",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investors.imcannabis.com\n"
+        },
+        {
+          "title": "Subject: investors.imcannabis.com",
+          "url": "https://investors.imcannabis.com#debugging",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investors.imcannabis.com\n"
+        },
+        {
+          "title": "Issuer: Sophos SSL CA_UydDt0runlptXsO",
+          "url": "https://investors.imcannabis.com#debugging",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investors.imcannabis.com\n"
+        },
+        {
+          "title": "Expires on: January 29, 2025",
+          "url": "https://investors.imcannabis.com#debugging",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investors.imcannabis.com\n"
+        },
+        {
+          "title": "Expires on: Current date",
+          "url": "https://investors.imcannabis.com#debugging",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investors.imcannabis.com\n"
+        },
+        {
+          "title": "PEM encoded certificate chain",
+          "url": "https://investors.imcannabis.com#debugging",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investors.imcannabis.com\n"
+        }
+      ]
+    }
+  ]
+}

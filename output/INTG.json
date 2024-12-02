@@ -1,0 +1,17 @@
+{
+  "symbol": "INTG",
+  "company_name": "Intergroup Corp",
+  "ir_website": "https://www.intergroupcorporation.com/",
+  "structured_data": [
+    {
+      "section_name": "Annual Meeting Materials",
+      "links": [
+        {
+          "title": "Proxy Statement - Fiscal 2023",
+          "url": "https://www.intergroupcorporation.com/gridmedia/files/TheInterGroupCorporationFormDEF14A2024.pdf",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
