@@ -1,0 +1,52 @@
+{
+  "symbol": "LRCX",
+  "company_name": "Lam Research Corp",
+  "ir_website": "https://investor.lamresearch.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Company Announces Strategic Partnership for Advanced Technology Solutions",
+          "url": "https://investor.lamresearch.com/news/company-announces-strategic-partnership-for-advanced-technology-solutions",
+          "content": "\n"
+        },
+        {
+          "title": "Financial Results Q1 2024",
+          "url": "https://investor.lamresearch.com/news/financial-results-q1-2024",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Lam Research Expands Operations in Asia",
+          "url": "https://investor.lamresearch.com/press-releases/lam-research-expands-operations-in-asia",
+          "content": "\n"
+        },
+        {
+          "title": "Update on 2024 Investor Day",
+          "url": "https://investor.lamresearch.com/press-releases/update-on-2024-investor-day",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://investor.lamresearch.com/financial-reports/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: File not found for url: https://investor.lamresearch.com/financial-reports/index.php?s=404"
+        },
+        {
+          "title": "Quarterly Report Q1 2024",
+          "url": "https://investor.lamresearch.com/financial-reports/quarterly-report-q1-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: File not found for url: https://investor.lamresearch.com/financial-reports/index.php?s=404"
+        }
+      ]
+    }
+  ]
+}

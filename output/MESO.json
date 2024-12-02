@@ -1,0 +1,52 @@
+{
+  "symbol": "MESO",
+  "company_name": "Mesoblast Ltd ADR",
+  "ir_website": "https://investorsmedia.mesoblast.com/",
+  "structured_data": [
+    {
+      "section_name": "Latest ASX Announcements",
+      "links": [
+        {
+          "title": "Becoming a substantial holder",
+          "url": "https://investorsmedia.mesoblast.com/static-files/d6bfa902-ede2-4e02-b9c1-064256190348",
+          "content": "\n"
+        },
+        {
+          "title": "Results of Meeting",
+          "url": "https://investorsmedia.mesoblast.com/static-files/bd91bb2c-62d8-4f3d-8879-d978b83abd9d",
+          "content": "\n"
+        },
+        {
+          "title": "Final Director's Interest Notice",
+          "url": "https://investorsmedia.mesoblast.com/static-files/829707a8-30ce-4e1e-8fda-64cb9ab9ad92",
+          "content": "\n"
+        },
+        {
+          "title": "CEO Presentation to 2024 Annual General Meeting",
+          "url": "https://investorsmedia.mesoblast.com/static-files/f5f32e78-ab50-4f27-8a5c-a0c59ecd8916",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Information",
+      "links": [
+        {
+          "title": "2024 Annual Report",
+          "url": "https://investorsmedia.mesoblast.com/static-files/6fd74d91-9187-4848-8bc4-9db1d0732ec1",
+          "content": "\n"
+        },
+        {
+          "title": "Financial Results and Operational Update for the Period Ended June 30, 2024",
+          "url": "https://investorsmedia.mesoblast.com/static-files/7143e4f3-8310-44d5-9883-c68a91de85fb",
+          "content": "\n"
+        },
+        {
+          "title": "Financial Results and Operational Update for the Period Ended December 31, 2023",
+          "url": "https://investorsmedia.mesoblast.com/static-files/8a90045e-d4eb-4e36-b8fa-2bf077a0ee49",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}
