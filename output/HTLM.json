@@ -1,0 +1,27 @@
+{
+  "symbol": "HTLM",
+  "company_name": "Homestolife Ltd",
+  "ir_website": "https://investors.homestolife.com/",
+  "structured_data": [
+    {
+      "section_name": "Latest News",
+      "links": [
+        {
+          "title": "View all press releases",
+          "url": "https://investors.homestolife.com/news-and-events",
+          "content": "[Skip to main content](#__CONTENT__)\n\n# News & Events\n\n## IR Calendar\n\n**Upcoming Events**\n\nNo scheduled Events\n\nMarch 2, 2024\n\n###  [First Quarter 2024 Financial Results Call](#)\n\n**Recent Events**\n\nNo recent Events\n\nMarch 2, 2024\n\n###  [First Quarter 2024 Financial Results Call](#)\n\n## Presentations\n\nOctober 15, 2024\n\n###  [Investor Presentation](https://storage.googleapis.com/vendorgroup-assets/site/8b615bd1-de83-4c39-827d-cea20ab77c7e/PPT%20-%20HomesToLife%20SCCG%20Revisions%20\\(compressed\\)%20r8%20\\(Filed%20FWP%20on%206%20Sep%202024\\)%20%20-%20%20Read-Only.pdf/2024/09/29/66f9d49b9a44bc42722bcb72)\n\n## Sign up for Email Alerts\n\nStay connected and get the latest company news delivered to your inbox.\n\n[Sign up today](/news-and-events/alerts)\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Latest Presentation",
+      "links": [
+        {
+          "title": "View Investor Presentation",
+          "url": "https://storage.googleapis.com/vendorgroup-assets/site/8b615bd1-de83-4c39-827d-cea20ab77c7e/PPT - HomesToLife SCCG Revisions (compressed) r8 (Filed FWP on 6 Sep 2024)  -  Read-Only.pdf/2024/09/29/66f9d49b9a44bc42722bcb72",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "symbol": "HUHU",
+  "company_name": "Huhutech International Group Inc",
+  "ir_website": "https://ir.huhutech.com.cn/single-press-release.php?id=41658aa1-a4ef-47ca-970c-da4a77e86a32",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://ir.huhutech.com.cn/press-releases.php",
+          "content": "## Press Releases\n\nHUHUTECH\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financials & Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://ir.huhutech.com.cn/sec-filings.php",
+          "content": "## SEC Filings\n\nHUHUTECH\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Contact",
+      "links": [
+        {
+          "title": "Investor FAQs",
+          "url": "https://ir.huhutech.com.cn/investors-faq.php",
+          "content": "## Investor FAQs\n\nHUHUTECH\n"
+        },
+        {
+          "title": "Email Alerts",
+          "url": "https://ir.huhutech.com.cn/email-alerts.php",
+          "content": "## Email Alerts\n\nHUHUTECH\n"
+        },
+        {
+          "title": "IR Contact",
+          "url": "https://ir.huhutech.com.cn/ir-contact.php",
+          "content": "## IR Contact\n\nHUHUTECH\n"
+        }
+      ]
+    }
+  ]
+}

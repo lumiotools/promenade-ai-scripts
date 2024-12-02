@@ -1,0 +1,32 @@
+{
+  "symbol": "MDAIW",
+  "company_name": "Spectral Ai Inc WT",
+  "ir_website": "https://investors.spectral-ai.com/",
+  "structured_data": [
+    {
+      "section_name": "Error Information",
+      "links": [
+        {
+          "title": "Error Code Information",
+          "url": "https://investors.spectral-ai.com/error-code/ERR_HTTP2_PROTOCOL_ERROR",
+          "content": "# Not Found\n\nThe requested URL \"/error-code/ERR_HTTP2_PROTOCOL_ERROR\" was not found on this server.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Download Links",
+      "links": [
+        {
+          "title": "Download your information",
+          "url": "https://investors.spectral-ai.com/download-link",
+          "content": "# Not Found\n\nThe requested URL \"/download-link\" was not found on this server.\n"
+        },
+        {
+          "title": "Download Link Clicked",
+          "url": "https://investors.spectral-ai.com/download-link-clicked",
+          "content": "# Not Found\n\nThe requested URL \"/download-link-clicked\" was not found on this server.\n"
+        }
+      ]
+    }
+  ]
+}
