@@ -1,0 +1,32 @@
+{
+  "symbol": "GLE",
+  "company_name": "Global Engine Group Holding Limited",
+  "ir_website": "https://ir.globalengine.com.hk/",
+  "structured_data": [
+    {
+      "section_name": "NEWS AND EVENTS",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://ir.globalengine.com.hk/pressreleases",
+          "content": "#  Press Releases \n\nAll Years \n\nLoading...\n\nLoading...\n"
+        }
+      ]
+    },
+    {
+      "section_name": "FINANCIAL INFORMATION",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://ir.globalengine.com.hk/seсfilings",
+          "content": "#  SEC Filings \n\nAll Filing Type \n\nLoading...\n\nAll Years \n\nLoading...\n\nFiling Date  |  Filing Type  |  Description  |  Document   \n---|---|---|---  \nLoading...\n"
+        },
+        {
+          "title": "Stock Information",
+          "url": "https://ir.globalengine.com.hk/stockinfo",
+          "content": "#  Stock Info \n\n##  Stock Quote \n\n  * 1D \n  * 5D \n  * 1M \n  * 3M \n  * 6M \n  * 1Y \n  * 2Y \n  * 5Y \n\n\n\nDate  |  Open  |  Close  |  Low  |  High  |  Change  |  Change, %  |  Volume   \n---|---|---|---|---|---|---|---  \nLoading...\n"
+        }
+      ]
+    }
+  ]
+}

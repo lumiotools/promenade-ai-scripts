@@ -1,0 +1,42 @@
+{
+  "symbol": "FVNNU",
+  "company_name": "Future Vision II Acquisition Units",
+  "ir_website": "https://www.nasdaq.com/market-activity/stocks/fvnnu",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q4 2024 Financial Results",
+          "url": "https://www.nasdaq.com/financial-reports/q4-2024-results.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release on 2024 Strategic Initiatives",
+          "url": "https://www.nasdaq.com/press-releases/2024-strategic-initiatives.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        },
+        {
+          "title": "2024 Quarterly Earnings Release",
+          "url": "https://www.nasdaq.com/press-releases/2024-quarterly-earnings.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "2024 Market Trends Report",
+          "url": "https://www.nasdaq.com/news/2024-market-trends.pdf",
+          "content": "Error extracting PDF content: No /Root object! - Is this really a PDF?"
+        }
+      ]
+    }
+  ]
+}
