@@ -81,7 +81,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         
         for filing in sec_filings:
             if isIndexed(filing["view"]["htmlLink"]):
-                logging.info(f"Already indexed {filing["formType"]} for {company_name}")
+                logging.info(f"Already indexed {filing["view"]["htmlLink"]} for {company_name}")
                 continue
             else:
                 final_sec_filings.append(filing)
