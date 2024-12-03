@@ -1,0 +1,37 @@
+{
+  "symbol": "RUMBW",
+  "company_name": "Rumble Inc WT",
+  "ir_website": "https://investors.rumble.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "See all Press Releases",
+          "url": "https://investors.rumble.com/press-releases/",
+          "content": "[Skip to main Content](#content \"link 0\")\n\n[ ![Rumble IR](https://investors.rumble.com/wp-content/uploads/sites/1086/2022/05/rumble-investors-logo-2.png) ](https://investors.rumble.com \"link 1\")\n\nA- A+ Contrast [ Accessibility ](/accessibility \"link 2\")\n\n[Corporate](https://corp.rumble.com/ \"link 3\")\n\n# Press Releases\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://investors.rumble.com/financials/sec-filings/",
+          "content": "[Skip to main Content](#content \"link 0\")\n\n[ ![Rumble IR](https://investors.rumble.com/wp-content/uploads/sites/1086/2022/05/rumble-investors-logo-2.png) ](https://investors.rumble.com \"link 1\")\n\nA- A+ Contrast [ Accessibility ](/accessibility \"link 2\")\n\n[Corporate](https://corp.rumble.com/ \"link 3\")\n\n# SEC Filings\n"
+        },
+        {
+          "title": "Quarterly Results",
+          "url": "https://investors.rumble.com/financials/quarterly-results/",
+          "content": "[Skip to main Content](#content \"link 0\")\n\n[ ![Rumble IR](https://investors.rumble.com/wp-content/uploads/sites/1086/2022/05/rumble-investors-logo-2.png) ](https://investors.rumble.com \"link 1\")\n\nA- A+ Contrast [ Accessibility ](/accessibility \"link 2\")\n\n[Corporate](https://corp.rumble.com/ \"link 3\")\n\n# Quarterly Results\n\nNo files for the selected year.\n"
+        },
+        {
+          "title": "Annual Report & Proxy",
+          "url": "https://investors.rumble.com/financials/annual-report-proxy/",
+          "content": "[Skip to main Content](#content \"link 0\")\n\n[ ![Rumble IR](https://investors.rumble.com/wp-content/uploads/sites/1086/2022/05/rumble-investors-logo-2.png) ](https://investors.rumble.com \"link 1\")\n\nA- A+ Contrast [ Accessibility ](/accessibility \"link 2\")\n\n[Corporate](https://corp.rumble.com/ \"link 3\")\n\n# Annual Report & Proxy\n\nNo files for the selected year.\n\n### Annual Meeting Documents\n"
+        }
+      ]
+    }
+  ]
+}
