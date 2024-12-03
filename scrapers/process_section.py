@@ -45,3 +45,29 @@ async def process_section_data(sections):
             output.append(section_output)
 
         return output
+
+
+async def process_sec_filings(filings,symbol):
+    
+    secFilingWebsite = f"https://www.nasdaq.com/market-activity/stocks/{symbol.lower()}/sec-filings?sortColumn=filed&sortOrder=desc"
+    
+    async with AsyncWebCrawler() as crawler:
+        output = []
+
+        for filing in filings:
+            try:
+                # Scrape content for each link
+                content = await process_link(crawler, filing["view"]["htmlLink"])
+                output.append({
+                    "sec_filing_website": secFilingWebsite,
+                    "form_type": filing["formType"],
+                    "filed": filing["filed"],
+                    "period": filing["period"],
+                    "url": filing["view"]["htmlLink"],
+                    "content": content
+                })
+            except Exception as e:
+               print(f"Error processing filing: {str(e)}")
+
+        return output
+    
