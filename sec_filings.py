@@ -81,7 +81,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         
         for filing in sec_filings:
             if isIndexed(filing["view"]["htmlLink"]):
-                logging.info(f"Already indexed {filing["view"]["htmlLink"]} for {company_name}")
+                logging.info(f"Already indexed {filing['view']['htmlLink']} for {company_name}")
                 continue
             else:
                 final_sec_filings.append(filing)
@@ -90,7 +90,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         
         for filing in filings_content:
             
-            content = f"Company: {company_name}\nsec_filing_form_type: {filing["form_type"]}\nfiled_on: {filing['filed']}\nperiod: {filing['period']}\nURL: {filing["url"]}\nContent: {filing['content']}"
+            content = f"Company: {company_name}\nsec_filing_form_type: {filing['form_type']}\nfiled_on: {filing['filed']}\nperiod: {filing['period']}\nURL: {filing['url']}\nContent: {filing['content']}"
             document = Document(doc_id=filing["url"], text=content)
             document.metadata.update({
                 "symbol": symbol,
