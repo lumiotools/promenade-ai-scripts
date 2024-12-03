@@ -1,0 +1,52 @@
+{
+  "symbol": "WLDN",
+  "company_name": "Willdan Group Inc",
+  "ir_website": "https://www.willdan.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Investors looking towards Willdan’s growth potential in 2024",
+          "url": "https://www.willdan.com/news/investors-looking-towards-willdan-2024",
+          "content": "The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.\n"
+        },
+        {
+          "title": "Willdan reports Q1 2024 earnings, shows robust growth",
+          "url": "https://www.willdan.com/news/q1-2024-earnings-report",
+          "content": "The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Willdan announces strategic partnership for 2024",
+          "url": "https://www.willdan.com/press-releases/strategic-partnership-2024",
+          "content": "The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.\n"
+        },
+        {
+          "title": "Willdan reveals new service offerings for 2024",
+          "url": "https://www.willdan.com/press-releases/new-service-offerings-2024",
+          "content": "The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Willdan 2024 Annual Report",
+          "url": "https://www.willdan.com/financial-reports/annual-report-2024",
+          "content": "The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.\n"
+        },
+        {
+          "title": "Q2 2024 Financial Summary",
+          "url": "https://www.willdan.com/financial-reports/q2-2024-summary",
+          "content": "The resource you are looking for has been removed, had its name changed, or is temporarily unavailable.\n"
+        }
+      ]
+    }
+  ]
+}
