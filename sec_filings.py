@@ -76,14 +76,19 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         logging.info(f"Processing sec filing: {symbol} - {company_name}")
 
         sec_filings = list_sec_filings(symbol)
+        
+        final_sec_filings = []
+        
+        for filing in sec_filings:
+            if isIndexed(filing["view"]["htmlLink"]):
+                logging.info(f"Already indexed {filing["formType"]} for {company_name}")
+                continue
+            else:
+                final_sec_filings.append(filing)
 
-        filings_content = await process_sec_filings(sec_filings,symbol)
+        filings_content = await process_sec_filings(final_sec_filings,symbol)
         
         for filing in filings_content:
-            
-            if isIndexed(filing["url"]):
-                logging.info(f"Already indexed {filing['form_type']} for {company_name}")
-                continue
             
             content = f"Company: {company_name}\nsec_filing_form_type: {filing["form_type"]}\nfiled_on: {filing['filed']}\nperiod: {filing['period']}\nURL: {filing["url"]}\nContent: {filing['content']}"
             document = Document(doc_id=filing["url"], text=content)
@@ -143,9 +148,9 @@ async def main(input_csv: str):
                         count += 1
                         logging.info(f"Processed {count} stocks so far.")
 
-                    if count >= 1:
-                        logging.info(f"Processing limit reached (10 stocks).")
-                        break
+                    # if count >= 1:
+                    #     logging.info(f"Processing limit reached (10 stocks).")
+                    #     break
     except Exception as e:
         logging.error(f"Error processing CSV: {str(e)}", exc_info=True)
 
