@@ -80,6 +80,11 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         filings_content = await process_sec_filings(sec_filings,symbol)
         
         for filing in filings_content:
+            
+            if isIndexed(filing["url"]):
+                logging.info(f"Already indexed {filing['form_type']} for {company_name}")
+                continue
+            
             content = f"Company: {company_name}\nsec_filing_form_type: {filing["form_type"]}\nfiled_on: {filing['filed']}\nperiod: {filing['period']}\nURL: {filing["url"]}\nContent: {filing['content']}"
             document = Document(doc_id=filing["url"], text=content)
             document.metadata.update({
