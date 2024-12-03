@@ -1,0 +1,57 @@
+{
+  "symbol": "TRVG",
+  "company_name": "Trivago NV ADR",
+  "ir_website": "https://ir.trivago.com/financial-information/quarterly-results",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q3 2024 Earnings Transcript",
+          "url": "https://ir.trivago.com/static-files/c31ba23a-fef7-4282-bd5b-2351c4b032a1",
+          "content": "\n"
+        },
+        {
+          "title": "Q3 2024 Earnings Release",
+          "url": "https://ir.trivago.com/static-files/60bd0e68-f78f-4888-9eaa-1d8849db3741",
+          "content": "\n"
+        },
+        {
+          "title": "Q3 2024 Financial Statements",
+          "url": "https://ir.trivago.com/static-files/3caa9d06-567c-4f3b-b34d-571c695b38b6",
+          "content": "\n"
+        },
+        {
+          "title": "Q2 2024 Earnings Transcript",
+          "url": "https://ir.trivago.com/static-files/7c8a168f-6b37-436f-9cc4-222571b055c9",
+          "content": "\n"
+        },
+        {
+          "title": "Q2 2024 Earnings Release",
+          "url": "https://ir.trivago.com/static-files/f642c0d9-26ba-4a8a-adb6-5c0131b4b566",
+          "content": "\n"
+        },
+        {
+          "title": "Q1 2024 Earnings Transcript",
+          "url": "https://ir.trivago.com/static-files/f65bd1e3-7869-4a05-88d2-acba8ca42c22",
+          "content": "\n"
+        },
+        {
+          "title": "Q1 2024 Financial Statements",
+          "url": "https://ir.trivago.com/static-files/83a08c98-068d-472a-b47e-bae284d37f09",
+          "content": "\n"
+        },
+        {
+          "title": "Q4 2023 Earnings Transcript",
+          "url": "https://ir.trivago.com/static-files/d30685dc-77ab-4c74-bdff-d8f2ae60d55a",
+          "content": "\n"
+        },
+        {
+          "title": "Q4 2023 Earnings Release",
+          "url": "https://ir.trivago.com/static-files/adf71d42-1a54-4ccc-a334-53cdbe2fa142",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

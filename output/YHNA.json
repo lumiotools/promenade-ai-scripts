@@ -1,0 +1,27 @@
+{
+  "symbol": "YHNA",
+  "company_name": "Yhn Acquisition I Limited",
+  "ir_website": "https://yhn-acq.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "YHN Acquisition I Limited Press Release",
+          "url": "https://yhn-acq.com/public-relations/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filing",
+      "links": [
+        {
+          "title": "SEC Filing Report",
+          "url": "https://yhn-acq.com/sec-filing/",
+          "content": null
+        }
+      ]
+    }
+  ]
+}
