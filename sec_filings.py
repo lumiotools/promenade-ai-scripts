@@ -24,7 +24,7 @@ logging.basicConfig(
 )
 
 pinecone = Pinecone()
-pinecone_index_name = "sec-filings"
+pinecone_index_name = "nasdaq-companies"
 
 pinecone_index = pinecone.Index(pinecone_index_name)
 
@@ -157,7 +157,7 @@ async def main(input_csv: str):
     logging.info(f"Processed {len(results)} stocks in total.")
 
 if __name__ == "__main__":
-    INPUT_CSV = './data/companies_part2.3.csv'
+    INPUT_CSV = './data/companies_part.csv'
 
     logging.info("Starting stock processing script.")
     asyncio.run(main(INPUT_CSV))
