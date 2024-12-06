@@ -1,5 +1,6 @@
 from scrapers.pdf_extractor import extract_pdf_content
 from crawl4ai import AsyncWebCrawler
+from ai.process_ir_page import analyze_page_content_with_openai
 
 
 async def process_link(crawler, link):
@@ -34,13 +35,24 @@ async def process_section_data(sections):
                         "url": link["url"],
                         "content": content
                     })
+                    
+                    
+                    internal_links = analyze_page_content_with_openai(content,link["url"])
+                    
+                    print(f"Found Internal links: {len(internal_links)}")
+                    
+                    for internal_link in internal_links:
+                        # Scrape content for each link
+                        internal_content = await process_link(crawler, internal_link["url"])
+                        section_output["links"].append({
+                            "title": internal_link["title"],
+                            "url": internal_link["url"],
+                            "content": internal_content
+                        })
+                        
                 except Exception as e:
                     # Handle potential errors during link processing
-                    section_output["links"].append({
-                        "title": link["title"],
-                        "url": link["url"],
-                        "content": f"Error processing link: {str(e)}"
-                    })
+                    print(f"Error processing link: {str(e)}")
 
             output.append(section_output)
 

@@ -100,7 +100,7 @@ def index_company_data(symbol):
 
 
 if __name__ == "__main__":
-    company_symbol = pd.read_csv("data/companies_part3.4.csv")["Symbol"].values
+    company_symbol = pd.read_csv("data/companies_part1.3.csv")["Symbol"].values
     for index, symbol in enumerate(company_symbol):
 
         logging.info(f"Indexing {symbol} ({index+1}/{len(company_symbol)})")
