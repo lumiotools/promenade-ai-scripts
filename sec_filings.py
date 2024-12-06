@@ -42,15 +42,23 @@ pipeline = IngestionPipeline(
         ),
         embed_model,
     ],
-    vector_store=vector_store, # Our new addition
+    vector_store=vector_store,  # Our new addition
 )
 
-def isIndexed(url):
+
+def isIndexed(filing):
     query_response = pinecone_index.query(
-    vector=[0] * 1536,  # Zero vector of appropriate dimensionality
-    # Your metadata filter
-    filter={"url": {"$eq": url}},
-    top_k=1,
+        vector=[0] * 1536,  # Zero vector of appropriate dimensionality
+        # Your metadata filter
+        filter={
+
+            "form_type": {"$eq": filing["formType"]},
+            "filed": {"$eq": filing["filed"]},
+            "period": {"$eq": filing["period"]},
+
+            # "url": {"$eq": url}
+        },
+        top_k=1,
     )
     
     if len(query_response.matches) > 0:
@@ -80,14 +88,14 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         final_sec_filings = []
         
         for filing in sec_filings:
-            if isIndexed(filing["view"]["htmlLink"]):
+            if isIndexed(filing):
                 logging.info(f"Already indexed {filing['view']['htmlLink']} for {company_name}")
                 continue
             else:
                 final_sec_filings.append(filing)
 
-        filings_content = await process_sec_filings(final_sec_filings,symbol)
-        
+        filings_content = await process_sec_filings(final_sec_filings, symbol)
+
         for filing in filings_content:
             
             content = f"Company: {company_name}\nsec_filing_form_type: {filing['form_type']}\nfiled_on: {filing['filed']}\nperiod: {filing['period']}\nURL: {filing['url']}\nContent: {filing['content']}"
@@ -95,7 +103,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
             document.metadata.update({
                 "symbol": symbol,
                 "company_name": company_name,
-                "ir_website": filing["sec_filing_website"],
+                "sec_filing_website": filing["sec_filing_website"],
                 "form_type": filing["form_type"],
                 "filed": filing["filed"],
                 "period": filing["period"],
@@ -134,9 +142,13 @@ async def main(input_csv: str):
             csvreader = csv.reader(csvfile)
 
             count = 0
-            for row in csvreader:
+            for index, row in enumerate(csvreader):
                 if len(row) >= 2:
                     symbol, company_name = row[0], row[1]
+                    
+                    
+                    if symbol != "TSLA":
+                        continue
 
                     if not symbol or not company_name:
                         logging.warning(f"Invalid row found: {row}")
@@ -157,7 +169,7 @@ async def main(input_csv: str):
     logging.info(f"Processed {len(results)} stocks in total.")
 
 if __name__ == "__main__":
-    INPUT_CSV = './data/companies_part.csv'
+    INPUT_CSV = './data/companies_part3.4.csv'
 
     logging.info("Starting stock processing script.")
     asyncio.run(main(INPUT_CSV))

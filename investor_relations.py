@@ -9,6 +9,8 @@ from scrapers.scrape_page import scrape_page
 from scrapers.process_section import process_section_data
 from ai.get_ir_website import get_ir_website
 from ai.process_ir_page import analyze_html_with_openai
+from scrapers.process_section import process_link
+from crawl4ai import AsyncWebCrawler
 
 logging.basicConfig(
     level=logging.INFO,
@@ -60,9 +62,11 @@ async def process_stock(driver, symbol: str, company_name: str, output_path: str
 
         logging.info(f"Found Investor Relations website for {symbol}: {ir_website}")
 
-        html_content = scrape_page(driver, ir_website)
+        # html_content = scrape_page(driver, ir_website)
+        async with AsyncWebCrawler() as crawler:
+            page_content = await process_link(crawler,ir_website)
 
-        sections_data = analyze_html_with_openai(html_content,ir_website)
+        sections_data = analyze_html_with_openai(page_content,ir_website)
         logging.info(f"Sections data extracted for {symbol}: {company_name}")
         
         print(len(sections_data))
@@ -141,7 +145,7 @@ async def main(input_csv: str):
     logging.info(f"Processed {len(results)} stocks in total.")
 
 if __name__ == "__main__":
-    INPUT_CSV = './data/companies_part2.3.csv'
+    INPUT_CSV = './data/companies_part3.4.csv'
 
     logging.info("Starting stock processing script.")
     asyncio.run(main(INPUT_CSV))

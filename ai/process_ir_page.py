@@ -34,8 +34,8 @@ def analyze_html_with_openai(html_content,ir_website):
     """
     prompt = f"""
     You are an expert content analyzer. Analyze the following content and extract structured data with the following schema:
-    - Section Name: (e.g., "News Articles", "Financial Reports", "Press Releases") include all the sections present in the page content that are important for an investor relations page.
-    - Links: List of links in that section these links should be exact links of articles or .pdf files (with titles and URLs)
+    - Section Name: (e.g., "News Articles", "Financial Reports", "Press Releases") include all such sections present in the page content that are important for an investor relations page.
+    - Links: List of links in those section these links should be exact links of articles or .pdf files (with titles and URLs)
     
     *Note: we will ignore the links that include the date before 2024*
     

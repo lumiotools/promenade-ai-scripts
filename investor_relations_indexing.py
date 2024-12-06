@@ -66,6 +66,8 @@ def index_company_data(symbol):
         company_name = company_data["company_name"]
         company_ir_website = company_data["ir_website"]
         structured_data = company_data["structured_data"]
+        
+        documents = []
 
         for section in structured_data:
             section_name = section["section_name"]
@@ -88,15 +90,17 @@ def index_company_data(symbol):
 
                 })
                 
-                try:
-                    pipeline.run(documents=[document])
-                    logging.info(f"Indexed {link['title']} for {company_name}")
-                except Exception as e:
-                    logging.error(f"Error indexing {link['title']} for {company_name}: {e}")
+                documents.append(document)
+                
+        try:
+            pipeline.run(documents=documents)
+            logging.info(f"Indexed {company_name}")
+        except Exception as e:
+            logging.error(f"Error indexing {company_name}: {e}")
 
 
 if __name__ == "__main__":
-    company_symbol = pd.read_csv("data/companies_part3.1.csv")["Symbol"].values
+    company_symbol = pd.read_csv("data/companies_part3.4.csv")["Symbol"].values
     for index, symbol in enumerate(company_symbol):
 
         logging.info(f"Indexing {symbol} ({index+1}/{len(company_symbol)})")
