@@ -1,4 +1,5 @@
 import requests
+from urllib import parse
 
 def list_sec_filings(symbol: str):
     """
@@ -10,7 +11,7 @@ def list_sec_filings(symbol: str):
     Returns:
         dict: Dictionary with form types as keys and their latest filing as values.
     """
-    base_url = f"https://api.nasdaq.com/api/company/{symbol.upper()}/sec-filings?sortColumn=filed&sortOrder=desc"
+    base_url = f"https://api.nasdaq.com/api/company/{symbol.upper().replace("-","%25sl%25")}/sec-filings?sortColumn=filed&sortOrder=desc"
     print(f"Fetching data from: {base_url}")
     
     response = requests.get(base_url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})

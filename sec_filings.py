@@ -95,6 +95,8 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
                 final_sec_filings.append(filing)
 
         filings_content = await process_sec_filings(final_sec_filings, symbol)
+        
+        documents = []
 
         for filing in filings_content:
             
@@ -110,11 +112,13 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
                 "url": filing["url"],
             })
             
-            try:
-                pipeline.run(documents=[document])
-                logging.info(f"Indexed {filing['form_type']} for {company_name}")
-            except Exception as e:
-                logging.error(f"Error indexing {filing['form_type']} for {company_name}: {e}")
+            documents.append(document)
+            
+        try:
+            pipeline.run(documents=documents)
+            logging.info(f"Indexed {company_name}")
+        except Exception as e:
+            logging.error(f"Error indexing {company_name}: {e}")
 
         return True
 
@@ -146,9 +150,6 @@ async def main(input_csv: str):
                 if len(row) >= 2:
                     symbol, company_name = row[0], row[1]
                     
-                    
-                    if symbol != "TSLA":
-                        continue
 
                     if not symbol or not company_name:
                         logging.warning(f"Invalid row found: {row}")
