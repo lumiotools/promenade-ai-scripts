@@ -1,0 +1,27 @@
+{
+  "symbol": "YHNAU",
+  "company_name": "Yhn Acquisition I Limited",
+  "ir_website": "https://yhn-acq.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "SEC Filing",
+          "url": "https://yhn-acq.com/sec-filing/",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Public Relations",
+      "links": [
+        {
+          "title": "Public Relations",
+          "url": "https://yhn-acq.com/public-relations/",
+          "content": "[Skip to content](#content)\n\n[![YHN Company Logo](https://yhn-acq.com/wp-content/uploads/2024/08/logoname-transparent.png.webp)](https://yhn-acq.com/)\n\nMenu\n\n## Coming Soon\n"
+        }
+      ]
+    }
+  ]
+}

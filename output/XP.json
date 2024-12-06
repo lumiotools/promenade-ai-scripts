@@ -1,0 +1,57 @@
+{
+  "symbol": "XP",
+  "company_name": "XP Inc Cl A",
+  "ir_website": "https://investors.xpinc.com/en/",
+  "structured_data": [
+    {
+      "section_name": "Latest Announcements",
+      "links": [
+        {
+          "title": "XP Inc. Announces Cash Dividend",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/1b065503-5cb0-2e72-2af5-d6d2738a9706?origin=1",
+          "content": "\n"
+        },
+        {
+          "title": "XP Inc. Announces New Share Repurchase Program",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/7be8cddb-0267-7022-ff3f-200286a94d0b?origin=1",
+          "content": "\n"
+        },
+        {
+          "title": "XP Inc. Reports Third Quarter 2024 Results",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/90c75863-882e-3620-cb60-a533f85a6a56?origin=1",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Investor Kit",
+      "links": [
+        {
+          "title": "Earnings Release",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/90c75863-882e-3620-cb60-a533f85a6a56?origin=1",
+          "content": "\n"
+        },
+        {
+          "title": "Conference Call Presentation",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/036d0b39-1141-26af-cbb5-eb5dc1414950?origin=1",
+          "content": "\n"
+        },
+        {
+          "title": "Consolidated Financial Statements",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/d4805faa-b39e-0231-5525-ef7e94f92b3b?origin=1",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "EXP Inc. Reports Results",
+          "url": "https://api.mziq.com/mzfilemanager/v2/d/d1820734-8b3f-4a23-8642-331a3a8561a6/90c75863-882e-3620-cb60-a533f85a6a56?origin=1",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

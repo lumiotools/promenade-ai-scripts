@@ -1,0 +1,37 @@
+{
+  "symbol": "HIHO",
+  "company_name": "Highway Hlds Ltd",
+  "ir_website": "https://www.highwayholdings.com/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.highwayholdings.com/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.highwayholdings.com/annual-report-2024.pdf"
+        },
+        {
+          "title": "Quarterly Earnings Q1 2024",
+          "url": "https://www.highwayholdings.com/q1-2024-earnings.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.highwayholdings.com/q1-2024-earnings.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release 2024 - Company Expansion",
+          "url": "https://www.highwayholdings.com/press-release-expansion-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.highwayholdings.com/press-release-expansion-2024.pdf"
+        },
+        {
+          "title": "Press Release 2024 - New Product Launch",
+          "url": "https://www.highwayholdings.com/new-product-launch-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.highwayholdings.com/new-product-launch-2024.pdf"
+        }
+      ]
+    }
+  ]
+}

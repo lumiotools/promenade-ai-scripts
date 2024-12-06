@@ -1,0 +1,42 @@
+{
+  "symbol": "GFAI",
+  "company_name": "Guardforce Ai Company",
+  "ir_website": "https://ir.guardforceai.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Recent Press Release",
+          "url": "https://ir.guardforceai.com/news-events/press-releases/",
+          "content": "[ ![Guardforce AI IR](https://ir.guardforceai.com/wp-content/themes/mziq_Guardforce_AI_otc/img/logo_\\(1\\).png) ](https://www.guardforceai.com/)\n\nA- A+ Contrast [ Accessibility ](/accessibility)\n\n[Corporate Home Page](http://www.guardforceai.com/)\n\n# Press Releases\n"
+        }
+      ]
+    },
+    {
+      "section_name": "News & Events",
+      "links": [
+        {
+          "title": "Company Presentation",
+          "url": "https://ir.guardforceai.com/news-events/company-presentation/",
+          "content": "[ ![Guardforce AI IR](https://ir.guardforceai.com/wp-content/themes/mziq_Guardforce_AI_otc/img/logo_\\(1\\).png) ](https://www.guardforceai.com/)\n\nA- A+ Contrast [ Accessibility ](/accessibility)\n\n[Corporate Home Page](http://www.guardforceai.com/)\n\n# Company Presentation\n\nSubmit\n\nNo files for the selected year.\n\n### Company Presentation\n\nFiles Files  \n---\n"
+        },
+        {
+          "title": "Company Events",
+          "url": "https://ir.guardforceai.com/news-events/company-events/",
+          "content": "[ ![Guardforce AI IR](https://ir.guardforceai.com/wp-content/themes/mziq_Guardforce_AI_otc/img/logo_\\(1\\).png) ](https://www.guardforceai.com/)\n\nA- A+ Contrast [ Accessibility ](/accessibility)\n\n[Corporate Home Page](http://www.guardforceai.com/)\n\n# Company Events\n\nSubtitle:\n\nEarnings Release\n\nWebcast\n\nMore than one event\n\nConferences\n\nOther Events\n\n## Future events\n\nFuture events Date | Event | Details | Export  \n---|---|---|---  \n  \n## Past events\n\nyear Submit\n\nPast events Date | Event | Details  \n---|---|---\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financials",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://ir.guardforceai.com/financials/sec-filings/",
+          "content": "[ ![Guardforce AI IR](https://ir.guardforceai.com/wp-content/themes/mziq_Guardforce_AI_otc/img/logo_\\(1\\).png) ](https://www.guardforceai.com/)\n\nA- A+ Contrast [ Accessibility ](/accessibility)\n\n[Corporate Home Page](http://www.guardforceai.com/)\n\n# SEC Filings\n"
+        }
+      ]
+    }
+  ]
+}

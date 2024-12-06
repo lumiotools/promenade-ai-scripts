@@ -1,0 +1,17 @@
+{
+  "symbol": "GDSTW",
+  "company_name": "Goldenstone Acquisition Ltd WT",
+  "ir_website": "https://www.goldenstonecorp.com/",
+  "structured_data": [
+    {
+      "section_name": "Redirect",
+      "links": [
+        {
+          "title": "Landing Page",
+          "url": "https://www.goldenstonecorp.com/lander",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "GIGM",
+  "company_name": "Gigamedia Ltd",
+  "ir_website": "https://www.gigamedia.com/EN/InvestorNews/ugC_InvestorNews.asp",
+  "structured_data": [
+    {
+      "section_name": "Investor News",
+      "links": [
+        {
+          "title": "Chih-Hong Tsai and Wan-Wan Lin Appointed Independent Non-Executive Directors of GigaMedia",
+          "url": "https://www.gigamedia.com/ugC_InvestorNews.asp?hidNewsCatID=20",
+          "content": "\n"
+        },
+        {
+          "title": "GigaMedia Announces Partial Extension of Aeolus Convertible Note",
+          "url": "https://www.gigamedia.com/ugC_InvestorNews.asp?hidNewsCatID=20",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filings",
+          "url": "https://www.gigamedia.com/QuarterlyFinancialResults/ugC_Down.asp?hidDownTypeID=6&hidDownCatID=71",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Quarterly Financial Results",
+      "links": [
+        {
+          "title": "Quarterly Financial Results",
+          "url": "https://www.gigamedia.com/QuarterlyFinancialResults/ugC_Down.asp?hidDownTypeID=4&hidDownCatID=73",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Annual Reports",
+      "links": [
+        {
+          "title": "Annual Reports",
+          "url": "https://www.gigamedia.com/QuarterlyFinancialResults/ugC_Down.asp?hidDownTypeID=5&hidDownCatID=72",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}
