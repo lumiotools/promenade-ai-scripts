@@ -1,0 +1,45 @@
+{
+  "symbol": "SOPA",
+  "company_name": "Society Pass Inc",
+  "ir_website": "https://thesocietypass.com/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "Press Release",
+      "links": [
+        {
+          "title": "Press Release for latest updates",
+          "url": "https://thesocietypass.com/news-room",
+          "content": "### menu\n\n  * [Home](/)\n  * [About Us](/about)\n  * [Investor Relations](/investor-relations)\n  * [News Room](/news-room)\n  * [Media](/media)\n  * [Careers](/careers)\n  * [Contact Us](/get-in-touch)\n\n\n  * [![linkedin](/social-linkedin.png)](https://www.linkedin.com/company/societypass/)\n  * [![facebook](/social-facebook.png)](https://www.facebook.com/thesocietypass)\n  * [![twitter](/social-twitter.png)](https://twitter.com/society_pass)\n  * [![instagram](/social-instagram.png)](https://www.instagram.com/societypass/)\n\n\n\n![](/logo.png)\n\nMENU\n\n#### NEWS ROOM\n\n## News Room\n\nCopyright © 2023 Society Pass Incorporated. All rights reserved. Powered by Society Pass\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Sec Filings",
+      "links": []
+    },
+    {
+      "section_name": "Annual Meetings",
+      "links": []
+    },
+    {
+      "section_name": "Annual/Quarterly Reports",
+      "links": []
+    },
+    {
+      "section_name": "Management",
+      "links": []
+    },
+    {
+      "section_name": "Corporate Governance",
+      "links": []
+    },
+    {
+      "section_name": "Equity Research Report",
+      "links": []
+    },
+    {
+      "section_name": "Investor Deck",
+      "links": []
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "OCCIN",
+  "company_name": "Ofs Credit Company Inc 5.25%",
+  "ir_website": "https://ir.ofscreditcompany.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Company Announces New Investment Strategy",
+          "url": "https://ir.ofscreditcompany.com/press-releases/new-investment-strategy",
+          "content": "[Skip to content](#lfg-main-content)\n\n# Page Not Found\n\nWe are sorry, the page you requested cannot be found. Please check the URL or visit our [Homepage](/).\n"
+        },
+        {
+          "title": "Quarterly Earnings Released",
+          "url": "https://ir.ofscreditcompany.com/press-releases/quarterly-earnings-release",
+          "content": "[Skip to content](#lfg-main-content)\n\n# Page Not Found\n\nWe are sorry, the page you requested cannot be found. Please check the URL or visit our [Homepage](/).\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "2024 Q1 Financial Results",
+          "url": "https://ir.ofscreditcompany.com/financial-reports/Q1-2024-report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.ofscreditcompany.com/financial-reports/Q1-2024-report.pdf"
+        },
+        {
+          "title": "2024 Annual Report",
+          "url": "https://ir.ofscreditcompany.com/financial-reports/2024-annual-report.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.ofscreditcompany.com/financial-reports/2024-annual-report.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "OFS Credit Company Expands Investment Portfolio",
+          "url": "https://ir.ofscreditcompany.com/news-ofs-credit-expansion",
+          "content": "[Skip to content](#lfg-main-content)\n\n# Page Not Found\n\nWe are sorry, the page you requested cannot be found. Please check the URL or visit our [Homepage](/).\n"
+        },
+        {
+          "title": "Sustainable Investment Practices in 2024",
+          "url": "https://ir.ofscreditcompany.com/news/sustainable-investing-2024",
+          "content": "[Skip to content](#lfg-main-content)\n\n# Page Not Found\n\nWe are sorry, the page you requested cannot be found. Please check the URL or visit our [Homepage](/).\n"
+        }
+      ]
+    }
+  ]
+}

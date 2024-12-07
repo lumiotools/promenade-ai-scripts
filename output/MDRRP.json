@@ -3,68 +3,6 @@
   "company_name": "Medalist Diversified REIT Inc Series A",
   "ir_website": "https://medalistreit.com/investors/",
   "structured_data": [
-    {
-      "section_name": "News Articles",
-      "links": [
-        {
-          "title": "Medalist Diversified REIT, Inc. Declares Cash Dividends on Series A Preferred Stock, Announces Increase to Common Stock Repurchase Program and Appoints Permanent CEO and President",
-          "url": "https://medalistreit.com/medalist-declares-cash-dividends-on-series-a-preferred-stock-aappoints-permanent-ceo-and-president/",
-          "content": null
-        },
-        {
-          "title": "Medalist Diversified REIT, Inc. Releases Update From Interim CEO and President",
-          "url": "https://medalistreit.com/medalist-diversified-reit-inc-releases-update-from-interim-ceo-and-president-2/",
-          "content": null
-        }
-      ]
-    },
-    {
-      "section_name": "Press Releases",
-      "links": []
-    },
-    {
-      "section_name": "Financial Reports",
-      "links": []
-    },
-    {
-      "section_name": "SEC Filings",
-      "links": [
-        {
-          "title": "SEC Filings",
-          "url": "https://medalistreit.com/investors/sec-filings/",
-          "content": null
-        }
-      ]
-    },
-    {
-      "section_name": "Stock Performance",
-      "links": [
-        {
-          "title": "Stock Performance",
-          "url": "https://medalistreit.com/investors/stock-performance/",
-          "content": null
-        }
-      ]
-    },
-    {
-      "section_name": "Dividend Income Tax Treatment",
-      "links": [
-        {
-          "title": "Dividend Income Tax Treatment",
-          "url": "https://medalistreit.com/investors/dividend-income-tax-treatment/",
-          "content": null
-        }
-      ]
-    },
-    {
-      "section_name": "Corporate Governance",
-      "links": [
-        {
-          "title": "Corporate Governance",
-          "url": "https://medalistreit.com/investors/corporate-governance/",
-          "content": null
-        }
-      ]
-    }
+    
   ]
 }

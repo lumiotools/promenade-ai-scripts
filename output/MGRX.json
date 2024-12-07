@@ -1,0 +1,47 @@
+{
+  "symbol": "MGRX",
+  "company_name": "Mangoceuticals Inc",
+  "ir_website": "https://www.mangoceuticals.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release 1",
+          "url": "https://www.mangoceuticals.com/press-releases/2024-01-01-press-release-1.pdf",
+          "content": "Error extracting PDF content: 404 Client Error:  for url: https://www.mangoceuticals.com/press-releases/2024-01-01-press-release-1.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "SEC Filing 1",
+          "url": "https://www.mangoceuticals.com/sec-filings/2024-01-01-sec-filing-1.pdf",
+          "content": "Error extracting PDF content: 404 Client Error:  for url: https://www.mangoceuticals.com/sec-filings/2024-01-01-sec-filing-1.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Events & Presentations",
+      "links": [
+        {
+          "title": "Event Presentation 1",
+          "url": "https://www.mangoceuticals.com/events-presentations/2024-01-01-event-presentation-1.pdf",
+          "content": "Error extracting PDF content: 404 Client Error:  for url: https://www.mangoceuticals.com/events-presentations/2024-01-01-event-presentation-1.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Investor Alerts",
+      "links": [
+        {
+          "title": "Investor Alert 1",
+          "url": "https://www.mangoceuticals.com/investor-alerts/2024-01-01-alert-1.pdf",
+          "content": "Error extracting PDF content: 404 Client Error:  for url: https://www.mangoceuticals.com/investor-alerts/2024-01-01-alert-1.pdf"
+        }
+      ]
+    }
+  ]
+}

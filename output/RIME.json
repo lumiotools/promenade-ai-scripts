@@ -1,0 +1,27 @@
+{
+  "symbol": "RIME",
+  "company_name": "Algorhythm Holdings Inc",
+  "ir_website": "https://ir.algoholdings.com/",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "See All Press Releases",
+          "url": "https://ir.algoholdings.com/investor-press-releases.php",
+          "content": "[ ![](css/img/logo.png) ](/)\n\n###### **News & Events**\n\n# **Investor Relations.**\n\n  * [Overview](/)\n  * [News & Events](investor-press-releases.php)\n  * [Stock Data](investor-stock-data.php)\n  * [Financial Reports](investor-filings.php)\n  * [Governance](management-team.php)\n  * [Email Alerts](investor-alerts.php)\n\n\n\n#### **News/Events**\n\n  * [Press Releases](/investor-press-releases)\n  * [Events](/investor-events.php)\n\n\n\n[Back to top](javascript:void\\(0\\); \"Back to top\")\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Financial Reports",
+          "url": "https://ir.algoholdings.com/investor-filings.php",
+          "content": "[ ![](css/img/logo.png) ](/)\n\n###### **Financial Documents**\n\n# **Investor Relations.**\n\n  * [Overview](/)\n  * [News & Events](investor-press-releases.php)\n  * [Stock Data](investor-stock-data.php)\n  * [Financial Reports](investor-filings.php)\n  * [Governance](management-team.php)\n  * [Email Alerts](investor-alerts.php)\n\n\n\n[Back to top](javascript:void\\(0\\); \"Back to top\")\n"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "symbol": "MMVWW",
+  "company_name": "Multimetaverse Holdings Ltd WT",
+  "ir_website": "https://www.multi-metaverse.com/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Financial Report 2024",
+          "url": "https://www.multi-metaverse.com/financial-reports/annual-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.multi-metaverse.com/financial-reports/annual-2024.pdf"
+        },
+        {
+          "title": "Q1 Financial Results 2024",
+          "url": "https://www.multi-metaverse.com/financial-reports/q1-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.multi-metaverse.com/financial-reports/q1-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "New Partnership Announcement 2024",
+          "url": "https://www.multi-metaverse.com/press-releases/partnership-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.multi-metaverse.com/press-releases/partnership-2024.pdf"
+        },
+        {
+          "title": "2024 Investor Day Invitation",
+          "url": "https://www.multi-metaverse.com/press-releases/investor-day-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.multi-metaverse.com/press-releases/investor-day-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "MultiMetaVerse Expansion Plans for 2024",
+          "url": "https://www.multi-metaverse.com/news/multimetaverse-expansion-2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.multi-metaverse.com/news/multimetaverse-expansion-2024.pdf"
+        }
+      ]
+    }
+  ]
+}
