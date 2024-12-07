@@ -23,7 +23,7 @@ from llama_index.core import Document
 
 pinecone = Pinecone()
 
-pinecone_index_name = "demo"
+pinecone_index_name = "nasdaq-companies"
 
 pinecone_index = pinecone.Index(pinecone_index_name)
 
