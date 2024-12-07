@@ -4,3 +4,4 @@ venv
 scraper.log
 *.pdf
 .idea/
+script/
