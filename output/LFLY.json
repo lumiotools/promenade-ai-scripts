@@ -1,0 +1,37 @@
+{
+  "symbol": "LFLY",
+  "company_name": "Leafly Hldgs Inc",
+  "ir_website": "https://investor.leafly.com/overview/default.aspx",
+  "structured_data": [
+    {
+      "section_name": "Debugging Information",
+      "links": [
+        {
+          "title": "Debugging Info - Subject",
+          "url": "https://investor.leafly.com/#debugging-subject",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investor.leafly.com\n"
+        },
+        {
+          "title": "Debugging Info - Issuer",
+          "url": "https://investor.leafly.com/#debugging-issuer",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investor.leafly.com\n"
+        },
+        {
+          "title": "Debugging Info - Expires on",
+          "url": "https://investor.leafly.com/#debugging-expires-on",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investor.leafly.com\n"
+        },
+        {
+          "title": "Debugging Info - Current date",
+          "url": "https://investor.leafly.com/#debugging-current-date",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investor.leafly.com\n"
+        },
+        {
+          "title": "Debugging Info - PEM encoded chain",
+          "url": "https://investor.leafly.com/#debugging-pem-encoded-chain",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Marijuana.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://investor.leafly.com\n"
+        }
+      ]
+    }
+  ]
+}

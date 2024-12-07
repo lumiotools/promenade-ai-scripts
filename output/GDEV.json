@@ -1,0 +1,37 @@
+{
+  "symbol": "GDEV",
+  "company_name": "Gdev Inc",
+  "ir_website": "https://www.gdev.inc/for-investors/investor-materials",
+  "structured_data": [
+    {
+      "section_name": "Investor Materials",
+      "links": [
+        {
+          "title": "Databook",
+          "url": "https://api.gdev.inc/assets/56792364-397d-4806-acd8-e62ef7efeb52/GDEV-Databook.xlsx?download",
+          "content": ""
+        },
+        {
+          "title": "Investor Presentation",
+          "url": "https://api.gdev.inc/assets/14020c05-15ae-40f0-8ec5-0bc77a689692/Investor Presentation 221124 opt.pdf?download",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Brand Hub",
+      "links": [
+        {
+          "title": "GDEV Press Kit",
+          "url": "https://api.gdev.inc/assets/aa35b848-a51c-4d4b-9d2d-59869d691a2f/GDEV Press Kit.pdf?download",
+          "content": ""
+        },
+        {
+          "title": "GDEV Guidelines 2024",
+          "url": "https://api.gdev.inc/assets/416345b1-d4a5-4ede-9288-896a0a8209d1/GDEV Guidelines 2024.pdf?download",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "symbol": "FNX",
+  "company_name": "Midcap Core Alphadex Fund FT",
+  "ir_website": "https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=FNK",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "2024 Financial Market Outlook",
+          "url": "https://www.ftportfolios.com/Research/Articles/2024_Financial_Market_Outlook",
+          "content": ""
+        },
+        {
+          "title": "Current Trends in Investment",
+          "url": "https://www.ftportfolios.com/Research/Articles/Current_Trends_in_Investment",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Report",
+          "url": "https://www.ftportfolios.com/Research/FinancialReports/Q1_2024_Earnings_Report.pdf",
+          "content": ""
+        },
+        {
+          "title": "2024 Annual Financial Summary",
+          "url": "https://www.ftportfolios.com/Research/FinancialReports/2024_Annual_Financial_Summary.pdf",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Announcement of New Product Launch",
+          "url": "https://www.ftportfolios.com/Research/PressReleases/Announcement_of_New_Product_Launch",
+          "content": ""
+        },
+        {
+          "title": "2024 Second Quarter Results",
+          "url": "https://www.ftportfolios.com/Research/PressReleases/2024_Second_Quarter_Results.pdf",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

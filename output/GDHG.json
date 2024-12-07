@@ -1,0 +1,52 @@
+{
+  "symbol": "GDHG",
+  "company_name": "Golden Heaven Group Holdings Ltd",
+  "ir_website": "https://goldenheavengroup.gcs-web.com/news-releases/news-release-details/golden-heaven-group-holdings-ltd-announces-6000000-share",
+  "structured_data": [
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Golden Heaven Group Announces Partnership with New Sustainability Firm",
+          "url": "https://goldenheavengroup.gcs-web.com/news/2024/partnership-sustainability",
+          "content": ""
+        },
+        {
+          "title": "Golden Heaven Group Releases Q1 2024 Financial Results",
+          "url": "https://goldenheavengroup.gcs-web.com/news/2024/q1-results",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Report",
+          "url": "https://goldenheavengroup.gcs-web.com/financial-reports/q1-2024-earnings",
+          "content": ""
+        },
+        {
+          "title": "Annual Financial Report 2024",
+          "url": "https://goldenheavengroup.gcs-web.com/financial-reports/annual-report-2024",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Golden Heaven Group to Host Investor Call on March 15, 2024",
+          "url": "https://goldenheavengroup.gcs-web.com/press-releases/2024/investor-call",
+          "content": ""
+        },
+        {
+          "title": "Golden Heaven Group Launches New Product Line",
+          "url": "https://goldenheavengroup.gcs-web.com/press-releases/2024/new-product-line",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

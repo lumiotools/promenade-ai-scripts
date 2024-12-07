@@ -1,0 +1,17 @@
+{
+  "symbol": "INOD",
+  "company_name": "Innodata Inc",
+  "ir_website": "https://innodata.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Investor Presentation",
+      "links": [
+        {
+          "title": "Investor Presentation",
+          "url": "https://drive.google.com/uc?export=download&id=16p01uqGSQP66V3gKADAe_YXRje2htsv3",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

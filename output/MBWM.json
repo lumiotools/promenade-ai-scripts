@@ -4,7 +4,7 @@
   "ir_website": "https://ir.mercbank.com/corporate-profile/default.aspx",
   "structured_data": [
     {
-      "section_name": "Investor News",
+      "section_name": "Press Releases",
       "links": [
         {
           "title": "Mercantile Bank Corporation Announces Strong Third Quarter Results",
@@ -44,17 +44,12 @@
       ]
     },
     {
-      "section_name": "Earnings Call",
+      "section_name": "Events",
       "links": [
         {
-          "title": "Webcast",
-          "url": "https://app.webinar.net/bqPYje6xmBA",
-          "content": "\n"
-        },
-        {
-          "title": "Presentation",
-          "url": "https://ir.mercbank.com//s26.q4cdn.com/722068143/files/doc_presentations/2024/Oct/15/mbwm-investor-presentation-third-quarter-2024.pdf",
-          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://ir.mercbank.com//s26.q4cdn.com/722068143/files/doc_presentations/2024/Oct/15/mbwm-investor-presentation-third-quarter-2024.pdf"
+          "title": "View All Events",
+          "url": "https://ir.mercbank.com/news-market-data/event-calendar/default.aspx",
+          "content": "[ ![Mercantile Logo](//s26.q4cdn.com/722068143/files/images/merccorp-cmyktriangleblk-2023-01-01.png) ](https://www.mercbank.com/)\n\n  * [About](https://www.mercbank.com/about/)\n    * [History](https://www.mercbank.com/about/history)\n    * [Mission Statement](https://www.mercbank.com/about/mission)\n    * [Diversity & Inclusion](https://www.mercbank.com/about/diversity)\n    * [Community Involvement](https://www.mercbank.com/about/community)\n    * [Giving Together](https://www.mercbank.com/about/giving-together)\n    * [Sustainability](https://www.mercbank.com/about/sustainability)\n    * [Careers](https://www.mercbank.com/about/careers)\n  * [Overview](https://ir.mercbank.com/corporate-profile/default.aspx)\n    * [Corporate Profile](https://ir.mercbank.com/corporate-profile/default.aspx)\n    * [Corporate Structure](https://ir.mercbank.com/overview/corporate-structure/default.aspx)\n    * [Directors & Officers](https://ir.mercbank.com/overview/directors-officers/default.aspx)\n    * [Governance Documents](https://ir.mercbank.com/overview/documents/default.aspx)\n    * [Committee Charting](https://ir.mercbank.com/overview/committee-charting/default.aspx)\n    * [Mission Statement](https://ir.mercbank.com/overview/Mission-Statement/default.aspx)\n  * [Stock](https://ir.mercbank.com/stock/stock-quote/default.aspx)\n    * [Stock Quote](https://ir.mercbank.com/stock/stock-quote/default.aspx)\n    * [Historic Prices](https://ir.mercbank.com/stock/historic-prices/default.aspx)\n    * [Dividends](https://ir.mercbank.com/stock/dividends/default.aspx)\n    * [Financial Calculators](https://ir.mercbank.com/stock/financial-calculators/default.aspx)\n    * [Dividend Reinvestment Plan](https://ir.mercbank.com/stock/dividend-reinvestment-plan/default.aspx)\n  * [Filings](https://ir.mercbank.com/filings/documents/default.aspx)\n    * [Documents](https://ir.mercbank.com/filings/documents/default.aspx)\n    * [Annual Reports](https://ir.mercbank.com/filings/annual-reports/default.aspx)\n    * [Insider Filings](https://ir.mercbank.com/filings/insider-filings/default.aspx)\n    * [Insider Ownership](https://ir.mercbank.com/filings/insider-ownership/default.aspx)\n    * [Institutional Ownership](https://ir.mercbank.com/filings/ownership/default.aspx)\n  * [Financials](https://ir.mercbank.com/financials/financial-highlights/default.aspx)\n    * [Financial Highlights](https://ir.mercbank.com/financials/financial-highlights/default.aspx)\n    * [Balance Sheet](https://ir.mercbank.com/financials/balance-sheet/default.aspx)\n    * [Income Statement](https://ir.mercbank.com/financials/income-statement/default.aspx)\n    * [As Reported Financial Statements](https://ir.mercbank.com/financials/as-reported-financial-statements/default.aspx)\n    * [Financial Charting](https://ir.mercbank.com/financials/financial-charting/default.aspx)\n    * [Deposit Loan Composition](https://ir.mercbank.com/financials/deposit-loan-composition/default.aspx)\n    * [Peer Analysis](https://ir.mercbank.com/financials/peer-analysis/default.aspx)\n  * [News & Market Data](https://ir.mercbank.com/news-market-data/press-releases/default.aspx)\n    * [Press Releases](https://ir.mercbank.com/news-market-data/press-releases/default.aspx)\n    * [Event Calendar](https://ir.mercbank.com/news-market-data/event-calendar/default.aspx)\n    * [Covering Analysts](https://ir.mercbank.com/news-market-data/covering-analysts/default.aspx)\n    * [Mergers & Acquisitions](https://ir.mercbank.com/news-market-data/mergers-acquisitions/default.aspx)\n    * [Presentations](https://ir.mercbank.com/news-market-data/presentations/default.aspx)\n  * [Resources](https://ir.mercbank.com/resources/information-request/default.aspx)\n    * [Information Request](https://ir.mercbank.com/resources/information-request/default.aspx)\n    * [Email Notification](https://ir.mercbank.com/resources/email-notification/default.aspx)\n    * [FAQs](https://ir.mercbank.com/resources/faqs/default.aspx)\n\n\n\n[](#menu-right)\n\nEvent Calendar\n\n# Event Calendar\n\n[Notify me of new Company events.](/resources/email-notification/default.aspx)\n\n  * [Upcoming Events](#Event)\n  * [Past Events](#PastEvent)\n\n\n\nLoading ...\n\nLoading ...\n\nCopyright 2024, [© Powered By Q4 Inc.](http://q4inc.com/Powered-by-Q4/)\n"
         }
       ]
     }

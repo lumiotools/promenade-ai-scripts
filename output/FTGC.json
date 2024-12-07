@@ -1,0 +1,32 @@
+{
+  "symbol": "FTGC",
+  "company_name": "Global Tactical Commodity Strategy Fund FT",
+  "ir_website": "https://www.ftportfolios.com/retail/etf/etfsummary.aspx?Ticker=FTGC",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Results",
+          "url": "https://www.ftportfolios.com/Q1_2024_Financial_Results.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.ftportfolios.com/Q1_2024_Financial_Results.pdf"
+        },
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.ftportfolios.com/Annual_Report_2023.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.ftportfolios.com/Annual_Report_2023.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Launch of New Fund 2024",
+          "url": "https://www.ftportfolios.com/PressReleases/LaunchOfNewFund2024.pdf",
+          "content": "Error extracting PDF content: 404 Client Error: Not Found for url: https://www.ftportfolios.com/PressReleases/LaunchOfNewFund2024.pdf"
+        }
+      ]
+    }
+  ]
+}

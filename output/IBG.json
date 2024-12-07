@@ -1,0 +1,27 @@
+{
+  "symbol": "IBG",
+  "company_name": "Innovation Beverage Group Limited",
+  "ir_website": "https://investors.innovationbev.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Latest Press Releases",
+          "url": "https://investors.innovationbev.com/press-releases",
+          "content": "[![IBG Logo](https://lirp.cdn-website.com/5f9ea1c4/dms3rep/multi/opt/IBG-Logo-White-1920w.png)](https://innovationbev.com)\n\n[![IBG Logo](https://lirp.cdn-website.com/5f9ea1c4/dms3rep/multi/opt/IBG-Logo-White-1920w.png)](https://www.innovationbev.com/)\n\n☰ INVESTOR MENU\n\n# PRESS RELEASES\n\n![IBG logo](https://lirp.cdn-website.com/5f9ea1c4/dms3rep/multi/opt/IBG-Logo-White-1920w.png)\n\nDefining the Future of Beverages\n\n## Useful Links\n\n[HOME](https://www.innovationbev.com/)\n\n[ABOUT US](https://www.innovationbev.com/about-us/)\n\n[NEWS & MEDIA](https://www.innovationbev.com/news-media/)\n\n[OUR BRANDS](https://www.innovationbev.com/our-brands/)\n\n## Recent News\n\nCopyright © 2024 [Innovation Beverage Group Limited.](http://innovationbev.com) All rights reserved.\n\nShare by:\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Recent News",
+      "links": [
+        {
+          "title": "See All News",
+          "url": "https://investors.innovationbev.com/press-releases",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

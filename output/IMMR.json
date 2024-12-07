@@ -1,0 +1,32 @@
+{
+  "symbol": "IMMR",
+  "company_name": "Immersion Corp",
+  "ir_website": "https://www.immersion.com/investor-relations/",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Financials and Filings",
+          "url": "https://www.sec.gov/edgar/browse/?CIK=1058811",
+          "content": ""
+        },
+        {
+          "title": "Detailed Stock Info",
+          "url": "https://finviz.com/quote.ashx?t=IMMR",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Releases",
+          "url": "https://www.immersion.com/press-releases/",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

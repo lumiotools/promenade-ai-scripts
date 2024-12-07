@@ -1,0 +1,17 @@
+{
+  "symbol": "GAN",
+  "company_name": "Gan Ltd",
+  "ir_website": "https://investors.gan.com/",
+  "structured_data": [
+    {
+      "section_name": "Debugging Information",
+      "links": [
+        {
+          "title": "SSL Certificate Information",
+          "url": "https://investors.gan.com/error_debugging_info",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

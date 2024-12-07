@@ -1,0 +1,22 @@
+{
+  "symbol": "DALN",
+  "company_name": "Dallasnews Corp",
+  "ir_website": "https://investor.dallasnewscorp.com/reports",
+  "structured_data": [
+    {
+      "section_name": "Annual Reports",
+      "links": [
+        {
+          "title": "2023 Annual Report",
+          "url": "https://investor.dallasnewscorp.com/static-files/a16deda8-c948-4db9-9e47-98ab94e3620e",
+          "content": "\n"
+        },
+        {
+          "title": "2024 Proxy Statement",
+          "url": "https://investor.dallasnewscorp.com/static-files/0030d867-93e9-4316-bb13-5ad4d50a7e83",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

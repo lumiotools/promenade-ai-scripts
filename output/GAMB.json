@@ -1,0 +1,17 @@
+{
+  "symbol": "GAMB",
+  "company_name": "Gambling.com Group Ltd",
+  "ir_website": "https://www.gambling.com/corporate/investors/",
+  "structured_data": [
+    {
+      "section_name": "Debugging Information",
+      "links": [
+        {
+          "title": "Certificate Details",
+          "url": "https://www.gambling.com/error?type=SSL",
+          "content": "# Stop! This website is blocked \n\n#### The administrator of this network has restricted access to sites categorized as Gambling.If you think this is incorrect, you may [suggest a different category.](#)\n\n[ Return to previous page ](javascript:history.back\\(\\);) Login to network\n\n[About this request](javascript:toggleDiv\\('toggle_webcat'\\);)\n\nURL: https://www.gambling.com\n"
+        }
+      ]
+    }
+  ]
+}

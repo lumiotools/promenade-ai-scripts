@@ -1,0 +1,42 @@
+{
+  "symbol": "LCUT",
+  "company_name": "Lifetime Brands Inc",
+  "ir_website": "https://lifetimebrands.gcs-web.com/",
+  "structured_data": [
+    {
+      "section_name": "News Releases",
+      "links": [
+        {
+          "title": "Lifetime Brands, Inc. Reports Third Quarter 2024 Financial Results",
+          "url": "https://lifetimebrands.gcs-web.com/news-releases/news-release-details/lifetime-brands-inc-reports-third-quarter-2024-financial-results",
+          "content": ""
+        },
+        {
+          "title": "Lifetime Brands Announces Third Quarter 2024 Financial Results Release Date and Conference Call",
+          "url": "https://lifetimebrands.gcs-web.com/news-releases/news-release-details/lifetime-brands-announces-third-quarter-2024-financial-results",
+          "content": ""
+        },
+        {
+          "title": "Lifetime Brands Inc. Grows Commercial Food Services Business with Expansion of its Mikasa Hospitality Portfolio",
+          "url": "https://lifetimebrands.gcs-web.com/news-releases/news-release-details/lifetime-brands-inc-grows-commercial-food-services-business",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Lifetime Brands Investor Presentation – November 2024",
+          "url": "https://lifetimebrands.gcs-web.com/static-files/deec2e71-6558-4103-8e9f-7e4f52b24004",
+          "content": "\n"
+        },
+        {
+          "title": "2023 Annual Report",
+          "url": "https://lifetimebrands.gcs-web.com/static-files/4254205c-eeb0-4ff8-92e8-5dc030672aaa",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

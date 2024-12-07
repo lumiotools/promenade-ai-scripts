@@ -1,0 +1,47 @@
+{
+  "symbol": "IBCP",
+  "company_name": "Independent Bank Corp",
+  "ir_website": "https://ir.independentbank.com/corporate-profile/default.aspx",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Independent Bank Corporation Reports 2024 Third Quarter Results",
+          "url": "https://ir.independentbank.com/news-events/news/news-details/2024/Independent-Bank-Corporation-Reports-2024-Third-Quarter-Results/default.aspx",
+          "content": ""
+        },
+        {
+          "title": "Independent Bank Corporation Announces Quarterly Cash Dividend on Common Stock",
+          "url": "https://ir.independentbank.com/news-events/news/news-details/2024/Independent-Bank-Corporation-Announces-Quarterly-Cash-Dividend-on-Common-Stock-0bf06e107/default.aspx",
+          "content": ""
+        },
+        {
+          "title": "Independent Bank Corporation Announces Date for Its Third Quarter 2024 Earnings Release",
+          "url": "https://ir.independentbank.com/news-events/news/news-details/2024/Independent-Bank-Corporation-Announces-Date-for-Its-Third-Quarter-2024-Earnings-Release/default.aspx",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "section_name": "Filings & Financials",
+      "links": [
+        {
+          "title": "Latest 10-K",
+          "url": "https://ir.independentbank.com/filings-financials/documents-sec-filings-annual-report/sec-filings-details/default.aspx?FilingId=17354088",
+          "content": ""
+        },
+        {
+          "title": "Latest 10-Q",
+          "url": "https://ir.independentbank.com/filings-financials/documents-sec-filings-annual-report/sec-filings-details/default.aspx?FilingId=17941901",
+          "content": ""
+        },
+        {
+          "title": "Latest Annual Report",
+          "url": "https://s26.q4cdn.com/362478116/files/doc_financials/2023/ar/2023_Annual_Report_Book_Proof-E_VERSION_IndependentBank_Annual_Report_2023-Final-posted-to-IR-Website.pdf",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

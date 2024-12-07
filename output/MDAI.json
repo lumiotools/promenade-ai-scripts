@@ -4,7 +4,7 @@
   "ir_website": "https://investors.spectral-ai.com/",
   "structured_data": [
     {
-      "section_name": "Press Releases",
+      "section_name": "News Releases",
       "links": [
         {
           "title": "Spectral AI Announces Repricing of its Public Warrants",
@@ -24,11 +24,7 @@
       ]
     },
     {
-      "section_name": "Upcoming Events",
-      "links": []
-    },
-    {
-      "section_name": "Past Events",
+      "section_name": "Events",
       "links": [
         {
           "title": "Northeast Region Burn Conference",
@@ -44,20 +40,6 @@
           "title": "Midwest Region Burn Conference",
           "url": "https://investors.spectral-ai.com/events/event-details/midwest-region-burn-conference",
           "content": "[Skip to content](#lfg-main-content)\n\n![hero banner](/sites/g/files/knoqqb86571/themes/site/client_site_202/dist/images/masthead-2.jpg)\n\n# Event Details\n\n## Midwest Region Burn Conference\n\nOct 14 - Oct 16, 2024\n\nBooth # to come\n\n[Listen to webcast](https://www.chihealth.com/education/continuing-education-for-health-professionals/midwest-regional-burn-conference)\n\n### Location\n\nLincoln, NE\n"
-        }
-      ]
-    },
-    {
-      "section_name": "Financial Reports",
-      "links": []
-    },
-    {
-      "section_name": "Email Alerts",
-      "links": [
-        {
-          "title": "Sign Up for Email Alerts",
-          "url": "https://investors.spectral-ai.com/ir-resources/email-alerts",
-          "content": "[Skip to content](#lfg-main-content)\n\n![hero banner](/sites/g/files/knoqqb86571/themes/site/client_site_202/dist/images/masthead-2.jpg)\n\n# Email Alerts\n\nTo opt-in for investor email alerts, please select at least one alert option and enter your email address in the field below. After submitting your request, an activation email will be sent to the address provided. You must click the activation link in order to complete your subscription. You can sign up for additional alert options at any time. If you would like to opt out of email alerts, you can [unsubscribe here](/unsubscribe). \n\nRequired fields denoted by an asterisk ().\n\nHide lower priority columns\n\nAlert type  \n---  \nQuote  \nSEC Filing  \nEvent  \nNews  \nWeekly Summary  \n  \nEmail\n\nLeave this field blank\n"
         }
       ]
     }

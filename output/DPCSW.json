@@ -1,0 +1,47 @@
+{
+  "symbol": "DPCSW",
+  "company_name": "Dp Cap Acquisition Corp I WT",
+  "ir_website": "https://www.dpworld.com/en/investors",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.dpworld.com/-/media/project/dpwg/dpwg-tenant/corporate/global/media-files/annual-report-2023/final-web---dp-world-ar-2023-eng.pdf?rev=d60d85387b094302ace36d8f46a2b35c",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Announcements",
+      "links": [
+        {
+          "title": "DP World signs 30 year concession to operate port of Dar Es Salaam",
+          "url": "https://www.dpworld.com/-/media/project/dpwg/dpwg-tenant/corporate/global/media-files/investor-relations/regulatory-announcements/2023/2023_10_31_dp-world-signs-30-year-concession-in-tanzania---final.pdf?rev=a1e937ffa05541f8aff757046101690f&hash=980F7A2019304AC6B3A57878795A7937",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Supporting Documents",
+      "links": [
+        {
+          "title": "Annual Report 2023",
+          "url": "https://www.dpworld.com/-/media/project/dpwg/dpwg-tenant/corporate/global/media-files/annual-report-2023/final-web---dp-world-ar-2023-eng.pdf?rev=d60d85387b094302ace36d8f46a2b35c",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Investor Presentations",
+      "links": [
+        {
+          "title": "Investor Presentation 2024",
+          "url": "https://www.dpworld.com/-/media/project/dpwg/dpwg-tenant/corporate/global/media-files/investor-relations/financials-and-presentation/investor-presentations/2024/2024_11_dp-world_investor-presention.pdf?rev=ca275353697f4ade8de57b3b1d4e8161&hash=440EE8321B553AFFF1D6F14EA50DE57B",
+          "content": "\n"
+        }
+      ]
+    }
+  ]
+}

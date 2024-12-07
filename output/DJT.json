@@ -1,0 +1,52 @@
+{
+  "symbol": "DJT",
+  "company_name": "Trump Media & Technology Group Corp",
+  "ir_website": "https://www.trumpmedia.com/investor-relations",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release - 2024 Company Growth Strategy",
+          "url": "https://www.trumpmedia.com/press-release-2024-growth-strategy",
+          "content": null
+        },
+        {
+          "title": "Press Release - New Product Launch",
+          "url": "https://www.trumpmedia.com/press-release-new-product-launch",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Q1 2024 Financial Report",
+          "url": "https://www.trumpmedia.com/q1-2024-financial-report.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.trumpmedia.com', port=443): Max retries exceeded with url: /q1-2024-financial-report.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016AC8EE17F0>, 'Connection to www.trumpmedia.com timed out. (connect timeout=None)'))"
+        },
+        {
+          "title": "2023 Annual Report",
+          "url": "https://www.trumpmedia.com/2023-annual-report.pdf",
+          "content": "Error extracting PDF content: HTTPSConnectionPool(host='www.trumpmedia.com', port=443): Max retries exceeded with url: /2023-annual-report.pdf (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016AC8EE1370>, 'Connection to www.trumpmedia.com timed out. (connect timeout=None)'))"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "News Article - Growth in User Engagement",
+          "url": "https://www.trumpmedia.com/news-growth-user-engagement",
+          "content": null
+        },
+        {
+          "title": "News Article - Market Expansion",
+          "url": "https://www.trumpmedia.com/news-market-expansion",
+          "content": null
+        }
+      ]
+    }
+  ]
+}

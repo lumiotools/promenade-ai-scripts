@@ -1,0 +1,22 @@
+{
+  "symbol": "LIDRW",
+  "company_name": "Aeye Inc WT",
+  "ir_website": "https://investors.aeye.ai/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Company Acquires Innovative Technology to Enhance Autonomous Driving",
+          "url": "https://investors.aeye.ai/press-releases/company-acquires-innovative-technology",
+          "content": ""
+        },
+        {
+          "title": "AEYE Announces Partnership with Leading Automotive Manufacturer",
+          "url": "https://investors.aeye.ai/press-releases/partnership-leading-automotive-manufacturer",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

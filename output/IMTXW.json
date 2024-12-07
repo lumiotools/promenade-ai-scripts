@@ -1,0 +1,22 @@
+{
+  "symbol": "IMTXW",
+  "company_name": "Immatics NV WT",
+  "ir_website": "https://investors.immatics.com/",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Company Announces Phase 2 Data from Clinical Trial of IMC-001",
+          "url": "https://investors.immatics.com/press-releases/company-announces-phase-2-data-from-clinical-trial-of-imc-001",
+          "content": ""
+        },
+        {
+          "title": "Immatics to Present at the 2024 Annual Oncology Conference",
+          "url": "https://investors.immatics.com/press-releases/immatics-to-present-at-the-2024-annual-oncology-conference",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "symbol": "GGAL",
+  "company_name": "Grupo Fin Galicia ADR",
+  "ir_website": "https://www.gfgsa.com/en/financial-information",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Quarterly Results",
+          "url": "https://www.gfgsa.com/en/financial-information#quarterly-results",
+          "content": "  * [ES](/es/)\n  * |\n  * [EN](/en/)\n\n\n\n[![header logo]()](/en/)\n\nFinancial Information\n\n### Quarterly Results\n\nYear \n\nAll \n\nQuarter \n\nAll \n\n### Conference Call\n\n### Integrated Report\n\n### Financial statements\n\n### 20F\n"
+        },
+        {
+          "title": "Financial statements",
+          "url": "https://www.gfgsa.com/en/financial-information#financial-statements",
+          "content": "  * [ES](/es/)\n  * |\n  * [EN](/en/)\n\n\n\n[](/en/)\n\nFinancial Information\n\n### Quarterly Results\n\nYear \n\nAll \n\nQuarter \n\nAll \n\n### Conference Call\n\n### Integrated Report\n\n### Financial statements\n\n### 20F\n"
+        },
+        {
+          "title": "20F",
+          "url": "https://www.gfgsa.com/en/financial-information#20f",
+          "content": "  * [ES](/es/)\n  * |\n  * [EN](/en/)\n\n\n\n[](/en/)\n\nFinancial Information\n\n### Quarterly Results\n\nYear \n\nAll \n\nQuarter \n\nAll \n\n### Conference Call\n\n### Integrated Report\n\n### Financial statements\n\n### 20F\n"
+        },
+        {
+          "title": "Integrated Report",
+          "url": "https://www.gfgsa.com/en/financial-information#integrated-report",
+          "content": "  * [ES](/es/)\n  * |\n  * [EN](/en/)\n\n\n\n[![header logo]()](/en/)\n\nFinancial Information\n\n### Quarterly Results\n\nYear \n\nAll \n\nQuarter \n\nAll \n\n### Conference Call\n\n### Integrated Report\n\n### Financial statements\n\n### 20F\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Relevant Information",
+          "url": "https://www.gfgsa.com/en/relevant-info",
+          "content": "  * [ES](/es/)\n  * |\n  * [EN](/en/)\n\n\n\n[](/en/)\n\nRelevant Information\n\nYear \n\nAll \n\nMonth \n\nAll \n"
+        },
+        {
+          "title": "Shareholders Meeting",
+          "url": "https://www.gfgsa.com/en/shareholders-meeting",
+          "content": "  * [ES](/es/)\n  * |\n  * [EN](/en/)\n\n\n\n[](/en/)\n\nShareholder's Meeting\n\nYear \n\nAll \n"
+        }
+      ]
+    }
+  ]
+}

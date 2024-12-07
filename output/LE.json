@@ -1,0 +1,32 @@
+{
+  "symbol": "LE",
+  "company_name": "Lands' End Inc",
+  "ir_website": "https://www.annualreports.com/Company/lands-end-inc",
+  "structured_data": [
+    {
+      "section_name": "Most Recent Annual Report",
+      "links": [
+        {
+          "title": "2023 Annual Report and Form 10K",
+          "url": "https://www.annualreports.com/Click/19775",
+          "content": "\n"
+        }
+      ]
+    },
+    {
+      "section_name": "Older/Archived Annual Reports",
+      "links": [
+        {
+          "title": "2022 Annual Report",
+          "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/NASDAQ_LE_2022.pdf",
+          "content": ""
+        },
+        {
+          "title": "2021 Annual Report",
+          "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/l/NASDAQ_LE_2021.pdf",
+          "content": ""
+        }
+      ]
+    }
+  ]
+}

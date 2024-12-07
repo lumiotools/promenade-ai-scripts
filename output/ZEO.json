@@ -1,0 +1,52 @@
+{
+  "symbol": "ZEO",
+  "company_name": "Zeo Energy Corp",
+  "ir_website": "https://investors.zeoenergy.com/management-team",
+  "structured_data": [
+    {
+      "section_name": "Press Releases",
+      "links": [
+        {
+          "title": "Press Release - New Initiatives Announced",
+          "url": "https://investors.zeoenergy.com/press-releases/new-initiatives-announced",
+          "content": null
+        },
+        {
+          "title": "Press Release - Record Earnings for Q1 2024",
+          "url": "https://investors.zeoenergy.com/press-releases/record-earnings-q1-2024",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "Earnings Reports",
+      "links": [
+        {
+          "title": "Earnings Report Q1 2024",
+          "url": "https://investors.zeoenergy.com/earnings-reports/q1-2024",
+          "content": null
+        },
+        {
+          "title": "Earnings Report Q4 2023",
+          "url": "https://investors.zeoenergy.com/earnings-reports/q4-2023",
+          "content": null
+        }
+      ]
+    },
+    {
+      "section_name": "SEC Filings",
+      "links": [
+        {
+          "title": "Annual Report 2023",
+          "url": "https://investors.zeoenergy.com/sec-filings/annual-report-2023",
+          "content": null
+        },
+        {
+          "title": "Form 10-K for 2023",
+          "url": "https://investors.zeoenergy.com/sec-filings/10-k-2023",
+          "content": null
+        }
+      ]
+    }
+  ]
+}
