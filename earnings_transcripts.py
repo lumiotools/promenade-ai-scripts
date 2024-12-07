@@ -72,7 +72,7 @@ async def process_transcripts_links(transcripts_links,site_url,symbol):
                         document = Document(doc_id=url, text=content)
                         document.metadata.update({
                             "symbol": symbol,
-                            "earnings_website": site_url,
+                            "earnings_call_website": site_url,
                             "title": transcript["title"],
                             "url": url
                             })
