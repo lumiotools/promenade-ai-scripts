@@ -1,0 +1,32 @@
+{
+  "symbol": "MNSB",
+  "company_name": "Mainstreet Bank",
+  "ir_website": "https://www.mymainstreetbank.bank/RESOURCES/OUR-BANK/Investor-Relations",
+  "structured_data": [
+    {
+      "section_name": "Financial Reports",
+      "links": [
+        {
+          "title": "Annual Report 2024",
+          "url": "https://www.mymainstreetbank.bank/annual-report-2024.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.mymainstreetbank.bank/annual-report-2024.pdf"
+        }
+      ]
+    },
+    {
+      "section_name": "News Articles",
+      "links": [
+        {
+          "title": "Q1 2024 Earnings Release",
+          "url": "https://www.mymainstreetbank.bank/q1-2024-earnings-release.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.mymainstreetbank.bank/q1-2024-earnings-release.pdf"
+        },
+        {
+          "title": "Press Release: New Branch Opening 2024",
+          "url": "https://www.mymainstreetbank.bank/new-branch-opening-2024.pdf",
+          "content": "Error extracting PDF content: 403 Client Error: Forbidden for url: https://www.mymainstreetbank.bank/new-branch-opening-2024.pdf"
+        }
+      ]
+    }
+  ]
+}
