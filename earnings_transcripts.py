@@ -9,7 +9,6 @@ from scrapers.initialize import initialize_browser
 from scrapers.scrape_page import scrape_page
 from scrapers.process_section import process_section_data
 from ai.get_ir_website import get_ir_website
-from ai.process_ir_page import analyze_html_with_openai
 from scrapers.process_section import process_link
 from crawl4ai import AsyncWebCrawler
 from parse_html_and_get_links import analyze_html_with_openai
