@@ -24,4 +24,5 @@ def get_ir_website(driver, companyName):
             {"role": "user", "content": f"Can you help me find the correct investor relations website of {companyName} forn the below urls: " + str(websiteUrls)},
         ])
 
-    return response.choices[0].message.parsed.url
+    websiteUrl = response.choices[0].message.parsed.url
+    return websiteUrl if websiteUrl in websiteUrls else None

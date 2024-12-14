@@ -3,7 +3,7 @@ import pdfplumber
 
 def extract_pdf_content(pdf_url):
     try:
-        response = requests.get(pdf_url,headers={'User-Agent': 'Mozilla/5.0'})
+        response = requests.get(pdf_url,headers={'User-Agent': 'Mozilla/5.0'},timeout=30)
         response.raise_for_status()
         with open("temp.pdf", "wb") as file:
             file.write(response.content)

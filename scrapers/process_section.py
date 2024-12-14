@@ -4,6 +4,7 @@ from ai.process_ir_page import analyze_page_content_with_openai
 
 
 async def process_link(crawler, link):
+    print(f"Processing link: {link}")
     if link.endswith(".pdf"):
         return extract_pdf_content(link)
     else:
@@ -30,6 +31,9 @@ async def process_section_data(sections):
                 try:
                     # Scrape content for each link
                     content = await process_link(crawler, link["url"])
+                    if len(content) < 1000:
+                        continue
+                    
                     section_output["links"].append({
                         "title": link["title"],
                         "url": link["url"],
@@ -37,18 +41,18 @@ async def process_section_data(sections):
                     })
                     
                     
-                    internal_links = analyze_page_content_with_openai(content,link["url"])
+                    # internal_links = analyze_page_content_with_openai(content,link["url"])
                     
-                    print(f"Found Internal links: {len(internal_links)}")
+                    # print(f"Found Internal links: {len(internal_links)}")
                     
-                    for internal_link in internal_links:
-                        # Scrape content for each link
-                        internal_content = await process_link(crawler, internal_link["url"])
-                        section_output["links"].append({
-                            "title": internal_link["title"],
-                            "url": internal_link["url"],
-                            "content": internal_content
-                        })
+                    # for internal_link in internal_links:
+                    #     # Scrape content for each link
+                    #     internal_content = await process_link(crawler, internal_link["url"])
+                    #     section_output["links"].append({
+                    #         "title": internal_link["title"],
+                    #         "url": internal_link["url"],
+                    #         "content": internal_content
+                    #     })
                         
                 except Exception as e:
                     # Handle potential errors during link processing
