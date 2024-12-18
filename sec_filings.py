@@ -5,7 +5,7 @@ import logging
 import asyncio
 from typing import Dict, Optional, Any
 from scrapers.initialize import initialize_browser
-from scrapers.list_sec_filings import list_sec_filings
+from scrapers.list_sec_filings import list_prev_3_years_sec_filings
 from scrapers.process_section import process_sec_filings
 from pinecone import Pinecone
 from llama_index.vector_stores.pinecone import PineconeVectorStore
@@ -83,7 +83,9 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
     try:
         logging.info(f"Processing sec filing: {symbol} - {company_name}")
 
-        sec_filings = list_sec_filings(symbol)
+        sec_filings = list_prev_3_years_sec_filings(symbol)
+        
+        print(f"length of sec_filings: {len(sec_filings)}")
         
         final_sec_filings = []
         
