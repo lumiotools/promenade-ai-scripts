@@ -98,7 +98,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
 
         filings_content = await process_sec_filings(final_sec_filings, symbol)
         
-        documents = []
+        # documents = []
 
         for filing in filings_content:
             
@@ -114,13 +114,13 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
                 "url": filing["url"],
             })
             
-            documents.append(document)
+            # documents.append(document)
             
-        try:
-            pipeline.run(documents=documents)
-            logging.info(f"Indexed {company_name}")
-        except Exception as e:
-            logging.error(f"Error indexing {company_name}: {e}")
+            try:
+                pipeline.run(documents=[document],show_progress=True)
+                logging.info(f"Indexed {company_name} {filing["filed"]} {filing["form_type"]}")
+            except Exception as e:
+                logging.error(f"Error indexing {company_name}: {e}")
 
         return True
 
