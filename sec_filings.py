@@ -172,7 +172,13 @@ async def main(input_csv: str):
     logging.info(f"Processed {len(results)} stocks in total.")
 
 if __name__ == "__main__":
-    INPUT_CSV = './data/companies_part3.4.csv'
+    filename = os.getenv("FILENAME")
+    
+    if not filename:
+        logging.error("No filename provided.")
+        exit(1)
+        
+    INPUT_CSV = f'./data/{filename}'
 
     logging.info("Starting stock processing script.")
     asyncio.run(main(INPUT_CSV))
