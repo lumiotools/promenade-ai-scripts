@@ -11,7 +11,7 @@ def list_sec_filings(symbol: str):
     Returns:
         dict: Dictionary with form types as keys and their latest filing as values.
     """
-    base_url = f"https://api.nasdaq.com/api/company/{symbol.upper().replace("-","%25sl%25")}/sec-filings?sortColumn=filed&sortOrder=desc"
+    base_url = f"https://api.nasdaq.com/api/company/{symbol.upper().replace('-','%25sl%25')}/sec-filings?sortColumn=filed&sortOrder=desc"
     print(f"Fetching data from: {base_url}")
     
     response = requests.get(base_url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
@@ -50,7 +50,7 @@ def list_prev_3_years_sec_filings(symbol: str):
     years = ["2023", "2022", "2021"]
     form_groups = ["Annual Reports","Quarterly Reports","Insider Transactions","8-K Related","Registration Statements","Comment Letters"]
     
-    base_url = f"https://api.nasdaq.com/api/company/{symbol.upper().replace("-", "%25sl%25")}/sec-filings?sortColumn=filed&sortOrder=desc"
+    base_url = f"https://api.nasdaq.com/api/company/{symbol.upper().replace('-', '%25sl%25')}/sec-filings?sortColumn=filed&sortOrder=desc"
         
     filings = list_sec_filings(symbol)
     for year in years:
