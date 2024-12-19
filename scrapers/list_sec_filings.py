@@ -1,6 +1,14 @@
 import requests
 from urllib import parse
 
+headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+        "Accept":"*/*",
+        "Accept-Encoding":"gzip, deflate, br",
+        "Connection":"keep-alive",
+        "Cookie":""
+    }
+
 def list_sec_filings(symbol: str):
     """
     Fetch and filter SEC filings for a given symbol, returning only the latest filing for each form type.
@@ -14,7 +22,7 @@ def list_sec_filings(symbol: str):
     base_url = f"https://api.nasdaq.com/api/company/{symbol.upper().replace('-','%25sl%25')}/sec-filings?sortColumn=filed&sortOrder=desc"
     print(f"Fetching data from: {base_url}")
     
-    response = requests.get(base_url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
+    response = requests.get(base_url, timeout=10, headers=headers)
     body = response.json()
     
     if body["status"]["rCode"] != 200:
@@ -60,8 +68,7 @@ def list_prev_3_years_sec_filings(symbol: str):
         
             print(f"Fetching data from: {base_url_2}")
 
-            response = requests.get(base_url_2, timeout=15, headers={
-                                    "User-Agent": "Mozilla/5.0"})
+            response = requests.get(base_url_2, timeout=15, headers=headers)
             body = response.json()
 
             if body["status"]["rCode"] != 200:
