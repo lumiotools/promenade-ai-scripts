@@ -74,6 +74,8 @@ async def process_sec_filings(filings,symbol):
             try:
                 # Scrape content for each link
                 content = await process_link(crawler, filing["view"]["htmlLink"])
+                if "Filing document only available in pdf" in content:
+                    continue
                 output.append({
                     "sec_filing_website": secFilingWebsite,
                     "form_type": filing["formType"],

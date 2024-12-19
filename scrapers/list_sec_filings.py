@@ -54,13 +54,13 @@ def list_prev_3_years_sec_filings(symbol: str):
         
     filings = list_sec_filings(symbol)
     for year in years:
-        base_url += f"&Year={year}"
+        base_url_1 = base_url + f"&Year={year}"
         for form_group in form_groups:
-            base_url += f"&FormGroup={form_group}"
+            base_url_2 = base_url_1 + f"&FormGroup={form_group}"
         
-            print(f"Fetching data from: {base_url}")
+            print(f"Fetching data from: {base_url_2}")
 
-            response = requests.get(base_url, timeout=15, headers={
+            response = requests.get(base_url_2, timeout=15, headers={
                                     "User-Agent": "Mozilla/5.0"})
             body = response.json()
 

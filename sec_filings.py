@@ -100,7 +100,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         
         # documents = []
 
-        for filing in filings_content:
+        for index,filing in enumerate(filings_content):
             
             content = f"Company: {company_name}\nsec_filing_form_type: {filing['form_type']}\nfiled_on: {filing['filed']}\nperiod: {filing['period']}\nURL: {filing['url']}\nContent: {filing['content']}"
             document = Document(doc_id=filing["url"], text=content)
@@ -118,9 +118,10 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
             
             try:
                 pipeline.run(documents=[document],show_progress=True)
-                logging.info(f"Indexed {company_name} {filing["filed"]} {filing["form_type"]}")
+                logging.info(f"{index+1}/{len(filings_content)} Indexed {company_name} {filing["filed"]} {filing["form_type"]}")
             except Exception as e:
-                logging.error(f"Error indexing {company_name}: {e}")
+                logging.error(f"{index+1}/{len(filings_content)} Error indexing {company_name} {filing["filed"]} {filing["form_type"]}: {e}")
+                continue
 
         return True
 
