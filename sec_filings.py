@@ -37,7 +37,7 @@ pipeline = IngestionPipeline(
     transformations=[
         SemanticSplitterNodeParser(
             buffer_size=1,
-            breakpoint_percentile_threshold=90,
+            breakpoint_percentile_threshold=85,
             embed_model=embed_model,
         ),
         embed_model,
