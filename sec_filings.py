@@ -13,6 +13,9 @@ from llama_index.core.node_parser import SemanticSplitterNodeParser
 from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.core.ingestion import IngestionPipeline
 from llama_index.core import Document
+import sys
+
+sys.setrecursionlimit(999999999)
 
 logging.basicConfig(
     level=logging.INFO,
