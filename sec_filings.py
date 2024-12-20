@@ -95,12 +95,17 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
                 continue
             else:
                 final_sec_filings.append(filing)
-
-        filings_content = await process_sec_filings(final_sec_filings, symbol)
-        
-        # documents = []
-
-        for index,filing in enumerate(filings_content):
+                
+        for index, filing in enumerate(final_sec_filings):
+            logging.info(f"{index+1}/{len(final_sec_filings)} Indexing {company_name}  {filing['filed']} {filing['formType']}")
+            
+            filings_content = await process_sec_filings([filing], symbol)
+            
+            if len(filings_content) == 0:
+                logging.info(f"{index+1}/{len(final_sec_filings)} Content not found for {company_name}  {filing['filed']} {filing['formType']}")
+                continue
+            
+            filing = filings_content[0]
             
             content = f"Company: {company_name}\nsec_filing_form_type: {filing['form_type']}\nfiled_on: {filing['filed']}\nperiod: {filing['period']}\nURL: {filing['url']}\nContent: {filing['content']}"
             document = Document(doc_id=filing["url"], text=content)
@@ -114,14 +119,40 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
                 "url": filing["url"],
             })
             
-            # documents.append(document)
-            
             try:
                 pipeline.run(documents=[document],show_progress=True)
-                logging.info(f"{index+1}/{len(filings_content)} Indexed {company_name} {filing['filed']} {filing['form_type']}")
+                logging.info(f"{index+1}/{len(final_sec_filings)} Indexed {company_name} {filing['filed']} {filing['form_type']}")
             except Exception as e:
-                logging.error(f"{index+1}/{len(filings_content)} Error indexing {company_name} {filing['filed']} {filing['form_type']}: {e}")
+                logging.error(f"{index+1}/{len(final_sec_filings)} Error indexing {company_name} {filing['filed']} {filing['form_type']}: {e}")
                 continue
+            
+
+        # filings_content = await process_sec_filings(final_sec_filings, symbol)
+        
+        # # documents = []
+
+        # for index,filing in enumerate(filings_content):
+            
+        #     content = f"Company: {company_name}\nsec_filing_form_type: {filing['form_type']}\nfiled_on: {filing['filed']}\nperiod: {filing['period']}\nURL: {filing['url']}\nContent: {filing['content']}"
+        #     document = Document(doc_id=filing["url"], text=content)
+        #     document.metadata.update({
+        #         "symbol": symbol,
+        #         "company_name": company_name,
+        #         "sec_filing_website": filing["sec_filing_website"],
+        #         "form_type": filing["form_type"],
+        #         "filed": filing["filed"],
+        #         "period": filing["period"],
+        #         "url": filing["url"],
+        #     })
+            
+        #     # documents.append(document)
+            
+        #     try:
+        #         pipeline.run(documents=[document],show_progress=True)
+        #         logging.info(f"{index+1}/{len(filings_content)} Indexed {company_name} {filing['filed']} {filing['form_type']}")
+        #     except Exception as e:
+        #         logging.error(f"{index+1}/{len(filings_content)} Error indexing {company_name} {filing['filed']} {filing['form_type']}: {e}")
+        #         continue
 
         return True
 
