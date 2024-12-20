@@ -179,7 +179,6 @@ async def main(input_csv: str, start: int):
 
             csvreader = csv.reader(csvfile)
 
-            count = 0
             for index, row in enumerate(csvreader):
                 if index < start:
                     continue
@@ -195,8 +194,7 @@ async def main(input_csv: str, start: int):
                     sec_filing_indexing_done = await index_sec_filings(symbol, company_name)
 
                     if sec_filing_indexing_done:
-                        count += 1
-                        logging.info(f"Processed {count} stocks so far.")
+                        logging.info(f"Processed {index} stocks so far.")
 
                     # if count >= 1:
                     #     logging.info(f"Processing limit reached (10 stocks).")
