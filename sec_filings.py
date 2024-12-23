@@ -123,7 +123,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
             })
             
             try:
-                pipeline.run(documents=[document],show_progress=True,num_workers=2)
+                pipeline.run(documents=[document],show_progress=True)
                 logging.info(f"{index+1}/{len(final_sec_filings)} Indexed {company_name} {filing['filed']} {filing['form_type']}")
             except Exception as e:
                 logging.error(f"{index+1}/{len(final_sec_filings)} Error indexing {company_name} {filing['filed']} {filing['form_type']}: {e}")
