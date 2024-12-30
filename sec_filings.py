@@ -164,7 +164,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         return None
 
 
-async def main(input_csv: str, start: int):
+async def main(input_csv: str, start: int, end: int):
     """
     Process all stocks from CSV and store results in JSON.
 
@@ -183,7 +183,7 @@ async def main(input_csv: str, start: int):
             csvreader = csv.reader(csvfile)
 
             for index, row in enumerate(csvreader):
-                if index < start:
+                if index < start or index > end:
                     continue
                 
                 if len(row) >= 2:
@@ -210,6 +210,7 @@ async def main(input_csv: str, start: int):
 if __name__ == "__main__":
     filename = os.getenv("FILENAME")
     start = int(os.getenv("START") or 0)
+    end = int(os.getenv("END") or 9999)
     
     if not filename:
         logging.error("No filename provided.")
@@ -218,5 +219,5 @@ if __name__ == "__main__":
     INPUT_CSV = f'./data/{filename}'
 
     logging.info("Starting stock processing script.")
-    asyncio.run(main(INPUT_CSV,start))
+    asyncio.run(main(INPUT_CSV,start,end))
     logging.info("Script execution completed.")
