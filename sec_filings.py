@@ -49,12 +49,12 @@ pipeline = IngestionPipeline(
 )
 
 
-def isIndexed(filing):
+def isIndexed(symbol, filing):
     query_response = pinecone_index.query(
         vector=[0] * 1536,  # Zero vector of appropriate dimensionality
         # Your metadata filter
         filter={
-
+            "symbol": {"$eq": symbol},
             "form_type": {"$eq": filing["formType"]},
             "filed": {"$eq": filing["filed"]},
             "period": {"$eq": filing["period"]},
@@ -93,7 +93,7 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
         final_sec_filings = []
         
         for filing in sec_filings:
-            if isIndexed(filing):
+            if isIndexed(symbol,filing):
                 logging.info(f"Already indexed {filing['view']['htmlLink']} for {company_name}")
                 continue
             else:
