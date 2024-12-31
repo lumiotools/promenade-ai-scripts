@@ -96,6 +96,9 @@ async def index_sec_filings(symbol: str, company_name: str) -> bool:
             if isIndexed(symbol,filing):
                 logging.info(f"Already indexed {filing['view']['htmlLink']} for {company_name}")
                 continue
+            if filing["formType"] == "NPORT-P":
+                logging.info(f"Skipping NPORT-P filing for {company_name}")
+                continue
             else:
                 final_sec_filings.append(filing)
                 
